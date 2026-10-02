@@ -4,18 +4,45 @@
   "events": [
     {
       "year": 1519,
-      "text": "Ferdinand Magellan sets sail from Spain on the first voyage around the world."
+      "text": "Ferdinand Magellan sets sail from Spain on the first voyage around the world.",
+      "category": "science"
     },
     {
       "year": 1792,
-      "text": "Battle of Valmy: French revolutionary troops halt the Prussian invasion."
+      "text": "Battle of Valmy: French revolutionary troops halt the Prussian invasion.",
+      "category": "conflict"
+    },
+    {
+      "year": 1946,
+      "text": "The first Cannes Film Festival opens.",
+      "category": "news"
+    },
+    {
+      "year": 1967,
+      "text": "The ocean liner Queen Elizabeth 2 is launched in Scotland.",
+      "category": "news"
     },
     {
       "year": 1973,
-      "text": "Billie Jean King beats Bobby Riggs in the \"Battle of the Sexes\" tennis match."
+      "text": "Billie Jean King beats Bobby Riggs in the \"Battle of the Sexes\" tennis match.",
+      "category": "news"
+    },
+    {
+      "year": 1977,
+      "text": "Vietnam joins the United Nations.",
+      "category": "conflict"
+    },
+    {
+      "year": 2001,
+      "text": "President George W. Bush declares a \"war on terror\" in an address to Congress.",
+      "category": "conflict"
     }
   ],
   "births": [
+    {
+      "year": 1878,
+      "text": "Upton Sinclair, American author"
+    },
     {
       "year": 1934,
       "text": "Sophia Loren, Italian actress"

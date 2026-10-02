@@ -71,4 +71,8 @@ Lists the days that have data: `{ "version": 1, "days": ["09-01", …] }`.
 
 ## Current coverage
 
-Every day in September and October.
+Every day in September and October: 633 stories in total (152 headlines, 125
+space/science, 181 turning points, 182 birthdays) plus what each day is known
+as. Every event has an explicit `category`. Many days still have only 1–2
+Space or Headlines stories, and these stories were written without checking
+sources, so please review them before you rely on them.

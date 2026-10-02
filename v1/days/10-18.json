@@ -5,16 +5,39 @@
   ],
   "events": [
     {
+      "year": 1748,
+      "text": "The Treaty of Aix-la-Chapelle ends the War of the Austrian Succession.",
+      "category": "conflict"
+    },
+    {
       "year": 1867,
-      "text": "The United States formally takes possession of Alaska from Russia."
+      "text": "The United States formally takes possession of Alaska from Russia.",
+      "category": "news"
     },
     {
       "year": 1922,
-      "text": "The British Broadcasting Company (BBC) is founded."
+      "text": "The British Broadcasting Company (BBC) is founded.",
+      "category": "news"
+    },
+    {
+      "year": 1954,
+      "text": "Texas Instruments announces the first transistor radio.",
+      "category": "science"
+    },
+    {
+      "year": 1958,
+      "text": "Tennis for Two, one of the first video games, is demonstrated in New York.",
+      "category": "science"
     },
     {
       "year": 1967,
-      "text": "The Soviet probe Venera 4 enters the atmosphere of Venus."
+      "text": "The Soviet probe Venera 4 enters the atmosphere of Venus.",
+      "category": "science"
+    },
+    {
+      "year": 1977,
+      "text": "West German commandos free the hostages on hijacked Lufthansa Flight 181 in Mogadishu.",
+      "category": "conflict"
     }
   ],
   "births": [
@@ -25,6 +48,10 @@
     {
       "year": 1960,
       "text": "Jean-Claude Van Damme, Belgian actor"
+    },
+    {
+      "year": 1984,
+      "text": "Freida Pinto, Indian actress"
     }
   ],
   "deaths": [

@@ -6,15 +6,33 @@
   "events": [
     {
       "year": 1307,
-      "text": "Hundreds of Knights Templar are arrested across France."
+      "text": "Hundreds of Knights Templar are arrested across France.",
+      "category": "conflict"
     },
     {
       "year": 1792,
-      "text": "The cornerstone of the White House is laid in Washington, D.C."
+      "text": "The cornerstone of the White House is laid in Washington, D.C.",
+      "category": "news"
+    },
+    {
+      "year": 1812,
+      "text": "Battle of Queenston Heights in the War of 1812.",
+      "category": "conflict"
+    },
+    {
+      "year": 1943,
+      "text": "Italy declares war on its former ally Germany.",
+      "category": "conflict"
     },
     {
       "year": 1972,
-      "text": "Uruguayan Air Force Flight 571 crashes in the Andes."
+      "text": "Uruguayan Air Force Flight 571 crashes in the Andes.",
+      "category": "news"
+    },
+    {
+      "year": 2010,
+      "text": "The last of 33 trapped miners is rescued in Chile after 69 days underground.",
+      "category": "news"
     }
   ],
   "births": [
@@ -25,6 +43,10 @@
     {
       "year": 1941,
       "text": "Paul Simon, American singer-songwriter"
+    },
+    {
+      "year": 1959,
+      "text": "Marie Osmond, American singer"
     }
   ],
   "deaths": []

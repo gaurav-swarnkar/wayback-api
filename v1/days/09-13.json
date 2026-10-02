@@ -4,15 +4,43 @@
   "events": [
     {
       "year": 1759,
-      "text": "Battle of the Plains of Abraham: British forces defeat the French at Quebec."
+      "text": "Battle of the Plains of Abraham: British forces defeat the French at Quebec.",
+      "category": "conflict"
+    },
+    {
+      "year": 1788,
+      "text": "The Congress of the Confederation sets the date for the first U.S. presidential election.",
+      "category": "conflict"
     },
     {
       "year": 1814,
-      "text": "The British bombardment of Fort McHenry begins, inspiring \"The Star-Spangled Banner\"."
+      "text": "The British bombardment of Fort McHenry begins, inspiring \"The Star-Spangled Banner\".",
+      "category": "conflict"
+    },
+    {
+      "year": 1848,
+      "text": "Railroad worker Phineas Gage survives an iron rod through his skull, a landmark case for brain science.",
+      "category": "science"
+    },
+    {
+      "year": 1922,
+      "text": "A temperature of 58 °C is recorded at Al Aziziya, Libya; it was later ruled invalid.",
+      "category": "science"
+    },
+    {
+      "year": 1985,
+      "text": "Nintendo releases Super Mario Bros. in Japan.",
+      "category": "news"
+    },
+    {
+      "year": 1987,
+      "text": "A radioactive source is taken from an abandoned clinic in Goiânia, Brazil, causing a contamination disaster.",
+      "category": "science"
     },
     {
       "year": 1993,
-      "text": "The Oslo I Accord is signed by Israel and the Palestine Liberation Organization."
+      "text": "The Oslo I Accord is signed by Israel and the Palestine Liberation Organization.",
+      "category": "conflict"
     }
   ],
   "births": [
@@ -23,6 +51,10 @@
     {
       "year": 1916,
       "text": "Roald Dahl, British author"
+    },
+    {
+      "year": 1944,
+      "text": "Jacqueline Bisset, English actress"
     }
   ],
   "deaths": [

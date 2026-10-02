@@ -5,22 +5,39 @@
   ],
   "events": [
     {
+      "year": 1899,
+      "text": "The Second Boer War begins in South Africa.",
+      "category": "conflict"
+    },
+    {
       "year": 1962,
-      "text": "Pope John XXIII opens the Second Vatican Council."
+      "text": "Pope John XXIII opens the Second Vatican Council.",
+      "category": "news"
     },
     {
       "year": 1968,
-      "text": "NASA launches Apollo 7, the first crewed Apollo mission."
+      "text": "NASA launches Apollo 7, the first crewed Apollo mission.",
+      "category": "science"
+    },
+    {
+      "year": 1975,
+      "text": "Saturday Night Live premieres on NBC.",
+      "category": "news"
     },
     {
       "year": 1984,
-      "text": "Kathryn Sullivan becomes the first American woman to walk in space."
+      "text": "Kathryn Sullivan becomes the first American woman to walk in space.",
+      "category": "science"
     }
   ],
   "births": [
     {
       "year": 1884,
       "text": "Eleanor Roosevelt, American First Lady and diplomat"
+    },
+    {
+      "year": 1918,
+      "text": "Jerome Robbins, American choreographer"
     },
     {
       "year": 1942,

@@ -6,25 +6,58 @@
   "events": [
     {
       "year": 1356,
-      "text": "Battle of Poitiers: the English capture King John II of France."
+      "text": "Battle of Poitiers: the English capture King John II of France.",
+      "category": "conflict"
     },
     {
       "year": 1783,
-      "text": "The Montgolfier brothers fly a sheep, a duck and a rooster in a hot-air balloon at Versailles."
+      "text": "The Montgolfier brothers fly a sheep, a duck and a rooster in a hot-air balloon at Versailles.",
+      "category": "science"
     },
     {
       "year": 1893,
-      "text": "New Zealand becomes the first country to give women the vote in national elections."
+      "text": "New Zealand becomes the first country to give women the vote in national elections.",
+      "category": "conflict"
+    },
+    {
+      "year": 1957,
+      "text": "The United States carries out the first underground nuclear test, in Nevada.",
+      "category": "science"
+    },
+    {
+      "year": 1982,
+      "text": "Scott Fahlman posts the first smiley emoticon :-) on a university message board.",
+      "category": "science"
+    },
+    {
+      "year": 1983,
+      "text": "Saint Kitts and Nevis gains independence from the United Kingdom.",
+      "category": "conflict"
+    },
+    {
+      "year": 1985,
+      "text": "A magnitude 8.0 earthquake strikes Mexico City.",
+      "category": "news"
     },
     {
       "year": 1991,
-      "text": "Ötzi the Iceman, a 5,300-year-old mummy, is discovered in the Alps."
+      "text": "Ötzi the Iceman, a 5,300-year-old mummy, is discovered in the Alps.",
+      "category": "science"
+    },
+    {
+      "year": 2017,
+      "text": "Another powerful earthquake strikes central Mexico on the same date, 32 years later.",
+      "category": "news"
     }
   ],
   "births": [
     {
       "year": 1934,
       "text": "Brian Epstein, manager of the Beatles"
+    },
+    {
+      "year": 1949,
+      "text": "Twiggy, English model"
     },
     {
       "year": 1974,

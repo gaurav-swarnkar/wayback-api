@@ -6,21 +6,53 @@
   "events": [
     {
       "year": 1846,
-      "text": "Elias Howe is granted a patent for the sewing machine."
+      "text": "Elias Howe is granted a patent for the sewing machine.",
+      "category": "science"
+    },
+    {
+      "year": 1919,
+      "text": "The Treaty of Saint-Germain dissolves the Austro-Hungarian Empire.",
+      "category": "conflict"
+    },
+    {
+      "year": 1939,
+      "text": "Canada declares war on Germany.",
+      "category": "conflict"
+    },
+    {
+      "year": 1945,
+      "text": "Norwegian collaborator Vidkun Quisling is sentenced to death.",
+      "category": "conflict"
+    },
+    {
+      "year": 1960,
+      "text": "Abebe Bikila of Ethiopia wins the Olympic marathon in Rome running barefoot.",
+      "category": "news"
     },
     {
       "year": 1977,
-      "text": "The guillotine is used for the last time in France."
+      "text": "The guillotine is used for the last time in France.",
+      "category": "news"
+    },
+    {
+      "year": 1993,
+      "text": "The X-Files premieres on Fox.",
+      "category": "news"
     },
     {
       "year": 2008,
-      "text": "The Large Hadron Collider at CERN circulates its first proton beam."
+      "text": "The Large Hadron Collider at CERN circulates its first proton beam.",
+      "category": "news"
     }
   ],
   "births": [
     {
       "year": 1929,
       "text": "Arnold Palmer, American golfer"
+    },
+    {
+      "year": 1945,
+      "text": "José Feliciano, Puerto Rican singer"
     },
     {
       "year": 1960,

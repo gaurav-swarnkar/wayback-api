@@ -5,26 +5,64 @@
   ],
   "events": [
     {
+      "year": 1630,
+      "text": "Puritan settlers found the city of Boston.",
+      "category": "news"
+    },
+    {
       "year": 1812,
-      "text": "Battle of Borodino: Napoleon's army fights the Russians outside Moscow."
+      "text": "Battle of Borodino: Napoleon's army fights the Russians outside Moscow.",
+      "category": "conflict"
     },
     {
       "year": 1822,
-      "text": "Brazil declares independence from Portugal."
+      "text": "Brazil declares independence from Portugal.",
+      "category": "conflict"
+    },
+    {
+      "year": 1901,
+      "text": "The Boxer Protocol is signed in Beijing, ending the Boxer Rebellion.",
+      "category": "conflict"
+    },
+    {
+      "year": 1921,
+      "text": "The first Miss America pageant is held in Atlantic City.",
+      "category": "news"
+    },
+    {
+      "year": 1927,
+      "text": "Philo Farnsworth transmits the first fully electronic television image.",
+      "category": "science"
+    },
+    {
+      "year": 1936,
+      "text": "The last known thylacine, or Tasmanian tiger, dies at Hobart Zoo.",
+      "category": "science"
     },
     {
       "year": 1940,
-      "text": "The Blitz begins as Germany starts bombing London."
+      "text": "The Blitz begins as Germany starts bombing London.",
+      "category": "conflict"
     },
     {
       "year": 1977,
-      "text": "The Torrijos–Carter Treaties on the Panama Canal are signed."
+      "text": "The Torrijos–Carter Treaties on the Panama Canal are signed.",
+      "category": "conflict"
+    },
+    {
+      "year": 1979,
+      "text": "The sports network ESPN goes on the air.",
+      "category": "news"
     }
   ],
   "births": [
     {
       "year": 1533,
       "text": "Elizabeth I, Queen of England"
+    },
+    {
+      "year": 1930,
+      "text": "Sonny Rollins, American jazz saxophonist"
     },
     {
       "year": 1936,

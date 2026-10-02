@@ -5,22 +5,44 @@
   ],
   "events": [
     {
+      "year": 1827,
+      "text": "Battle of Navarino: an allied fleet destroys the Ottoman-Egyptian navy.",
+      "category": "conflict"
+    },
+    {
       "year": 1944,
-      "text": "General Douglas MacArthur lands at Leyte in the Philippines."
+      "text": "General Douglas MacArthur lands at Leyte in the Philippines.",
+      "category": "conflict"
+    },
+    {
+      "year": 1968,
+      "text": "Jacqueline Kennedy marries Greek shipping magnate Aristotle Onassis.",
+      "category": "news"
     },
     {
       "year": 1973,
-      "text": "Queen Elizabeth II opens the Sydney Opera House."
+      "text": "Queen Elizabeth II opens the Sydney Opera House.",
+      "category": "news"
+    },
+    {
+      "year": 1973,
+      "text": "Saturday Night Massacre: Richard Nixon orders the firing of the Watergate special prosecutor.",
+      "category": "conflict"
     },
     {
       "year": 2011,
-      "text": "Former Libyan leader Muammar Gaddafi is killed in Sirte."
+      "text": "Former Libyan leader Muammar Gaddafi is killed in Sirte.",
+      "category": "conflict"
     }
   ],
   "births": [
     {
       "year": 1632,
       "text": "Christopher Wren, English architect of St Paul's Cathedral"
+    },
+    {
+      "year": 1874,
+      "text": "Charles Ives, American composer"
     },
     {
       "year": 1971,

@@ -6,11 +6,38 @@
   "events": [
     {
       "year": 1904,
-      "text": "The New York City Subway opens."
+      "text": "The New York City Subway opens.",
+      "category": "science"
+    },
+    {
+      "year": 1938,
+      "text": "DuPont announces nylon, the first fully synthetic fibre.",
+      "category": "science"
+    },
+    {
+      "year": 1961,
+      "text": "NASA launches the first Saturn I rocket.",
+      "category": "science"
+    },
+    {
+      "year": 1962,
+      "text": "A U-2 spy plane is shot down over Cuba at the height of the missile crisis.",
+      "category": "conflict"
     },
     {
       "year": 1971,
-      "text": "The Democratic Republic of the Congo is renamed Zaire."
+      "text": "The Democratic Republic of the Congo is renamed Zaire.",
+      "category": "conflict"
+    },
+    {
+      "year": 1986,
+      "text": "The \"Big Bang\" deregulation transforms the London Stock Exchange.",
+      "category": "news"
+    },
+    {
+      "year": 1991,
+      "text": "Turkmenistan declares independence from the Soviet Union.",
+      "category": "conflict"
     }
   ],
   "births": [

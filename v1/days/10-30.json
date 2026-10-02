@@ -3,22 +3,44 @@
   "names": [],
   "events": [
     {
+      "year": 1905,
+      "text": "Tsar Nicholas II issues the October Manifesto, promising Russia a parliament.",
+      "category": "conflict"
+    },
+    {
+      "year": 1918,
+      "text": "The Armistice of Mudros ends the Ottoman Empire's part in the First World War.",
+      "category": "conflict"
+    },
+    {
       "year": 1938,
-      "text": "Orson Welles's radio drama The War of the Worlds causes panic among listeners."
+      "text": "Orson Welles's radio drama The War of the Worlds causes panic among listeners.",
+      "category": "news"
     },
     {
       "year": 1961,
-      "text": "The Soviet Union detonates the Tsar Bomba, the largest nuclear weapon ever tested."
+      "text": "The Soviet Union detonates the Tsar Bomba, the largest nuclear weapon ever tested.",
+      "category": "science"
     },
     {
       "year": 1974,
-      "text": "Muhammad Ali defeats George Foreman in the \"Rumble in the Jungle\" in Zaire."
+      "text": "Muhammad Ali defeats George Foreman in the \"Rumble in the Jungle\" in Zaire.",
+      "category": "news"
+    },
+    {
+      "year": 1985,
+      "text": "Space Shuttle Challenger launches on its last successful mission.",
+      "category": "science"
     }
   ],
   "births": [
     {
       "year": 1735,
       "text": "John Adams, 2nd U.S. President"
+    },
+    {
+      "year": 1885,
+      "text": "Ezra Pound, American poet"
     },
     {
       "year": 1960,

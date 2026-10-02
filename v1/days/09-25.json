@@ -5,16 +5,44 @@
   ],
   "events": [
     {
+      "year": 1066,
+      "text": "Battle of Stamford Bridge: King Harold II defeats the invading Norwegian army.",
+      "category": "conflict"
+    },
+    {
       "year": 1513,
-      "text": "Vasco Núñez de Balboa becomes the first European to see the Pacific from the Americas."
+      "text": "Vasco Núñez de Balboa becomes the first European to see the Pacific from the Americas.",
+      "category": "science"
+    },
+    {
+      "year": 1690,
+      "text": "Publick Occurrences, the first newspaper in the American colonies, is published in Boston.",
+      "category": "news"
     },
     {
       "year": 1789,
-      "text": "Congress passes twelve amendments, ten of which become the U.S. Bill of Rights."
+      "text": "Congress passes twelve amendments, ten of which become the U.S. Bill of Rights.",
+      "category": "conflict"
+    },
+    {
+      "year": 1956,
+      "text": "TAT-1, the first transatlantic telephone cable, enters service.",
+      "category": "science"
+    },
+    {
+      "year": 1957,
+      "text": "U.S. Army troops escort the Little Rock Nine into Central High School.",
+      "category": "conflict"
     },
     {
       "year": 1981,
-      "text": "Sandra Day O'Connor becomes the first woman on the U.S. Supreme Court."
+      "text": "Sandra Day O'Connor becomes the first woman on the U.S. Supreme Court.",
+      "category": "news"
+    },
+    {
+      "year": 2008,
+      "text": "China launches Shenzhou 7, which carries out the country's first spacewalk.",
+      "category": "science"
     }
   ],
   "births": [

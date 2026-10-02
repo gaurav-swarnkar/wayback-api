@@ -7,22 +7,49 @@
   "events": [
     {
       "year": 1923,
-      "text": "The Republic of Turkey is proclaimed."
+      "text": "The Republic of Turkey is proclaimed.",
+      "category": "conflict"
     },
     {
       "year": 1929,
-      "text": "Black Tuesday: the Wall Street Crash deepens, starting the Great Depression."
+      "text": "Black Tuesday: the Wall Street Crash deepens, starting the Great Depression.",
+      "category": "news"
+    },
+    {
+      "year": 1956,
+      "text": "Israel invades the Sinai Peninsula, starting the Suez Crisis.",
+      "category": "conflict"
     },
     {
       "year": 1969,
-      "text": "The first message is sent over ARPANET, the forerunner of the internet."
+      "text": "The first message is sent over ARPANET, the forerunner of the internet.",
+      "category": "science"
     },
     {
       "year": 1998,
-      "text": "John Glenn, aged 77, returns to space aboard Space Shuttle Discovery."
+      "text": "John Glenn, aged 77, returns to space aboard Space Shuttle Discovery.",
+      "category": "science"
+    },
+    {
+      "year": 2012,
+      "text": "Hurricane Sandy makes landfall in New Jersey.",
+      "category": "news"
     }
   ],
-  "births": [],
+  "births": [
+    {
+      "year": 1740,
+      "text": "James Boswell, Scottish biographer of Samuel Johnson"
+    },
+    {
+      "year": 1947,
+      "text": "Richard Dreyfuss, American actor"
+    },
+    {
+      "year": 1971,
+      "text": "Winona Ryder, American actress"
+    }
+  ],
   "deaths": [
     {
       "year": 1911,

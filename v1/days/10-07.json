@@ -4,15 +4,43 @@
   "events": [
     {
       "year": 1571,
-      "text": "Battle of Lepanto: the Holy League defeats the Ottoman fleet."
+      "text": "Battle of Lepanto: the Holy League defeats the Ottoman fleet.",
+      "category": "conflict"
+    },
+    {
+      "year": 1913,
+      "text": "Ford starts its first moving assembly line for the Model T.",
+      "category": "science"
+    },
+    {
+      "year": 1919,
+      "text": "KLM, the oldest airline still operating under its original name, is founded.",
+      "category": "news"
+    },
+    {
+      "year": 1949,
+      "text": "The German Democratic Republic (East Germany) is founded.",
+      "category": "conflict"
+    },
+    {
+      "year": 1952,
+      "text": "The barcode is patented by Norman Woodland and Bernard Silver.",
+      "category": "science"
     },
     {
       "year": 1959,
-      "text": "The Soviet probe Luna 3 takes the first photographs of the far side of the Moon."
+      "text": "The Soviet probe Luna 3 takes the first photographs of the far side of the Moon.",
+      "category": "science"
+    },
+    {
+      "year": 1982,
+      "text": "The musical Cats opens on Broadway.",
+      "category": "news"
     },
     {
       "year": 2001,
-      "text": "The United States begins its invasion of Afghanistan."
+      "text": "The United States begins its invasion of Afghanistan.",
+      "category": "conflict"
     }
   ],
   "births": [

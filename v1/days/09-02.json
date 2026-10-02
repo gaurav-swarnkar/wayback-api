@@ -5,20 +5,44 @@
   ],
   "events": [
     {
-      "year": 1945,
-      "text": "Japan formally surrenders aboard USS Missouri, ending the Second World War."
-    },
-    {
-      "year": 1945,
-      "text": "Ho Chi Minh proclaims the independence of Vietnam in Hanoi."
-    },
-    {
       "year": 1666,
-      "text": "The Great Fire of London begins in a bakery on Pudding Lane."
+      "text": "The Great Fire of London begins in a bakery on Pudding Lane.",
+      "category": "news"
     },
     {
       "year": 1752,
-      "text": "Britain uses the Julian calendar for the last time; the next day is 14 September."
+      "text": "Britain uses the Julian calendar for the last time; the next day is 14 September.",
+      "category": "news"
+    },
+    {
+      "year": 1789,
+      "text": "The United States Department of the Treasury is founded.",
+      "category": "news"
+    },
+    {
+      "year": 1859,
+      "text": "The Carrington geomagnetic storm disrupts telegraph systems across Europe and North America.",
+      "category": "science"
+    },
+    {
+      "year": 1870,
+      "text": "Battle of Sedan: Emperor Napoleon III is captured by the Prussian army.",
+      "category": "conflict"
+    },
+    {
+      "year": 1945,
+      "text": "Japan formally surrenders aboard USS Missouri, ending the Second World War.",
+      "category": "conflict"
+    },
+    {
+      "year": 1945,
+      "text": "Ho Chi Minh proclaims the independence of Vietnam in Hanoi.",
+      "category": "conflict"
+    },
+    {
+      "year": 1969,
+      "text": "The first automated teller machine in the United States opens in Rockville Centre, New York.",
+      "category": "science"
     }
   ],
   "births": [

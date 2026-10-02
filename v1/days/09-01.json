@@ -6,24 +6,54 @@
   ],
   "events": [
     {
-      "year": 1939,
-      "text": "Germany invades Poland, beginning the Second World War in Europe."
+      "year": 1715,
+      "text": "Louis XIV of France dies after a 72-year reign, the longest of any major European monarch.",
+      "category": "news"
+    },
+    {
+      "year": 1859,
+      "text": "Astronomer Richard Carrington observes a huge solar flare, the start of the Carrington Event.",
+      "category": "science"
+    },
+    {
+      "year": 1878,
+      "text": "Emma Nutt becomes the world's first female telephone operator, in Boston.",
+      "category": "science"
+    },
+    {
+      "year": 1914,
+      "text": "Martha, the last known passenger pigeon, dies at the Cincinnati Zoo.",
+      "category": "news"
     },
     {
       "year": 1923,
-      "text": "The Great Kantō earthquake devastates Tokyo and Yokohama."
+      "text": "The Great Kantō earthquake devastates Tokyo and Yokohama.",
+      "category": "news"
+    },
+    {
+      "year": 1939,
+      "text": "Germany invades Poland, beginning the Second World War in Europe.",
+      "category": "conflict"
     },
     {
       "year": 1969,
-      "text": "Muammar Gaddafi seizes power in Libya in a military coup."
+      "text": "Muammar Gaddafi seizes power in Libya in a military coup.",
+      "category": "conflict"
+    },
+    {
+      "year": 1972,
+      "text": "Bobby Fischer beats Boris Spassky in Reykjavík to become world chess champion.",
+      "category": "news"
     },
     {
       "year": 1983,
-      "text": "Korean Air Lines Flight 007 is shot down by a Soviet interceptor."
+      "text": "Korean Air Lines Flight 007 is shot down by a Soviet interceptor.",
+      "category": "conflict"
     },
     {
       "year": 1985,
-      "text": "The wreck of the Titanic is located by a Franco-American expedition."
+      "text": "The wreck of the Titanic is located by a Franco-American expedition.",
+      "category": "science"
     }
   ],
   "births": [

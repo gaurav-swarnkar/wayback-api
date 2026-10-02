@@ -8,11 +8,33 @@
   "events": [
     {
       "year": 1582,
-      "text": "Several Catholic countries adopt the Gregorian calendar; 4 October is followed by 15 October."
+      "text": "Several Catholic countries adopt the Gregorian calendar; 4 October is followed by 15 October.",
+      "category": "news"
+    },
+    {
+      "year": 1917,
+      "text": "Dutch dancer Mata Hari is executed by France as a German spy.",
+      "category": "conflict"
+    },
+    {
+      "year": 1945,
+      "text": "Pierre Laval, leader of Vichy France, is executed for treason.",
+      "category": "conflict"
+    },
+    {
+      "year": 1951,
+      "text": "The sitcom I Love Lucy premieres on CBS.",
+      "category": "news"
     },
     {
       "year": 1997,
-      "text": "The Cassini spacecraft is launched towards Saturn."
+      "text": "The Cassini spacecraft is launched towards Saturn.",
+      "category": "science"
+    },
+    {
+      "year": 2003,
+      "text": "China launches Shenzhou 5, its first crewed spaceflight.",
+      "category": "science"
     }
   ],
   "births": [
@@ -23,6 +45,10 @@
     {
       "year": 1931,
       "text": "A. P. J. Abdul Kalam, Indian scientist and President"
+    },
+    {
+      "year": 1959,
+      "text": "Sarah Ferguson, Duchess of York"
     }
   ],
   "deaths": [

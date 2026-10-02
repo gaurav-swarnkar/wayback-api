@@ -7,15 +7,48 @@
   "events": [
     {
       "year": 1779,
-      "text": "John Paul Jones's Bonhomme Richard defeats HMS Serapis in a naval battle."
+      "text": "John Paul Jones's Bonhomme Richard defeats HMS Serapis in a naval battle.",
+      "category": "conflict"
+    },
+    {
+      "year": 1806,
+      "text": "Lewis and Clark return to St. Louis from their expedition to the Pacific.",
+      "category": "science"
     },
     {
       "year": 1846,
-      "text": "Astronomers discover the planet Neptune."
+      "text": "Astronomers discover the planet Neptune.",
+      "category": "science"
+    },
+    {
+      "year": 1889,
+      "text": "Nintendo is founded in Kyoto as a playing-card company.",
+      "category": "news"
     },
     {
       "year": 1932,
-      "text": "The Kingdom of Saudi Arabia is proclaimed."
+      "text": "The Kingdom of Saudi Arabia is proclaimed.",
+      "category": "conflict"
+    },
+    {
+      "year": 1949,
+      "text": "President Truman announces that the Soviet Union has tested an atomic bomb.",
+      "category": "conflict"
+    },
+    {
+      "year": 1952,
+      "text": "Richard Nixon gives his \"Checkers\" speech on television.",
+      "category": "news"
+    },
+    {
+      "year": 1962,
+      "text": "Philharmonic Hall, the first building at Lincoln Center, opens in New York.",
+      "category": "news"
+    },
+    {
+      "year": 1999,
+      "text": "NASA loses contact with the Mars Climate Orbiter because of a units mix-up.",
+      "category": "science"
     }
   ],
   "births": [

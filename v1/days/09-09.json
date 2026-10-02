@@ -5,20 +5,54 @@
   ],
   "events": [
     {
+      "year": 1513,
+      "text": "Battle of Flodden: the English defeat the Scots, killing King James IV.",
+      "category": "conflict"
+    },
+    {
       "year": 1776,
-      "text": "The Continental Congress officially names the new nation the United States."
+      "text": "The Continental Congress officially names the new nation the United States.",
+      "category": "news"
+    },
+    {
+      "year": 1791,
+      "text": "The U.S. capital city is named Washington, after George Washington.",
+      "category": "news"
+    },
+    {
+      "year": 1839,
+      "text": "John Herschel takes the first photograph on a glass plate.",
+      "category": "science"
     },
     {
       "year": 1850,
-      "text": "California is admitted as the 31st U.S. state."
+      "text": "California is admitted as the 31st U.S. state.",
+      "category": "news"
     },
     {
       "year": 1947,
-      "text": "Engineers find a moth in the Harvard Mark II computer: the first computer bug."
+      "text": "Engineers find a moth in the Harvard Mark II computer: the first computer bug.",
+      "category": "science"
     },
     {
       "year": 1948,
-      "text": "The Democratic People's Republic of Korea is proclaimed."
+      "text": "The Democratic People's Republic of Korea is proclaimed.",
+      "category": "conflict"
+    },
+    {
+      "year": 1956,
+      "text": "Elvis Presley makes his first appearance on The Ed Sullivan Show.",
+      "category": "news"
+    },
+    {
+      "year": 1971,
+      "text": "Inmates take control of Attica prison in New York, beginning a four-day uprising.",
+      "category": "conflict"
+    },
+    {
+      "year": 2015,
+      "text": "Elizabeth II becomes the longest-reigning British monarch, passing Queen Victoria.",
+      "category": "news"
     }
   ],
   "births": [

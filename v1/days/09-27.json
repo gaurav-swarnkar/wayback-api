@@ -5,22 +5,58 @@
   ],
   "events": [
     {
+      "year": 1777,
+      "text": "Lancaster, Pennsylvania, serves as the capital of the United States for one day.",
+      "category": "news"
+    },
+    {
       "year": 1822,
-      "text": "Jean-François Champollion announces he has deciphered the Rosetta Stone."
+      "text": "Jean-François Champollion announces he has deciphered the Rosetta Stone.",
+      "category": "science"
     },
     {
       "year": 1825,
-      "text": "The Stockton and Darlington Railway, the first public steam railway, opens in England."
+      "text": "The Stockton and Darlington Railway, the first public steam railway, opens in England.",
+      "category": "science"
+    },
+    {
+      "year": 1905,
+      "text": "Albert Einstein's paper introducing E = mc² is received for publication.",
+      "category": "science"
     },
     {
       "year": 1940,
-      "text": "Germany, Italy and Japan sign the Tripartite Pact."
+      "text": "Germany, Italy and Japan sign the Tripartite Pact.",
+      "category": "conflict"
+    },
+    {
+      "year": 1954,
+      "text": "The Tonight Show premieres on NBC.",
+      "category": "news"
+    },
+    {
+      "year": 1962,
+      "text": "Rachel Carson's book Silent Spring is published.",
+      "category": "news"
+    },
+    {
+      "year": 1996,
+      "text": "The Taliban capture Kabul, the capital of Afghanistan.",
+      "category": "conflict"
     }
   ],
   "births": [
     {
+      "year": 1947,
+      "text": "Meat Loaf, American singer"
+    },
+    {
       "year": 1972,
       "text": "Gwyneth Paltrow, American actress"
+    },
+    {
+      "year": 1984,
+      "text": "Avril Lavigne, Canadian singer"
     }
   ],
   "deaths": [

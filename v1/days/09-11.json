@@ -6,29 +6,58 @@
   "events": [
     {
       "year": 1297,
-      "text": "Battle of Stirling Bridge: William Wallace's Scots defeat the English army."
+      "text": "Battle of Stirling Bridge: William Wallace's Scots defeat the English army.",
+      "category": "conflict"
+    },
+    {
+      "year": 1609,
+      "text": "Henry Hudson reaches the island of Manhattan.",
+      "category": "science"
+    },
+    {
+      "year": 1789,
+      "text": "Alexander Hamilton becomes the first U.S. Secretary of the Treasury.",
+      "category": "news"
     },
     {
       "year": 1906,
-      "text": "Mahatma Gandhi launches the Satyagraha movement of non-violent protest in Johannesburg."
+      "text": "Mahatma Gandhi launches the Satyagraha movement of non-violent protest in Johannesburg.",
+      "category": "conflict"
     },
     {
       "year": 1973,
-      "text": "A military coup in Chile overthrows President Salvador Allende."
+      "text": "A military coup in Chile overthrows President Salvador Allende.",
+      "category": "conflict"
+    },
+    {
+      "year": 1985,
+      "text": "Pete Rose breaks Ty Cobb's record for career hits in baseball.",
+      "category": "news"
     },
     {
       "year": 1997,
-      "text": "Scotland votes in a referendum to establish its own parliament."
+      "text": "Scotland votes in a referendum to establish its own parliament.",
+      "category": "conflict"
+    },
+    {
+      "year": 1997,
+      "text": "NASA's Mars Global Surveyor reaches orbit around Mars.",
+      "category": "science"
     },
     {
       "year": 2001,
-      "text": "The September 11 attacks kill nearly 3,000 people in the United States."
+      "text": "The September 11 attacks kill nearly 3,000 people in the United States.",
+      "category": "conflict"
     }
   ],
   "births": [
     {
       "year": 1862,
       "text": "O. Henry, American short-story writer"
+    },
+    {
+      "year": 1885,
+      "text": "D. H. Lawrence, English novelist"
     },
     {
       "year": 1965,

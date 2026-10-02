@@ -7,25 +7,57 @@
   "events": [
     {
       "year": 1620,
-      "text": "The Mayflower sets sail from Plymouth, England, for the New World."
+      "text": "The Mayflower sets sail from Plymouth, England, for the New World.",
+      "category": "news"
     },
     {
       "year": 1810,
-      "text": "Miguel Hidalgo's Cry of Dolores begins the Mexican War of Independence."
+      "text": "Miguel Hidalgo's Cry of Dolores begins the Mexican War of Independence.",
+      "category": "conflict"
+    },
+    {
+      "year": 1908,
+      "text": "General Motors is founded in Flint, Michigan.",
+      "category": "news"
     },
     {
       "year": 1963,
-      "text": "Malaysia is formed from Malaya, Singapore, Sabah and Sarawak."
+      "text": "Malaysia is formed from Malaya, Singapore, Sabah and Sarawak.",
+      "category": "conflict"
+    },
+    {
+      "year": 1966,
+      "text": "The new Metropolitan Opera House opens at Lincoln Center in New York.",
+      "category": "science"
+    },
+    {
+      "year": 1975,
+      "text": "Papua New Guinea gains independence from Australia.",
+      "category": "conflict"
     },
     {
       "year": 1987,
-      "text": "The Montreal Protocol to protect the ozone layer is signed."
+      "text": "The Montreal Protocol to protect the ozone layer is signed.",
+      "category": "science"
+    },
+    {
+      "year": 1992,
+      "text": "Black Wednesday: the pound sterling is forced out of the European Exchange Rate Mechanism.",
+      "category": "news"
     }
   ],
   "births": [
     {
       "year": 1925,
       "text": "B.B. King, American blues guitarist"
+    },
+    {
+      "year": 1952,
+      "text": "Mickey Rourke, American actor"
+    },
+    {
+      "year": 1971,
+      "text": "Amy Poehler, American comedian"
     }
   ],
   "deaths": [

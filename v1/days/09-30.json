@@ -7,21 +7,57 @@
   "events": [
     {
       "year": 1791,
-      "text": "Mozart's opera The Magic Flute premieres in Vienna."
+      "text": "Mozart's opera The Magic Flute premieres in Vienna.",
+      "category": "news"
+    },
+    {
+      "year": 1846,
+      "text": "Dentist William Morton uses ether as an anaesthetic to pull a tooth.",
+      "category": "science"
+    },
+    {
+      "year": 1927,
+      "text": "Babe Ruth hits his record 60th home run of the season.",
+      "category": "news"
+    },
+    {
+      "year": 1935,
+      "text": "Hoover Dam is dedicated by President Franklin D. Roosevelt.",
+      "category": "science"
     },
     {
       "year": 1938,
-      "text": "Britain, France, Germany and Italy sign the Munich Agreement."
+      "text": "Britain, France, Germany and Italy sign the Munich Agreement.",
+      "category": "conflict"
+    },
+    {
+      "year": 1949,
+      "text": "The Berlin Airlift ends.",
+      "category": "conflict"
+    },
+    {
+      "year": 1954,
+      "text": "USS Nautilus, the first nuclear-powered submarine, is commissioned.",
+      "category": "science"
     },
     {
       "year": 1966,
-      "text": "Botswana gains independence from the United Kingdom."
+      "text": "Botswana gains independence from the United Kingdom.",
+      "category": "conflict"
     }
   ],
   "births": [
     {
+      "year": 1921,
+      "text": "Deborah Kerr, Scottish actress"
+    },
+    {
       "year": 1924,
       "text": "Truman Capote, American author"
+    },
+    {
+      "year": 1975,
+      "text": "Marion Cotillard, French actress"
     }
   ],
   "deaths": [

@@ -5,19 +5,40 @@
   ],
   "events": [
     {
+      "year": 1889,
+      "text": "The Moulin Rouge cabaret opens in Paris.",
+      "category": "news"
+    },
+    {
       "year": 1927,
-      "text": "The Jazz Singer, the first feature-length talking picture, premieres."
+      "text": "The Jazz Singer, the first feature-length talking picture, premieres.",
+      "category": "news"
     },
     {
       "year": 1973,
-      "text": "Egypt and Syria attack Israel, beginning the Yom Kippur War."
+      "text": "Egypt and Syria attack Israel, beginning the Yom Kippur War.",
+      "category": "conflict"
     },
     {
       "year": 1981,
-      "text": "Egyptian President Anwar Sadat is assassinated in Cairo."
+      "text": "Egyptian President Anwar Sadat is assassinated in Cairo.",
+      "category": "conflict"
+    },
+    {
+      "year": 1995,
+      "text": "Astronomers announce 51 Pegasi b, the first planet found orbiting a Sun-like star.",
+      "category": "science"
     }
   ],
   "births": [
+    {
+      "year": 1820,
+      "text": "Jenny Lind, Swedish opera singer"
+    },
+    {
+      "year": 1846,
+      "text": "George Westinghouse, American inventor"
+    },
     {
       "year": 1887,
       "text": "Le Corbusier, Swiss-French architect"

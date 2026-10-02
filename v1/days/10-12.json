@@ -6,21 +6,48 @@
   "events": [
     {
       "year": 1492,
-      "text": "Christopher Columbus's expedition reaches the Americas."
+      "text": "Christopher Columbus's expedition reaches the Americas.",
+      "category": "science"
+    },
+    {
+      "year": 1810,
+      "text": "The first Oktoberfest is held in Munich to celebrate a royal wedding.",
+      "category": "news"
+    },
+    {
+      "year": 1928,
+      "text": "An iron lung is used for the first time, at Boston Children's Hospital.",
+      "category": "science"
     },
     {
       "year": 1968,
-      "text": "Equatorial Guinea gains independence from Spain."
+      "text": "Equatorial Guinea gains independence from Spain.",
+      "category": "conflict"
+    },
+    {
+      "year": 1979,
+      "text": "Douglas Adams's The Hitchhiker's Guide to the Galaxy is published as a novel.",
+      "category": "news"
+    },
+    {
+      "year": 2000,
+      "text": "The destroyer USS Cole is attacked by suicide bombers in Aden, Yemen.",
+      "category": "conflict"
     },
     {
       "year": 2002,
-      "text": "Bombings in Bali, Indonesia, kill 202 people."
+      "text": "Bombings in Bali, Indonesia, kill 202 people.",
+      "category": "conflict"
     }
   ],
   "births": [
     {
       "year": 1935,
       "text": "Luciano Pavarotti, Italian tenor"
+    },
+    {
+      "year": 1968,
+      "text": "Hugh Jackman, Australian actor"
     }
   ],
   "deaths": []

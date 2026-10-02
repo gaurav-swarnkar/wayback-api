@@ -9,19 +9,38 @@
   "events": [
     {
       "year": 1517,
-      "text": "Martin Luther publishes his Ninety-five Theses, sparking the Reformation."
+      "text": "Martin Luther publishes his Ninety-five Theses, sparking the Reformation.",
+      "category": "conflict"
     },
     {
       "year": 1941,
-      "text": "Work on Mount Rushmore is completed."
+      "text": "Work on Mount Rushmore is completed.",
+      "category": "news"
+    },
+    {
+      "year": 1956,
+      "text": "Britain and France begin bombing Egypt during the Suez Crisis.",
+      "category": "conflict"
     },
     {
       "year": 1984,
-      "text": "Indian Prime Minister Indira Gandhi is assassinated."
+      "text": "Indian Prime Minister Indira Gandhi is assassinated.",
+      "category": "conflict"
+    },
+    {
+      "year": 1992,
+      "text": "The Vatican formally admits that it was wrong to condemn Galileo.",
+      "category": "science"
+    },
+    {
+      "year": 2000,
+      "text": "Soyuz TM-31 launches the first resident crew to the International Space Station.",
+      "category": "science"
     },
     {
       "year": 2011,
-      "text": "The world's population reaches seven billion, according to the United Nations."
+      "text": "The world's population reaches seven billion, according to the United Nations.",
+      "category": "news"
     }
   ],
   "births": [
@@ -32,6 +51,10 @@
     {
       "year": 1875,
       "text": "Vallabhbhai Patel, Indian independence leader"
+    },
+    {
+      "year": 1961,
+      "text": "Peter Jackson, New Zealand filmmaker"
     }
   ],
   "deaths": [

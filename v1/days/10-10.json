@@ -7,26 +7,43 @@
   ],
   "events": [
     {
+      "year": 1845,
+      "text": "The United States Naval Academy opens in Annapolis, Maryland.",
+      "category": "news"
+    },
+    {
       "year": 1911,
-      "text": "The Wuchang Uprising begins the revolution that ends imperial rule in China."
+      "text": "The Wuchang Uprising begins the revolution that ends imperial rule in China.",
+      "category": "conflict"
     },
     {
       "year": 1967,
-      "text": "The Outer Space Treaty enters into force."
+      "text": "The Outer Space Treaty enters into force.",
+      "category": "science"
     },
     {
       "year": 1970,
-      "text": "Fiji gains independence from the United Kingdom."
+      "text": "Fiji gains independence from the United Kingdom.",
+      "category": "conflict"
     },
     {
       "year": 1973,
-      "text": "U.S. Vice President Spiro Agnew resigns."
+      "text": "U.S. Vice President Spiro Agnew resigns.",
+      "category": "news"
     }
   ],
   "births": [
     {
+      "year": 1930,
+      "text": "Harold Pinter, English playwright and Nobel laureate"
+    },
+    {
       "year": 1954,
       "text": "Rekha, Indian actress"
+    },
+    {
+      "year": 1969,
+      "text": "Brett Favre, American football player"
     }
   ],
   "deaths": [

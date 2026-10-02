@@ -7,15 +7,33 @@
   "events": [
     {
       "year": 1942,
-      "text": "The Second Battle of El Alamein begins in Egypt."
+      "text": "The Second Battle of El Alamein begins in Egypt.",
+      "category": "conflict"
     },
     {
       "year": 1956,
-      "text": "The Hungarian Revolution against Soviet rule begins."
+      "text": "The Hungarian Revolution against Soviet rule begins.",
+      "category": "conflict"
+    },
+    {
+      "year": 1958,
+      "text": "The Smurfs first appear in a Belgian comic.",
+      "category": "news"
+    },
+    {
+      "year": 1983,
+      "text": "Bombings of barracks in Beirut kill 241 U.S. and 58 French service members.",
+      "category": "conflict"
     },
     {
       "year": 2001,
-      "text": "Apple releases the iPod."
+      "text": "Apple releases the iPod.",
+      "category": "science"
+    },
+    {
+      "year": 2002,
+      "text": "Chechen militants seize a theatre in Moscow, taking 850 hostages.",
+      "category": "conflict"
     }
   ],
   "births": [
@@ -26,6 +44,10 @@
     {
       "year": 1942,
       "text": "Michael Crichton, American author of Jurassic Park"
+    },
+    {
+      "year": 1976,
+      "text": "Ryan Reynolds, Canadian actor"
     }
   ],
   "deaths": []

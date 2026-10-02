@@ -6,19 +6,51 @@
   ],
   "events": [
     {
+      "year": 1863,
+      "text": "Abraham Lincoln proclaims Thanksgiving a national holiday.",
+      "category": "news"
+    },
+    {
+      "year": 1929,
+      "text": "The Kingdom of Serbs, Croats and Slovenes is renamed Yugoslavia.",
+      "category": "conflict"
+    },
+    {
       "year": 1932,
-      "text": "Iraq gains independence from the United Kingdom."
+      "text": "Iraq gains independence from the United Kingdom.",
+      "category": "conflict"
+    },
+    {
+      "year": 1935,
+      "text": "Italy invades Ethiopia.",
+      "category": "conflict"
+    },
+    {
+      "year": 1942,
+      "text": "Germany carries out the first successful launch of a V-2 rocket.",
+      "category": "science"
     },
     {
       "year": 1952,
-      "text": "The United Kingdom tests its first atomic bomb off Australia."
+      "text": "The United Kingdom tests its first atomic bomb off Australia.",
+      "category": "science"
     },
     {
       "year": 1990,
-      "text": "East and West Germany are reunified."
+      "text": "East and West Germany are reunified.",
+      "category": "conflict"
+    },
+    {
+      "year": 1995,
+      "text": "O. J. Simpson is found not guilty of murder.",
+      "category": "news"
     }
   ],
   "births": [
+    {
+      "year": 1941,
+      "text": "Chubby Checker, American singer"
+    },
     {
       "year": 1954,
       "text": "Stevie Ray Vaughan, American blues guitarist"

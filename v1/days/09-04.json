@@ -4,25 +4,63 @@
   "events": [
     {
       "year": 476,
-      "text": "Romulus Augustulus is deposed, marking the end of the Western Roman Empire."
+      "text": "Romulus Augustulus is deposed, marking the end of the Western Roman Empire.",
+      "category": "conflict"
+    },
+    {
+      "year": 1781,
+      "text": "Spanish settlers found the city of Los Angeles.",
+      "category": "news"
+    },
+    {
+      "year": 1870,
+      "text": "The French Third Republic is proclaimed in Paris.",
+      "category": "conflict"
+    },
+    {
+      "year": 1882,
+      "text": "Thomas Edison's Pearl Street Station starts supplying electricity to New York City.",
+      "category": "science"
+    },
+    {
+      "year": 1886,
+      "text": "Apache leader Geronimo surrenders to U.S. forces in Arizona.",
+      "category": "conflict"
     },
     {
       "year": 1888,
-      "text": "George Eastman registers the trademark Kodak and patents his roll-film camera."
+      "text": "George Eastman registers the trademark Kodak and patents his roll-film camera.",
+      "category": "science"
+    },
+    {
+      "year": 1951,
+      "text": "The first live coast-to-coast television broadcast in the U.S. shows President Truman's speech in San Francisco.",
+      "category": "science"
     },
     {
       "year": 1957,
-      "text": "The Little Rock Nine are blocked from entering Central High School in Arkansas."
+      "text": "The Little Rock Nine are blocked from entering Central High School in Arkansas.",
+      "category": "news"
+    },
+    {
+      "year": 1972,
+      "text": "Mark Spitz wins his seventh gold medal at the Munich Olympics.",
+      "category": "news"
     },
     {
       "year": 1998,
-      "text": "Google is founded by Larry Page and Sergey Brin."
+      "text": "Google is founded by Larry Page and Sergey Brin.",
+      "category": "news"
     }
   ],
   "births": [
     {
       "year": 1824,
       "text": "Anton Bruckner, Austrian composer"
+    },
+    {
+      "year": 1960,
+      "text": "Damon Wayans, American comedian"
     },
     {
       "year": 1981,

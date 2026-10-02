@@ -7,26 +7,54 @@
   ],
   "events": [
     {
+      "year": 1648,
+      "text": "The Peace of Westphalia is signed, ending the Thirty Years' War.",
+      "category": "conflict"
+    },
+    {
+      "year": 1861,
+      "text": "The first transcontinental telegraph line across the United States is completed.",
+      "category": "science"
+    },
+    {
       "year": 1901,
-      "text": "Annie Edson Taylor becomes the first person to go over Niagara Falls in a barrel."
+      "text": "Annie Edson Taylor becomes the first person to go over Niagara Falls in a barrel.",
+      "category": "news"
     },
     {
       "year": 1929,
-      "text": "Black Thursday: the Wall Street Crash begins."
+      "text": "Black Thursday: the Wall Street Crash begins.",
+      "category": "news"
     },
     {
       "year": 1945,
-      "text": "The United Nations Charter enters into force."
+      "text": "The United Nations Charter enters into force.",
+      "category": "conflict"
+    },
+    {
+      "year": 1946,
+      "text": "A camera on a V-2 rocket takes the first photograph of Earth from space.",
+      "category": "science"
     },
     {
       "year": 1964,
-      "text": "Zambia gains independence from the United Kingdom."
+      "text": "Zambia gains independence from the United Kingdom.",
+      "category": "conflict"
+    },
+    {
+      "year": 2003,
+      "text": "Concorde makes its last commercial flight.",
+      "category": "science"
     }
   ],
   "births": [
     {
       "year": 1632,
       "text": "Antonie van Leeuwenhoek, Dutch pioneer of microbiology"
+    },
+    {
+      "year": 1936,
+      "text": "Bill Wyman, English bassist (The Rolling Stones)"
     },
     {
       "year": 1985,

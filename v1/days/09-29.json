@@ -7,15 +7,43 @@
   "events": [
     {
       "year": 1829,
-      "text": "London's Metropolitan Police make their first patrols."
+      "text": "London's Metropolitan Police make their first patrols.",
+      "category": "news"
+    },
+    {
+      "year": 1911,
+      "text": "Italy declares war on the Ottoman Empire.",
+      "category": "conflict"
+    },
+    {
+      "year": 1916,
+      "text": "John D. Rockefeller becomes the world's first billionaire.",
+      "category": "news"
+    },
+    {
+      "year": 1918,
+      "text": "Allied forces break through the Hindenburg Line in the First World War.",
+      "category": "conflict"
+    },
+    {
+      "year": 1923,
+      "text": "The British Mandate for Palestine takes effect.",
+      "category": "conflict"
     },
     {
       "year": 1954,
-      "text": "CERN, the European Organization for Nuclear Research, is established."
+      "text": "CERN, the European Organization for Nuclear Research, is established.",
+      "category": "science"
+    },
+    {
+      "year": 1957,
+      "text": "The Kyshtym nuclear disaster occurs at the Mayak plant in the Soviet Union.",
+      "category": "news"
     },
     {
       "year": 1988,
-      "text": "Space Shuttle Discovery launches, NASA's first crewed mission since the Challenger disaster."
+      "text": "Space Shuttle Discovery launches, NASA's first crewed mission since the Challenger disaster.",
+      "category": "science"
     }
   ],
   "births": [
@@ -26,6 +54,10 @@
     {
       "year": 1901,
       "text": "Enrico Fermi, Italian-American physicist"
+    },
+    {
+      "year": 1943,
+      "text": "Lech Wałęsa, Polish trade-union leader and President"
     }
   ],
   "deaths": []

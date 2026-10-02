@@ -6,15 +6,38 @@
   "events": [
     {
       "year": 1066,
-      "text": "William the Conqueror lands in England, beginning the Norman conquest."
+      "text": "William the Conqueror lands in England, beginning the Norman conquest.",
+      "category": "conflict"
+    },
+    {
+      "year": 1781,
+      "text": "American and French forces begin the siege of Yorktown.",
+      "category": "conflict"
+    },
+    {
+      "year": 1924,
+      "text": "U.S. Army aviators complete the first aerial circumnavigation of the world.",
+      "category": "science"
     },
     {
       "year": 1928,
-      "text": "Alexander Fleming notices the mould that leads to his discovery of penicillin."
+      "text": "Alexander Fleming notices the mould that leads to his discovery of penicillin.",
+      "category": "science"
+    },
+    {
+      "year": 1972,
+      "text": "Paul Henderson's late goal wins the Summit Series for Canada against the Soviet Union.",
+      "category": "news"
+    },
+    {
+      "year": 2000,
+      "text": "Ariel Sharon visits the Temple Mount, shortly before the Second Intifada begins.",
+      "category": "conflict"
     },
     {
       "year": 2008,
-      "text": "SpaceX's Falcon 1 becomes the first privately developed liquid-fuel rocket to reach orbit."
+      "text": "SpaceX's Falcon 1 becomes the first privately developed liquid-fuel rocket to reach orbit.",
+      "category": "science"
     }
   ],
   "births": [

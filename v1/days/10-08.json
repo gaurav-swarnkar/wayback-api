@@ -6,18 +6,45 @@
   "events": [
     {
       "year": 1871,
-      "text": "The Great Chicago Fire begins."
+      "text": "The Great Chicago Fire begins.",
+      "category": "news"
+    },
+    {
+      "year": 1871,
+      "text": "The Peshtigo fire in Wisconsin, the deadliest wildfire in U.S. history, breaks out.",
+      "category": "news"
+    },
+    {
+      "year": 1912,
+      "text": "Montenegro declares war on the Ottoman Empire, starting the First Balkan War.",
+      "category": "conflict"
+    },
+    {
+      "year": 1918,
+      "text": "Corporal Alvin York leads an attack in the Argonne Forest that makes him a First World War hero.",
+      "category": "conflict"
     },
     {
       "year": 1932,
-      "text": "The Indian Air Force is established."
+      "text": "The Indian Air Force is established.",
+      "category": "conflict"
+    },
+    {
+      "year": 1958,
+      "text": "Surgeon Åke Senning implants the first fully internal heart pacemaker.",
+      "category": "science"
     },
     {
       "year": 2005,
-      "text": "A magnitude 7.6 earthquake strikes Kashmir."
+      "text": "A magnitude 7.6 earthquake strikes Kashmir.",
+      "category": "news"
     }
   ],
   "births": [
+    {
+      "year": 1941,
+      "text": "Jesse Jackson, American civil rights leader"
+    },
     {
       "year": 1949,
       "text": "Sigourney Weaver, American actress"

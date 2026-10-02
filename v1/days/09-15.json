@@ -7,19 +7,48 @@
   "events": [
     {
       "year": 1821,
-      "text": "Guatemala and other Central American provinces declare independence from Spain."
+      "text": "Guatemala and other Central American provinces declare independence from Spain.",
+      "category": "conflict"
+    },
+    {
+      "year": 1830,
+      "text": "The Liverpool and Manchester Railway, the first inter-city passenger railway, opens.",
+      "category": "science"
     },
     {
       "year": 1835,
-      "text": "Charles Darwin aboard HMS Beagle reaches the Galápagos Islands."
+      "text": "Charles Darwin aboard HMS Beagle reaches the Galápagos Islands.",
+      "category": "science"
+    },
+    {
+      "year": 1916,
+      "text": "Tanks are used in battle for the first time, at Flers–Courcelette on the Somme.",
+      "category": "conflict"
+    },
+    {
+      "year": 1935,
+      "text": "Nazi Germany passes the Nuremberg Laws.",
+      "category": "conflict"
     },
     {
       "year": 1950,
-      "text": "Korean War: UN forces land at Inchon."
+      "text": "Korean War: UN forces land at Inchon.",
+      "category": "conflict"
+    },
+    {
+      "year": 1959,
+      "text": "Nikita Khrushchev becomes the first Soviet leader to visit the United States.",
+      "category": "news"
     },
     {
       "year": 2008,
-      "text": "Lehman Brothers files for bankruptcy, deepening the global financial crisis."
+      "text": "Lehman Brothers files for bankruptcy, deepening the global financial crisis.",
+      "category": "news"
+    },
+    {
+      "year": 2017,
+      "text": "NASA's Cassini spacecraft ends its mission by plunging into Saturn.",
+      "category": "science"
     }
   ],
   "births": [

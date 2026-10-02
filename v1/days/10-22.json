@@ -5,22 +5,53 @@
   ],
   "events": [
     {
+      "year": 1746,
+      "text": "The College of New Jersey, later Princeton University, receives its charter.",
+      "category": "news"
+    },
+    {
       "year": 1797,
-      "text": "André-Jacques Garnerin makes the first recorded parachute jump, over Paris."
+      "text": "André-Jacques Garnerin makes the first recorded parachute jump, over Paris.",
+      "category": "science"
+    },
+    {
+      "year": 1883,
+      "text": "The Metropolitan Opera House opens in New York.",
+      "category": "news"
+    },
+    {
+      "year": 1938,
+      "text": "Chester Carlson makes the first xerographic photocopy.",
+      "category": "science"
     },
     {
       "year": 1962,
-      "text": "President Kennedy announces a naval blockade of Cuba on television."
+      "text": "President Kennedy announces a naval blockade of Cuba on television.",
+      "category": "conflict"
     },
     {
       "year": 1975,
-      "text": "The Soviet probe Venera 9 sends back the first images from the surface of Venus."
+      "text": "The Soviet probe Venera 9 sends back the first images from the surface of Venus.",
+      "category": "science"
+    },
+    {
+      "year": 2014,
+      "text": "A gunman attacks Parliament Hill in Ottawa, Canada.",
+      "category": "conflict"
     }
   ],
   "births": [
     {
       "year": 1811,
       "text": "Franz Liszt, Hungarian composer and pianist"
+    },
+    {
+      "year": 1943,
+      "text": "Catherine Deneuve, French actress"
+    },
+    {
+      "year": 1952,
+      "text": "Jeff Goldblum, American actor"
     }
   ],
   "deaths": []

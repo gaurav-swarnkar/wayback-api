@@ -4,15 +4,38 @@
   "events": [
     {
       "year": 1522,
-      "text": "The Victoria returns to Spain, completing the first circumnavigation of the Earth."
+      "text": "The Victoria returns to Spain, completing the first circumnavigation of the Earth.",
+      "category": "science"
     },
     {
       "year": 1901,
-      "text": "U.S. President William McKinley is shot in Buffalo, New York."
+      "text": "U.S. President William McKinley is shot in Buffalo, New York.",
+      "category": "conflict"
+    },
+    {
+      "year": 1966,
+      "text": "South African Prime Minister Hendrik Verwoerd is assassinated in parliament.",
+      "category": "conflict"
+    },
+    {
+      "year": 1968,
+      "text": "Swaziland gains independence from the United Kingdom.",
+      "category": "conflict"
+    },
+    {
+      "year": 1991,
+      "text": "Leningrad is renamed Saint Petersburg.",
+      "category": "news"
+    },
+    {
+      "year": 1995,
+      "text": "Cal Ripken Jr. breaks Lou Gehrig's record for consecutive baseball games played.",
+      "category": "news"
     },
     {
       "year": 1997,
-      "text": "The funeral of Diana, Princess of Wales, is watched by billions worldwide."
+      "text": "The funeral of Diana, Princess of Wales, is watched by billions worldwide.",
+      "category": "news"
     }
   ],
   "births": [
@@ -23,6 +46,10 @@
     {
       "year": 1888,
       "text": "Joseph P. Kennedy Sr., American businessman and diplomat"
+    },
+    {
+      "year": 1943,
+      "text": "Roger Waters, English musician (Pink Floyd)"
     }
   ],
   "deaths": [

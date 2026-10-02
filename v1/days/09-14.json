@@ -5,26 +5,49 @@
   ],
   "events": [
     {
+      "year": 1741,
+      "text": "George Frideric Handel completes his oratorio Messiah.",
+      "category": "news"
+    },
+    {
+      "year": 1752,
+      "text": "Britain switches to the Gregorian calendar: 14 September follows 2 September.",
+      "category": "news"
+    },
+    {
       "year": 1812,
-      "text": "Napoleon's Grande Armée enters Moscow."
+      "text": "Napoleon's Grande Armée enters Moscow.",
+      "category": "conflict"
     },
     {
       "year": 1814,
-      "text": "Francis Scott Key writes the poem that becomes \"The Star-Spangled Banner\"."
+      "text": "Francis Scott Key writes the poem that becomes \"The Star-Spangled Banner\".",
+      "category": "news"
     },
     {
       "year": 1901,
-      "text": "Theodore Roosevelt becomes U.S. President after McKinley's death."
+      "text": "Theodore Roosevelt becomes U.S. President after McKinley's death.",
+      "category": "conflict"
     },
     {
       "year": 1959,
-      "text": "Luna 2 becomes the first spacecraft to reach the surface of the Moon."
+      "text": "Luna 2 becomes the first spacecraft to reach the surface of the Moon.",
+      "category": "science"
+    },
+    {
+      "year": 2003,
+      "text": "Estonia votes in a referendum to join the European Union.",
+      "category": "conflict"
     }
   ],
   "births": [
     {
       "year": 1769,
       "text": "Alexander von Humboldt, German explorer and scientist"
+    },
+    {
+      "year": 1879,
+      "text": "Margaret Sanger, American birth-control activist"
     },
     {
       "year": 1983,

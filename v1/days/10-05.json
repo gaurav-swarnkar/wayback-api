@@ -6,18 +6,54 @@
   "events": [
     {
       "year": 1789,
-      "text": "The Women's March on Versailles marks a turning point in the French Revolution."
+      "text": "The Women's March on Versailles marks a turning point in the French Revolution.",
+      "category": "conflict"
     },
     {
       "year": 1910,
-      "text": "Portugal becomes a republic after a revolution ends the monarchy."
+      "text": "Portugal becomes a republic after a revolution ends the monarchy.",
+      "category": "conflict"
+    },
+    {
+      "year": 1921,
+      "text": "The World Series is broadcast on radio for the first time.",
+      "category": "news"
+    },
+    {
+      "year": 1947,
+      "text": "Harry Truman gives the first televised address from the White House.",
+      "category": "news"
     },
     {
       "year": 1962,
-      "text": "The first James Bond film, Dr. No, premieres, and the Beatles release \"Love Me Do\"."
+      "text": "The first James Bond film, Dr. No, premieres, and the Beatles release \"Love Me Do\".",
+      "category": "news"
+    },
+    {
+      "year": 1969,
+      "text": "Monty Python's Flying Circus first airs on BBC One.",
+      "category": "news"
+    },
+    {
+      "year": 1988,
+      "text": "Chileans vote \"No\" in a plebiscite, ending Augusto Pinochet's rule.",
+      "category": "conflict"
+    },
+    {
+      "year": 2000,
+      "text": "Protesters in Belgrade force Slobodan Milošević from power.",
+      "category": "conflict"
     }
   ],
   "births": [
+    {
+      "year": 1936,
+      "text": "Václav Havel, Czech playwright and President"
+    },
+    {
+      "year": 1951,
+      "text": "Bob Geldof, Irish musician and campaigner"
+    },
     {
       "year": 1975,
       "text": "Kate Winslet, English actress"

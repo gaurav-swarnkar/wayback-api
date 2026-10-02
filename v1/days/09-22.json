@@ -6,22 +6,53 @@
   ],
   "events": [
     {
+      "year": 1499,
+      "text": "The Treaty of Basel makes Switzerland effectively independent of the Holy Roman Empire.",
+      "category": "conflict"
+    },
+    {
       "year": 1862,
-      "text": "Abraham Lincoln issues the preliminary Emancipation Proclamation."
+      "text": "Abraham Lincoln issues the preliminary Emancipation Proclamation.",
+      "category": "news"
+    },
+    {
+      "year": 1888,
+      "text": "The first issue of National Geographic magazine is published.",
+      "category": "science"
+    },
+    {
+      "year": 1955,
+      "text": "ITV, Britain's first commercial television channel, begins broadcasting.",
+      "category": "news"
     },
     {
       "year": 1960,
-      "text": "Mali declares independence from France."
+      "text": "Mali declares independence from France.",
+      "category": "conflict"
     },
     {
       "year": 1980,
-      "text": "Iraq invades Iran, beginning the Iran–Iraq War."
+      "text": "Iraq invades Iran, beginning the Iran–Iraq War.",
+      "category": "conflict"
+    },
+    {
+      "year": 1994,
+      "text": "The sitcom Friends premieres on NBC.",
+      "category": "news"
     }
   ],
   "births": [
     {
       "year": 1791,
       "text": "Michael Faraday, English scientist"
+    },
+    {
+      "year": 1958,
+      "text": "Andrea Bocelli, Italian tenor"
+    },
+    {
+      "year": 1987,
+      "text": "Tom Felton, English actor"
     }
   ],
   "deaths": [

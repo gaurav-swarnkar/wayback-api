@@ -7,17 +7,37 @@
   "events": [
     {
       "year": 1805,
-      "text": "Battle of Trafalgar: the British fleet under Nelson defeats France and Spain."
+      "text": "Battle of Trafalgar: the British fleet under Nelson defeats France and Spain.",
+      "category": "conflict"
+    },
+    {
+      "year": 1944,
+      "text": "Aachen becomes the first German city captured by the Allies.",
+      "category": "conflict"
     },
     {
       "year": 1959,
-      "text": "The Solomon R. Guggenheim Museum opens in New York."
+      "text": "The Solomon R. Guggenheim Museum opens in New York.",
+      "category": "news"
+    },
+    {
+      "year": 1966,
+      "text": "A colliery spoil tip collapses onto the Welsh village of Aberfan, killing 144 people.",
+      "category": "news"
     }
   ],
   "births": [
     {
       "year": 1833,
       "text": "Alfred Nobel, Swedish chemist who founded the Nobel Prizes"
+    },
+    {
+      "year": 1917,
+      "text": "Dizzy Gillespie, American jazz trumpeter"
+    },
+    {
+      "year": 1956,
+      "text": "Carrie Fisher, American actress"
     }
   ],
   "deaths": [

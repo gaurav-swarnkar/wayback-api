@@ -3,20 +3,49 @@
   "names": [],
   "events": [
     {
+      "year": 1759,
+      "text": "Quebec surrenders to the British during the Seven Years' War.",
+      "category": "conflict"
+    },
+    {
       "year": 1793,
-      "text": "George Washington lays the cornerstone of the U.S. Capitol."
+      "text": "George Washington lays the cornerstone of the U.S. Capitol.",
+      "category": "news"
+    },
+    {
+      "year": 1850,
+      "text": "The U.S. Congress passes the Fugitive Slave Act.",
+      "category": "conflict"
     },
     {
       "year": 1851,
-      "text": "The New York Times publishes its first issue."
+      "text": "The New York Times publishes its first issue.",
+      "category": "news"
+    },
+    {
+      "year": 1927,
+      "text": "The Columbia Phonographic Broadcasting System, later CBS, goes on the air.",
+      "category": "news"
     },
     {
       "year": 1947,
-      "text": "The United States Air Force is established as a separate military branch."
+      "text": "The United States Air Force is established as a separate military branch.",
+      "category": "conflict"
+    },
+    {
+      "year": 1977,
+      "text": "Voyager 1 takes the first photograph of the Earth and Moon together.",
+      "category": "science"
+    },
+    {
+      "year": 1998,
+      "text": "ICANN is founded to manage the internet's domain name system.",
+      "category": "science"
     },
     {
       "year": 2014,
-      "text": "Scotland votes against independence in a referendum."
+      "text": "Scotland votes against independence in a referendum.",
+      "category": "conflict"
     }
   ],
   "births": [
@@ -27,6 +56,10 @@
     {
       "year": 1905,
       "text": "Greta Garbo, Swedish actress"
+    },
+    {
+      "year": 1940,
+      "text": "Frankie Avalon, American singer"
     }
   ],
   "deaths": [

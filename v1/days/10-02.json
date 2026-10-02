@@ -7,15 +7,38 @@
   "events": [
     {
       "year": 1187,
-      "text": "Saladin captures Jerusalem from the Crusaders."
+      "text": "Saladin captures Jerusalem from the Crusaders.",
+      "category": "conflict"
+    },
+    {
+      "year": 1836,
+      "text": "HMS Beagle returns to England with Charles Darwin after its five-year voyage.",
+      "category": "science"
+    },
+    {
+      "year": 1944,
+      "text": "The Warsaw Uprising ends with the surrender of the Polish Home Army.",
+      "category": "conflict"
     },
     {
       "year": 1950,
-      "text": "Charles Schulz's comic strip Peanuts is first published."
+      "text": "Charles Schulz's comic strip Peanuts is first published.",
+      "category": "news"
     },
     {
       "year": 1958,
-      "text": "Guinea declares independence from France."
+      "text": "Guinea declares independence from France.",
+      "category": "conflict"
+    },
+    {
+      "year": 1959,
+      "text": "The Twilight Zone premieres on CBS.",
+      "category": "news"
+    },
+    {
+      "year": 1967,
+      "text": "Thurgood Marshall is sworn in as the first African-American U.S. Supreme Court justice.",
+      "category": "news"
     }
   ],
   "births": [

@@ -4,17 +4,33 @@
   "events": [
     {
       "year": 1781,
-      "text": "Lord Cornwallis surrenders at Yorktown, effectively ending the American Revolutionary War."
+      "text": "Lord Cornwallis surrenders at Yorktown, effectively ending the American Revolutionary War.",
+      "category": "conflict"
+    },
+    {
+      "year": 1812,
+      "text": "Napoleon's army begins its retreat from Moscow.",
+      "category": "conflict"
+    },
+    {
+      "year": 1943,
+      "text": "Albert Schatz isolates the antibiotic streptomycin.",
+      "category": "science"
     },
     {
       "year": 1987,
-      "text": "Black Monday: stock markets around the world crash."
+      "text": "Black Monday: stock markets around the world crash.",
+      "category": "news"
     }
   ],
   "births": [
     {
       "year": 1931,
       "text": "John le Carré, English spy novelist"
+    },
+    {
+      "year": 1945,
+      "text": "John Lithgow, American actor"
     }
   ],
   "deaths": [

@@ -6,15 +6,33 @@
   "events": [
     {
       "year": 1066,
-      "text": "Battle of Hastings: William of Normandy defeats King Harold II."
+      "text": "Battle of Hastings: William of Normandy defeats King Harold II.",
+      "category": "conflict"
+    },
+    {
+      "year": 1926,
+      "text": "A. A. Milne's Winnie-the-Pooh is published.",
+      "category": "news"
     },
     {
       "year": 1947,
-      "text": "Chuck Yeager becomes the first pilot to fly faster than sound."
+      "text": "Chuck Yeager becomes the first pilot to fly faster than sound.",
+      "category": "science"
+    },
+    {
+      "year": 1962,
+      "text": "A U-2 spy plane photographs Soviet missile sites in Cuba.",
+      "category": "conflict"
     },
     {
       "year": 1964,
-      "text": "Martin Luther King Jr. is awarded the Nobel Peace Prize."
+      "text": "Martin Luther King Jr. is awarded the Nobel Peace Prize.",
+      "category": "news"
+    },
+    {
+      "year": 2012,
+      "text": "Felix Baumgartner skydives from the stratosphere, breaking the sound barrier in free fall.",
+      "category": "science"
     }
   ],
   "births": [
@@ -25,6 +43,10 @@
     {
       "year": 1939,
       "text": "Ralph Lauren, American fashion designer"
+    },
+    {
+      "year": 1940,
+      "text": "Cliff Richard, British singer"
     }
   ],
   "deaths": [

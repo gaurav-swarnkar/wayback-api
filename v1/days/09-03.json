@@ -5,26 +5,59 @@
   ],
   "events": [
     {
+      "year": 1189,
+      "text": "Richard I is crowned King of England at Westminster.",
+      "category": "news"
+    },
+    {
       "year": 1783,
-      "text": "The Treaty of Paris is signed, ending the American Revolutionary War."
+      "text": "The Treaty of Paris is signed, ending the American Revolutionary War.",
+      "category": "conflict"
+    },
+    {
+      "year": 1838,
+      "text": "Frederick Douglass escapes from slavery in Maryland.",
+      "category": "news"
+    },
+    {
+      "year": 1935,
+      "text": "Malcolm Campbell becomes the first person to drive a car faster than 300 mph.",
+      "category": "science"
     },
     {
       "year": 1939,
-      "text": "Britain and France declare war on Germany."
+      "text": "Britain and France declare war on Germany.",
+      "category": "conflict"
+    },
+    {
+      "year": 1967,
+      "text": "Sweden switches from driving on the left to driving on the right.",
+      "category": "news"
     },
     {
       "year": 1971,
-      "text": "Qatar becomes an independent state."
+      "text": "Qatar becomes an independent state.",
+      "category": "conflict"
     },
     {
       "year": 1976,
-      "text": "NASA's Viking 2 spacecraft lands on Mars."
+      "text": "NASA's Viking 2 spacecraft lands on Mars.",
+      "category": "science"
+    },
+    {
+      "year": 1995,
+      "text": "Pierre Omidyar launches AuctionWeb, the website that becomes eBay.",
+      "category": "science"
     }
   ],
   "births": [
     {
       "year": 1875,
       "text": "Ferdinand Porsche, Austrian automotive engineer"
+    },
+    {
+      "year": 1913,
+      "text": "Alan Ladd, American actor"
     },
     {
       "year": 1965,

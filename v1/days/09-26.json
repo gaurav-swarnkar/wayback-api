@@ -5,16 +5,44 @@
   ],
   "events": [
     {
+      "year": 1580,
+      "text": "Francis Drake completes his circumnavigation of the world.",
+      "category": "science"
+    },
+    {
+      "year": 1907,
+      "text": "New Zealand becomes a dominion of the British Empire.",
+      "category": "conflict"
+    },
+    {
+      "year": 1934,
+      "text": "The ocean liner RMS Queen Mary is launched in Scotland.",
+      "category": "science"
+    },
+    {
+      "year": 1957,
+      "text": "The musical West Side Story opens on Broadway.",
+      "category": "news"
+    },
+    {
       "year": 1960,
-      "text": "Kennedy and Nixon take part in the first televised U.S. presidential debate."
+      "text": "Kennedy and Nixon take part in the first televised U.S. presidential debate.",
+      "category": "news"
     },
     {
       "year": 1969,
-      "text": "The Beatles release Abbey Road."
+      "text": "The Beatles release Abbey Road.",
+      "category": "news"
     },
     {
       "year": 1983,
-      "text": "Soviet officer Stanislav Petrov correctly judges a missile alert to be false, averting nuclear war."
+      "text": "Soviet officer Stanislav Petrov correctly judges a missile alert to be false, averting nuclear war.",
+      "category": "conflict"
+    },
+    {
+      "year": 1984,
+      "text": "Britain and China agree on the return of Hong Kong to China in 1997.",
+      "category": "conflict"
     }
   ],
   "births": [

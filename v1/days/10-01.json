@@ -7,24 +7,49 @@
   ],
   "events": [
     {
+      "year": 1890,
+      "text": "Yosemite National Park is established in California.",
+      "category": "news"
+    },
+    {
       "year": 1908,
-      "text": "Ford puts the Model T on sale."
+      "text": "Ford puts the Model T on sale.",
+      "category": "science"
+    },
+    {
+      "year": 1946,
+      "text": "Mensa, the high-IQ society, is founded in England.",
+      "category": "news"
+    },
+    {
+      "year": 1946,
+      "text": "The Nuremberg trials deliver their verdicts on leading Nazis.",
+      "category": "conflict"
     },
     {
       "year": 1949,
-      "text": "Mao Zedong proclaims the People's Republic of China."
+      "text": "Mao Zedong proclaims the People's Republic of China.",
+      "category": "conflict"
     },
     {
       "year": 1958,
-      "text": "NASA is established as the U.S. space agency."
+      "text": "NASA is established as the U.S. space agency.",
+      "category": "science"
     },
     {
       "year": 1960,
-      "text": "Nigeria gains independence from the United Kingdom."
+      "text": "Nigeria gains independence from the United Kingdom.",
+      "category": "conflict"
+    },
+    {
+      "year": 1964,
+      "text": "Japan's Tōkaidō Shinkansen, the first high-speed bullet train, begins service.",
+      "category": "science"
     },
     {
       "year": 1971,
-      "text": "Walt Disney World opens in Florida."
+      "text": "Walt Disney World opens in Florida.",
+      "category": "news"
     }
   ],
   "births": [
@@ -35,6 +60,10 @@
     {
       "year": 1935,
       "text": "Julie Andrews, English actress"
+    },
+    {
+      "year": 1945,
+      "text": "Ram Nath Kovind, President of India"
     }
   ],
   "deaths": []

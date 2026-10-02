@@ -6,21 +6,43 @@
   "events": [
     {
       "year": 1777,
-      "text": "General Burgoyne surrenders at Saratoga in the American Revolutionary War."
+      "text": "General Burgoyne surrenders at Saratoga in the American Revolutionary War.",
+      "category": "conflict"
+    },
+    {
+      "year": 1931,
+      "text": "Gangster Al Capone is convicted of tax evasion.",
+      "category": "news"
+    },
+    {
+      "year": 1933,
+      "text": "Albert Einstein arrives in the United States as a refugee from Nazi Germany.",
+      "category": "news"
     },
     {
       "year": 1956,
-      "text": "Calder Hall in England, the first commercial nuclear power station, opens."
+      "text": "Calder Hall in England, the first commercial nuclear power station, opens.",
+      "category": "science"
+    },
+    {
+      "year": 1973,
+      "text": "Arab oil producers begin an oil embargo against the United States.",
+      "category": "conflict"
     },
     {
       "year": 1989,
-      "text": "The Loma Prieta earthquake strikes the San Francisco Bay Area."
+      "text": "The Loma Prieta earthquake strikes the San Francisco Bay Area.",
+      "category": "news"
     }
   ],
   "births": [
     {
       "year": 1915,
       "text": "Arthur Miller, American playwright"
+    },
+    {
+      "year": 1938,
+      "text": "Evel Knievel, American stunt performer"
     },
     {
       "year": 1972,

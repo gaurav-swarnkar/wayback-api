@@ -6,21 +6,53 @@
   "events": [
     {
       "year": 1793,
-      "text": "Marie Antoinette is guillotined during the French Revolution."
+      "text": "Marie Antoinette is guillotined during the French Revolution.",
+      "category": "conflict"
+    },
+    {
+      "year": 1846,
+      "text": "Ether anaesthesia is demonstrated in public for the first time, at Massachusetts General Hospital.",
+      "category": "science"
+    },
+    {
+      "year": 1847,
+      "text": "Charlotte Brontë's novel Jane Eyre is published.",
+      "category": "news"
     },
     {
       "year": 1923,
-      "text": "The Walt Disney Company is founded."
+      "text": "The Walt Disney Company is founded.",
+      "category": "news"
     },
     {
       "year": 1962,
-      "text": "The Cuban Missile Crisis begins when Kennedy is shown photos of Soviet missiles in Cuba."
+      "text": "The Cuban Missile Crisis begins when Kennedy is shown photos of Soviet missiles in Cuba.",
+      "category": "conflict"
+    },
+    {
+      "year": 1964,
+      "text": "China tests its first atomic bomb.",
+      "category": "science"
+    },
+    {
+      "year": 1968,
+      "text": "Tommie Smith and John Carlos raise their fists in protest on the Olympic podium.",
+      "category": "conflict"
+    },
+    {
+      "year": 1978,
+      "text": "Karol Wojtyła is elected Pope John Paul II, the first non-Italian pope in over 400 years.",
+      "category": "news"
     }
   ],
   "births": [
     {
       "year": 1854,
       "text": "Oscar Wilde, Irish writer"
+    },
+    {
+      "year": 1886,
+      "text": "David Ben-Gurion, first Prime Minister of Israel"
     },
     {
       "year": 1948,

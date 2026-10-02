@@ -5,20 +5,54 @@
   ],
   "events": [
     {
+      "year": 1683,
+      "text": "Battle of Vienna: a Polish-led army breaks the Ottoman siege of Vienna.",
+      "category": "conflict"
+    },
+    {
+      "year": 1848,
+      "text": "Switzerland adopts a new constitution, becoming a federal state.",
+      "category": "conflict"
+    },
+    {
+      "year": 1910,
+      "text": "Gustav Mahler's Symphony No. 8 premieres in Munich.",
+      "category": "news"
+    },
+    {
       "year": 1940,
-      "text": "Prehistoric cave paintings are discovered at Lascaux, France."
+      "text": "Prehistoric cave paintings are discovered at Lascaux, France.",
+      "category": "science"
+    },
+    {
+      "year": 1953,
+      "text": "John F. Kennedy marries Jacqueline Bouvier in Newport, Rhode Island.",
+      "category": "news"
+    },
+    {
+      "year": 1958,
+      "text": "Jack Kilby demonstrates the first working integrated circuit.",
+      "category": "science"
     },
     {
       "year": 1959,
-      "text": "The Soviet Union launches Luna 2 towards the Moon."
+      "text": "The Soviet Union launches Luna 2 towards the Moon.",
+      "category": "science"
     },
     {
       "year": 1962,
-      "text": "President Kennedy gives his \"We choose to go to the Moon\" speech at Rice University."
+      "text": "President Kennedy gives his \"We choose to go to the Moon\" speech at Rice University.",
+      "category": "science"
     },
     {
       "year": 1974,
-      "text": "Emperor Haile Selassie of Ethiopia is deposed."
+      "text": "Emperor Haile Selassie of Ethiopia is deposed.",
+      "category": "conflict"
+    },
+    {
+      "year": 1992,
+      "text": "Mae Jemison becomes the first African-American woman in space aboard Space Shuttle Endeavour.",
+      "category": "science"
     }
   ],
   "births": [
@@ -29,6 +63,10 @@
     {
       "year": 1944,
       "text": "Barry White, American singer"
+    },
+    {
+      "year": 1973,
+      "text": "Paul Walker, American actor"
     }
   ],
   "deaths": [

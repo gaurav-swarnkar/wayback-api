@@ -6,25 +6,58 @@
   "events": [
     {
       "year": 1787,
-      "text": "The United States Constitution is signed in Philadelphia."
+      "text": "The United States Constitution is signed in Philadelphia.",
+      "category": "conflict"
     },
     {
       "year": 1862,
-      "text": "Battle of Antietam, the bloodiest single day of the American Civil War."
+      "text": "Battle of Antietam, the bloodiest single day of the American Civil War.",
+      "category": "conflict"
+    },
+    {
+      "year": 1908,
+      "text": "Thomas Selfridge becomes the first person killed in a powered aeroplane crash, flying with Orville Wright.",
+      "category": "science"
+    },
+    {
+      "year": 1920,
+      "text": "The American Professional Football Association, later the NFL, is founded.",
+      "category": "news"
     },
     {
       "year": 1939,
-      "text": "The Soviet Union invades Poland."
+      "text": "The Soviet Union invades Poland.",
+      "category": "conflict"
+    },
+    {
+      "year": 1976,
+      "text": "NASA unveils the Space Shuttle Enterprise.",
+      "category": "science"
     },
     {
       "year": 1978,
-      "text": "Egypt and Israel sign the Camp David Accords."
+      "text": "Egypt and Israel sign the Camp David Accords.",
+      "category": "conflict"
+    },
+    {
+      "year": 1983,
+      "text": "Vanessa Williams becomes the first Black woman crowned Miss America.",
+      "category": "news"
+    },
+    {
+      "year": 2011,
+      "text": "The Occupy Wall Street protest begins in New York.",
+      "category": "conflict"
     }
   ],
   "births": [
     {
       "year": 1931,
       "text": "Anne Bancroft, American actress"
+    },
+    {
+      "year": 1935,
+      "text": "Ken Kesey, American author"
     },
     {
       "year": 1950,

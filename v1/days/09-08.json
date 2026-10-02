@@ -6,23 +6,48 @@
   "events": [
     {
       "year": 1565,
-      "text": "St. Augustine, Florida, the oldest continuously inhabited European settlement in the U.S., is founded."
+      "text": "St. Augustine, Florida, the oldest continuously inhabited European settlement in the U.S., is founded.",
+      "category": "news"
+    },
+    {
+      "year": 1883,
+      "text": "The Northern Pacific Railway is completed with a golden spike in Montana.",
+      "category": "science"
+    },
+    {
+      "year": 1930,
+      "text": "3M begins selling Scotch transparent tape.",
+      "category": "science"
     },
     {
       "year": 1943,
-      "text": "Italy's armistice with the Allies is announced during the Second World War."
+      "text": "Italy's armistice with the Allies is announced during the Second World War.",
+      "category": "conflict"
     },
     {
       "year": 1944,
-      "text": "London is hit by a V-2 rocket for the first time."
+      "text": "London is hit by a V-2 rocket for the first time.",
+      "category": "conflict"
     },
     {
       "year": 1966,
-      "text": "Star Trek premieres on NBC television."
+      "text": "Star Trek premieres on NBC television.",
+      "category": "news"
+    },
+    {
+      "year": 1974,
+      "text": "U.S. President Gerald Ford pardons Richard Nixon.",
+      "category": "conflict"
+    },
+    {
+      "year": 2016,
+      "text": "NASA launches OSIRIS-REx to collect a sample from asteroid Bennu.",
+      "category": "science"
     },
     {
       "year": 2022,
-      "text": "Queen Elizabeth II dies at Balmoral after 70 years on the throne."
+      "text": "Queen Elizabeth II dies at Balmoral after 70 years on the throne.",
+      "category": "news"
     }
   ],
   "births": [

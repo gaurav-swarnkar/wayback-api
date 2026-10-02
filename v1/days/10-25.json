@@ -4,19 +4,33 @@
   "events": [
     {
       "year": 1415,
-      "text": "Battle of Agincourt: Henry V's English army defeats the French."
+      "text": "Battle of Agincourt: Henry V's English army defeats the French.",
+      "category": "conflict"
+    },
+    {
+      "year": 1760,
+      "text": "George III becomes King of Great Britain.",
+      "category": "news"
     },
     {
       "year": 1854,
-      "text": "The Charge of the Light Brigade takes place during the Crimean War."
+      "text": "The Charge of the Light Brigade takes place during the Crimean War.",
+      "category": "conflict"
     },
     {
       "year": 1971,
-      "text": "The UN General Assembly seats the People's Republic of China."
+      "text": "The UN General Assembly seats the People's Republic of China.",
+      "category": "conflict"
+    },
+    {
+      "year": 1983,
+      "text": "The United States invades Grenada.",
+      "category": "conflict"
     },
     {
       "year": 2001,
-      "text": "Microsoft releases Windows XP."
+      "text": "Microsoft releases Windows XP.",
+      "category": "science"
     }
   ],
   "births": [

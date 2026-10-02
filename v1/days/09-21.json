@@ -8,19 +8,48 @@
   "events": [
     {
       "year": 1792,
-      "text": "The French National Convention abolishes the monarchy."
+      "text": "The French National Convention abolishes the monarchy.",
+      "category": "news"
+    },
+    {
+      "year": 1897,
+      "text": "The New York Sun publishes \"Yes, Virginia, there is a Santa Claus\".",
+      "category": "news"
     },
     {
       "year": 1937,
-      "text": "J. R. R. Tolkien's The Hobbit is published."
+      "text": "J. R. R. Tolkien's The Hobbit is published.",
+      "category": "news"
     },
     {
       "year": 1964,
-      "text": "Malta gains independence from the United Kingdom."
+      "text": "Malta gains independence from the United Kingdom.",
+      "category": "conflict"
     },
     {
       "year": 1981,
-      "text": "Belize gains independence from the United Kingdom."
+      "text": "Belize gains independence from the United Kingdom.",
+      "category": "conflict"
+    },
+    {
+      "year": 1989,
+      "text": "Hurricane Hugo makes landfall in South Carolina.",
+      "category": "news"
+    },
+    {
+      "year": 1991,
+      "text": "Armenia declares independence from the Soviet Union.",
+      "category": "conflict"
+    },
+    {
+      "year": 1999,
+      "text": "The Chi-Chi earthquake kills more than 2,400 people in Taiwan.",
+      "category": "news"
+    },
+    {
+      "year": 2003,
+      "text": "NASA's Galileo spacecraft ends its mission by plunging into Jupiter.",
+      "category": "science"
     }
   ],
   "births": [

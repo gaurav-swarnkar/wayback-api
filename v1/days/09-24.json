@@ -6,25 +6,53 @@
   "events": [
     {
       "year": 1789,
-      "text": "The Judiciary Act creates the U.S. Supreme Court."
+      "text": "The Judiciary Act creates the U.S. Supreme Court.",
+      "category": "conflict"
+    },
+    {
+      "year": 1852,
+      "text": "Henri Giffard makes the first flight in a powered airship.",
+      "category": "science"
     },
     {
       "year": 1906,
-      "text": "Devils Tower in Wyoming becomes the first U.S. national monument."
+      "text": "Devils Tower in Wyoming becomes the first U.S. national monument.",
+      "category": "news"
     },
     {
       "year": 1948,
-      "text": "The Honda Motor Company is founded in Japan."
+      "text": "The Honda Motor Company is founded in Japan.",
+      "category": "news"
+    },
+    {
+      "year": 1960,
+      "text": "USS Enterprise, the first nuclear-powered aircraft carrier, is launched.",
+      "category": "science"
+    },
+    {
+      "year": 1973,
+      "text": "Guinea-Bissau declares independence from Portugal.",
+      "category": "conflict"
     },
     {
       "year": 1991,
-      "text": "Nirvana releases the album Nevermind."
+      "text": "Nirvana releases the album Nevermind.",
+      "category": "news"
+    },
+    {
+      "year": 2014,
+      "text": "India's Mangalyaan probe enters orbit around Mars on its first attempt.",
+      "category": "science"
     }
   ],
   "births": [
     {
       "year": 1896,
       "text": "F. Scott Fitzgerald, American author of The Great Gatsby"
+    },
+    {
+      "year": 1898,
+      "text": "Howard Florey, Australian pharmacologist who helped develop penicillin"
     },
     {
       "year": 1936,

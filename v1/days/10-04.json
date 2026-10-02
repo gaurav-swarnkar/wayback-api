@@ -6,16 +6,44 @@
   ],
   "events": [
     {
+      "year": 1830,
+      "text": "Belgium proclaims its independence from the Netherlands.",
+      "category": "conflict"
+    },
+    {
+      "year": 1883,
+      "text": "The Orient Express makes its first run from Paris.",
+      "category": "news"
+    },
+    {
+      "year": 1895,
+      "text": "The first U.S. Open golf championship is played.",
+      "category": "news"
+    },
+    {
       "year": 1957,
-      "text": "The Soviet Union launches Sputnik 1, the first artificial satellite."
+      "text": "The Soviet Union launches Sputnik 1, the first artificial satellite.",
+      "category": "science"
+    },
+    {
+      "year": 1959,
+      "text": "The Soviet Union launches Luna 3 towards the Moon.",
+      "category": "science"
     },
     {
       "year": 1966,
-      "text": "Lesotho gains independence from the United Kingdom."
+      "text": "Lesotho gains independence from the United Kingdom.",
+      "category": "conflict"
+    },
+    {
+      "year": 1993,
+      "text": "Russian tanks shell the parliament building in Moscow, ending a constitutional crisis.",
+      "category": "conflict"
     },
     {
       "year": 2004,
-      "text": "SpaceShipOne wins the Ansari X Prize for private spaceflight."
+      "text": "SpaceShipOne wins the Ansari X Prize for private spaceflight.",
+      "category": "science"
     }
   ],
   "births": [
@@ -26,6 +54,10 @@
     {
       "year": 1928,
       "text": "Alvin Toffler, American futurist"
+    },
+    {
+      "year": 1976,
+      "text": "Alicia Silverstone, American actress"
     }
   ],
   "deaths": [

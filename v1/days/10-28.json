@@ -7,19 +7,46 @@
   ],
   "events": [
     {
+      "year": 1636,
+      "text": "Harvard College is founded in Massachusetts.",
+      "category": "news"
+    },
+    {
       "year": 1886,
-      "text": "President Grover Cleveland dedicates the Statue of Liberty."
+      "text": "President Grover Cleveland dedicates the Statue of Liberty.",
+      "category": "news"
     },
     {
       "year": 1918,
-      "text": "Czechoslovakia declares independence."
+      "text": "Czechoslovakia declares independence.",
+      "category": "conflict"
+    },
+    {
+      "year": 1922,
+      "text": "Benito Mussolini's March on Rome begins.",
+      "category": "conflict"
     },
     {
       "year": 1962,
-      "text": "Khrushchev agrees to remove Soviet missiles from Cuba, ending the Cuban Missile Crisis."
+      "text": "Khrushchev agrees to remove Soviet missiles from Cuba, ending the Cuban Missile Crisis.",
+      "category": "conflict"
+    },
+    {
+      "year": 1965,
+      "text": "The Gateway Arch in St. Louis is completed.",
+      "category": "science"
+    },
+    {
+      "year": 1971,
+      "text": "Britain launches the satellite Prospero on its own Black Arrow rocket.",
+      "category": "science"
     }
   ],
   "births": [
+    {
+      "year": 1903,
+      "text": "Evelyn Waugh, English novelist"
+    },
     {
       "year": 1955,
       "text": "Bill Gates, American co-founder of Microsoft"

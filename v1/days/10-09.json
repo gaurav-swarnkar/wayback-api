@@ -7,22 +7,53 @@
   ],
   "events": [
     {
+      "year": 1604,
+      "text": "Astronomers first observe Kepler's Supernova.",
+      "category": "science"
+    },
+    {
       "year": 1874,
-      "text": "The Universal Postal Union is founded in Bern."
+      "text": "The Universal Postal Union is founded in Bern.",
+      "category": "news"
+    },
+    {
+      "year": 1888,
+      "text": "The Washington Monument opens to the public.",
+      "category": "news"
     },
     {
       "year": 1962,
-      "text": "Uganda gains independence from the United Kingdom."
+      "text": "Uganda gains independence from the United Kingdom.",
+      "category": "conflict"
     },
     {
       "year": 1967,
-      "text": "Che Guevara is executed in Bolivia."
+      "text": "Che Guevara is executed in Bolivia.",
+      "category": "conflict"
+    },
+    {
+      "year": 2009,
+      "text": "NASA's LCROSS probe crashes into the Moon to search for water.",
+      "category": "science"
+    },
+    {
+      "year": 2012,
+      "text": "Malala Yousafzai is shot by the Taliban for campaigning for girls' education.",
+      "category": "conflict"
     }
   ],
   "births": [
     {
       "year": 1940,
       "text": "John Lennon, English musician (The Beatles)"
+    },
+    {
+      "year": 1964,
+      "text": "Guillermo del Toro, Mexican filmmaker"
+    },
+    {
+      "year": 1975,
+      "text": "Sean Lennon, American musician"
     }
   ],
   "deaths": [
