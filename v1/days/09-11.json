@@ -1,0 +1,44 @@
+{
+  "date": "09-11",
+  "names": [
+    "Patriot Day (United States)"
+  ],
+  "events": [
+    {
+      "year": 1297,
+      "text": "Battle of Stirling Bridge: William Wallace's Scots defeat the English army."
+    },
+    {
+      "year": 1906,
+      "text": "Mahatma Gandhi launches the Satyagraha movement of non-violent protest in Johannesburg."
+    },
+    {
+      "year": 1973,
+      "text": "A military coup in Chile overthrows President Salvador Allende."
+    },
+    {
+      "year": 1997,
+      "text": "Scotland votes in a referendum to establish its own parliament."
+    },
+    {
+      "year": 2001,
+      "text": "The September 11 attacks kill nearly 3,000 people in the United States."
+    }
+  ],
+  "births": [
+    {
+      "year": 1862,
+      "text": "O. Henry, American short-story writer"
+    },
+    {
+      "year": 1965,
+      "text": "Moby, American musician"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1948,
+      "text": "Muhammad Ali Jinnah, founder of Pakistan"
+    }
+  ]
+}

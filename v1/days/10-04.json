@@ -1,0 +1,41 @@
+{
+  "date": "10-04",
+  "names": [
+    "World Animal Day",
+    "Feast of Saint Francis of Assisi"
+  ],
+  "events": [
+    {
+      "year": 1957,
+      "text": "The Soviet Union launches Sputnik 1, the first artificial satellite."
+    },
+    {
+      "year": 1966,
+      "text": "Lesotho gains independence from the United Kingdom."
+    },
+    {
+      "year": 2004,
+      "text": "SpaceShipOne wins the Ansari X Prize for private spaceflight."
+    }
+  ],
+  "births": [
+    {
+      "year": 1895,
+      "text": "Buster Keaton, American comedian"
+    },
+    {
+      "year": 1928,
+      "text": "Alvin Toffler, American futurist"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1669,
+      "text": "Rembrandt, Dutch painter"
+    },
+    {
+      "year": 1970,
+      "text": "Janis Joplin, American singer"
+    }
+  ]
+}

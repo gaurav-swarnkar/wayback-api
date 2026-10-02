@@ -1,0 +1,33 @@
+{
+  "date": "10-28",
+  "names": [
+    "Ohi Day (Greece)",
+    "Independent Czechoslovak State Day",
+    "International Animation Day"
+  ],
+  "events": [
+    {
+      "year": 1886,
+      "text": "President Grover Cleveland dedicates the Statue of Liberty."
+    },
+    {
+      "year": 1918,
+      "text": "Czechoslovakia declares independence."
+    },
+    {
+      "year": 1962,
+      "text": "Khrushchev agrees to remove Soviet missiles from Cuba, ending the Cuban Missile Crisis."
+    }
+  ],
+  "births": [
+    {
+      "year": 1955,
+      "text": "Bill Gates, American co-founder of Microsoft"
+    },
+    {
+      "year": 1967,
+      "text": "Julia Roberts, American actress"
+    }
+  ],
+  "deaths": []
+}

@@ -1,0 +1,47 @@
+{
+  "date": "10-31",
+  "names": [
+    "Halloween",
+    "Reformation Day",
+    "National Unity Day (India)",
+    "World Cities Day"
+  ],
+  "events": [
+    {
+      "year": 1517,
+      "text": "Martin Luther publishes his Ninety-five Theses, sparking the Reformation."
+    },
+    {
+      "year": 1941,
+      "text": "Work on Mount Rushmore is completed."
+    },
+    {
+      "year": 1984,
+      "text": "Indian Prime Minister Indira Gandhi is assassinated."
+    },
+    {
+      "year": 2011,
+      "text": "The world's population reaches seven billion, according to the United Nations."
+    }
+  ],
+  "births": [
+    {
+      "year": 1795,
+      "text": "John Keats, English poet"
+    },
+    {
+      "year": 1875,
+      "text": "Vallabhbhai Patel, Indian independence leader"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1926,
+      "text": "Harry Houdini, Hungarian-American escape artist"
+    },
+    {
+      "year": 1984,
+      "text": "Indira Gandhi, Prime Minister of India"
+    }
+  ]
+}

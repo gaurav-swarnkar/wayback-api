@@ -1,0 +1,44 @@
+{
+  "date": "09-01",
+  "names": [
+    "Independence Day (Uzbekistan)",
+    "Constitution Day (Slovakia)"
+  ],
+  "events": [
+    {
+      "year": 1939,
+      "text": "Germany invades Poland, beginning the Second World War in Europe."
+    },
+    {
+      "year": 1923,
+      "text": "The Great Kantō earthquake devastates Tokyo and Yokohama."
+    },
+    {
+      "year": 1969,
+      "text": "Muammar Gaddafi seizes power in Libya in a military coup."
+    },
+    {
+      "year": 1983,
+      "text": "Korean Air Lines Flight 007 is shot down by a Soviet interceptor."
+    },
+    {
+      "year": 1985,
+      "text": "The wreck of the Titanic is located by a Franco-American expedition."
+    }
+  ],
+  "births": [
+    {
+      "year": 1875,
+      "text": "Edgar Rice Burroughs, American author of Tarzan"
+    },
+    {
+      "year": 1946,
+      "text": "Barry Gibb, British-Australian singer (Bee Gees)"
+    },
+    {
+      "year": 1957,
+      "text": "Gloria Estefan, Cuban-American singer"
+    }
+  ],
+  "deaths": []
+}

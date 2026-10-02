@@ -1,0 +1,33 @@
+{
+  "date": "09-22",
+  "names": [
+    "World Rhino Day",
+    "Independence Day (Mali)"
+  ],
+  "events": [
+    {
+      "year": 1862,
+      "text": "Abraham Lincoln issues the preliminary Emancipation Proclamation."
+    },
+    {
+      "year": 1960,
+      "text": "Mali declares independence from France."
+    },
+    {
+      "year": 1980,
+      "text": "Iraq invades Iran, beginning the Iran–Iraq War."
+    }
+  ],
+  "births": [
+    {
+      "year": 1791,
+      "text": "Michael Faraday, English scientist"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1539,
+      "text": "Guru Nanak, founder of Sikhism"
+    }
+  ]
+}

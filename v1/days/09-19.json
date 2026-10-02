@@ -1,0 +1,40 @@
+{
+  "date": "09-19",
+  "names": [
+    "International Talk Like a Pirate Day"
+  ],
+  "events": [
+    {
+      "year": 1356,
+      "text": "Battle of Poitiers: the English capture King John II of France."
+    },
+    {
+      "year": 1783,
+      "text": "The Montgolfier brothers fly a sheep, a duck and a rooster in a hot-air balloon at Versailles."
+    },
+    {
+      "year": 1893,
+      "text": "New Zealand becomes the first country to give women the vote in national elections."
+    },
+    {
+      "year": 1991,
+      "text": "Ötzi the Iceman, a 5,300-year-old mummy, is discovered in the Alps."
+    }
+  ],
+  "births": [
+    {
+      "year": 1934,
+      "text": "Brian Epstein, manager of the Beatles"
+    },
+    {
+      "year": 1974,
+      "text": "Jimmy Fallon, American comedian"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1881,
+      "text": "James A. Garfield, 20th U.S. President"
+    }
+  ]
+}

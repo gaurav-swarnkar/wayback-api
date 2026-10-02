@@ -1,0 +1,29 @@
+{
+  "date": "10-21",
+  "names": [
+    "Trafalgar Day",
+    "Police Commemoration Day (India)"
+  ],
+  "events": [
+    {
+      "year": 1805,
+      "text": "Battle of Trafalgar: the British fleet under Nelson defeats France and Spain."
+    },
+    {
+      "year": 1959,
+      "text": "The Solomon R. Guggenheim Museum opens in New York."
+    }
+  ],
+  "births": [
+    {
+      "year": 1833,
+      "text": "Alfred Nobel, Swedish chemist who founded the Nobel Prizes"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1805,
+      "text": "Horatio Nelson, British admiral"
+    }
+  ]
+}

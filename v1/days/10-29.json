@@ -1,0 +1,32 @@
+{
+  "date": "10-29",
+  "names": [
+    "Republic Day (Turkey)",
+    "International Internet Day"
+  ],
+  "events": [
+    {
+      "year": 1923,
+      "text": "The Republic of Turkey is proclaimed."
+    },
+    {
+      "year": 1929,
+      "text": "Black Tuesday: the Wall Street Crash deepens, starting the Great Depression."
+    },
+    {
+      "year": 1969,
+      "text": "The first message is sent over ARPANET, the forerunner of the internet."
+    },
+    {
+      "year": 1998,
+      "text": "John Glenn, aged 77, returns to space aboard Space Shuttle Discovery."
+    }
+  ],
+  "births": [],
+  "deaths": [
+    {
+      "year": 1911,
+      "text": "Joseph Pulitzer, American newspaper publisher"
+    }
+  ]
+}

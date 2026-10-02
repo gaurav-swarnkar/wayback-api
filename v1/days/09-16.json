@@ -1,0 +1,41 @@
+{
+  "date": "09-16",
+  "names": [
+    "International Day for the Preservation of the Ozone Layer",
+    "Malaysia Day"
+  ],
+  "events": [
+    {
+      "year": 1620,
+      "text": "The Mayflower sets sail from Plymouth, England, for the New World."
+    },
+    {
+      "year": 1810,
+      "text": "Miguel Hidalgo's Cry of Dolores begins the Mexican War of Independence."
+    },
+    {
+      "year": 1963,
+      "text": "Malaysia is formed from Malaya, Singapore, Sabah and Sarawak."
+    },
+    {
+      "year": 1987,
+      "text": "The Montreal Protocol to protect the ozone layer is signed."
+    }
+  ],
+  "births": [
+    {
+      "year": 1925,
+      "text": "B.B. King, American blues guitarist"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1977,
+      "text": "Maria Callas, Greek-American soprano"
+    },
+    {
+      "year": 1977,
+      "text": "Marc Bolan, English singer (T. Rex)"
+    }
+  ]
+}

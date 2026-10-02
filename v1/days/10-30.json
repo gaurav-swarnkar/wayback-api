@@ -1,0 +1,29 @@
+{
+  "date": "10-30",
+  "names": [],
+  "events": [
+    {
+      "year": 1938,
+      "text": "Orson Welles's radio drama The War of the Worlds causes panic among listeners."
+    },
+    {
+      "year": 1961,
+      "text": "The Soviet Union detonates the Tsar Bomba, the largest nuclear weapon ever tested."
+    },
+    {
+      "year": 1974,
+      "text": "Muhammad Ali defeats George Foreman in the \"Rumble in the Jungle\" in Zaire."
+    }
+  ],
+  "births": [
+    {
+      "year": 1735,
+      "text": "John Adams, 2nd U.S. President"
+    },
+    {
+      "year": 1960,
+      "text": "Diego Maradona, Argentine footballer"
+    }
+  ],
+  "deaths": []
+}

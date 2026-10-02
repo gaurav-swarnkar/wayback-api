@@ -1,0 +1,32 @@
+{
+  "date": "10-05",
+  "names": [
+    "World Teachers' Day"
+  ],
+  "events": [
+    {
+      "year": 1789,
+      "text": "The Women's March on Versailles marks a turning point in the French Revolution."
+    },
+    {
+      "year": 1910,
+      "text": "Portugal becomes a republic after a revolution ends the monarchy."
+    },
+    {
+      "year": 1962,
+      "text": "The first James Bond film, Dr. No, premieres, and the Beatles release \"Love Me Do\"."
+    }
+  ],
+  "births": [
+    {
+      "year": 1975,
+      "text": "Kate Winslet, English actress"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 2011,
+      "text": "Steve Jobs, American co-founder of Apple"
+    }
+  ]
+}

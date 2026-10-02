@@ -1,0 +1,44 @@
+{
+  "date": "09-12",
+  "names": [
+    "Day for South-South Cooperation"
+  ],
+  "events": [
+    {
+      "year": 1940,
+      "text": "Prehistoric cave paintings are discovered at Lascaux, France."
+    },
+    {
+      "year": 1959,
+      "text": "The Soviet Union launches Luna 2 towards the Moon."
+    },
+    {
+      "year": 1962,
+      "text": "President Kennedy gives his \"We choose to go to the Moon\" speech at Rice University."
+    },
+    {
+      "year": 1974,
+      "text": "Emperor Haile Selassie of Ethiopia is deposed."
+    }
+  ],
+  "births": [
+    {
+      "year": 1913,
+      "text": "Jesse Owens, American Olympic sprinter"
+    },
+    {
+      "year": 1944,
+      "text": "Barry White, American singer"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1977,
+      "text": "Steve Biko, South African anti-apartheid activist"
+    },
+    {
+      "year": 2003,
+      "text": "Johnny Cash, American singer"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "10-03",
+  "names": [
+    "German Unity Day",
+    "National Foundation Day (South Korea)"
+  ],
+  "events": [
+    {
+      "year": 1932,
+      "text": "Iraq gains independence from the United Kingdom."
+    },
+    {
+      "year": 1952,
+      "text": "The United Kingdom tests its first atomic bomb off Australia."
+    },
+    {
+      "year": 1990,
+      "text": "East and West Germany are reunified."
+    }
+  ],
+  "births": [
+    {
+      "year": 1954,
+      "text": "Stevie Ray Vaughan, American blues guitarist"
+    },
+    {
+      "year": 1969,
+      "text": "Gwen Stefani, American singer"
+    }
+  ],
+  "deaths": []
+}

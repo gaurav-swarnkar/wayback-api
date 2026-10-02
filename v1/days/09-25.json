@@ -1,0 +1,40 @@
+{
+  "date": "09-25",
+  "names": [
+    "World Pharmacists Day"
+  ],
+  "events": [
+    {
+      "year": 1513,
+      "text": "Vasco Núñez de Balboa becomes the first European to see the Pacific from the Americas."
+    },
+    {
+      "year": 1789,
+      "text": "Congress passes twelve amendments, ten of which become the U.S. Bill of Rights."
+    },
+    {
+      "year": 1981,
+      "text": "Sandra Day O'Connor becomes the first woman on the U.S. Supreme Court."
+    }
+  ],
+  "births": [
+    {
+      "year": 1944,
+      "text": "Michael Douglas, American actor"
+    },
+    {
+      "year": 1968,
+      "text": "Will Smith, American actor"
+    },
+    {
+      "year": 1969,
+      "text": "Catherine Zeta-Jones, Welsh actress"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1980,
+      "text": "John Bonham, English drummer (Led Zeppelin)"
+    }
+  ]
+}

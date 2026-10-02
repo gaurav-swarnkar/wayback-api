@@ -1,0 +1,26 @@
+{
+  "date": "10-19",
+  "names": [],
+  "events": [
+    {
+      "year": 1781,
+      "text": "Lord Cornwallis surrenders at Yorktown, effectively ending the American Revolutionary War."
+    },
+    {
+      "year": 1987,
+      "text": "Black Monday: stock markets around the world crash."
+    }
+  ],
+  "births": [
+    {
+      "year": 1931,
+      "text": "John le Carré, English spy novelist"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1937,
+      "text": "Ernest Rutherford, New Zealand-born physicist"
+    }
+  ]
+}

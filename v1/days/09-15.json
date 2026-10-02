@@ -1,0 +1,40 @@
+{
+  "date": "09-15",
+  "names": [
+    "International Day of Democracy",
+    "Engineer's Day (India)"
+  ],
+  "events": [
+    {
+      "year": 1821,
+      "text": "Guatemala and other Central American provinces declare independence from Spain."
+    },
+    {
+      "year": 1835,
+      "text": "Charles Darwin aboard HMS Beagle reaches the Galápagos Islands."
+    },
+    {
+      "year": 1950,
+      "text": "Korean War: UN forces land at Inchon."
+    },
+    {
+      "year": 2008,
+      "text": "Lehman Brothers files for bankruptcy, deepening the global financial crisis."
+    }
+  ],
+  "births": [
+    {
+      "year": 1861,
+      "text": "M. Visvesvaraya, Indian civil engineer"
+    },
+    {
+      "year": 1890,
+      "text": "Agatha Christie, English crime novelist"
+    },
+    {
+      "year": 1984,
+      "text": "Prince Harry, Duke of Sussex"
+    }
+  ],
+  "deaths": []
+}

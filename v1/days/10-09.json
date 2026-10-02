@@ -1,0 +1,34 @@
+{
+  "date": "10-09",
+  "names": [
+    "World Post Day",
+    "Hangul Day (South Korea)",
+    "Independence Day (Uganda)"
+  ],
+  "events": [
+    {
+      "year": 1874,
+      "text": "The Universal Postal Union is founded in Bern."
+    },
+    {
+      "year": 1962,
+      "text": "Uganda gains independence from the United Kingdom."
+    },
+    {
+      "year": 1967,
+      "text": "Che Guevara is executed in Bolivia."
+    }
+  ],
+  "births": [
+    {
+      "year": 1940,
+      "text": "John Lennon, English musician (The Beatles)"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1967,
+      "text": "Che Guevara, Argentine revolutionary"
+    }
+  ]
+}

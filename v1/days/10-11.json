@@ -1,0 +1,31 @@
+{
+  "date": "10-11",
+  "names": [
+    "International Day of the Girl Child"
+  ],
+  "events": [
+    {
+      "year": 1962,
+      "text": "Pope John XXIII opens the Second Vatican Council."
+    },
+    {
+      "year": 1968,
+      "text": "NASA launches Apollo 7, the first crewed Apollo mission."
+    },
+    {
+      "year": 1984,
+      "text": "Kathryn Sullivan becomes the first American woman to walk in space."
+    }
+  ],
+  "births": [
+    {
+      "year": 1884,
+      "text": "Eleanor Roosevelt, American First Lady and diplomat"
+    },
+    {
+      "year": 1942,
+      "text": "Amitabh Bachchan, Indian actor"
+    }
+  ],
+  "deaths": []
+}

@@ -1,0 +1,36 @@
+{
+  "date": "10-06",
+  "names": [
+    "German-American Day"
+  ],
+  "events": [
+    {
+      "year": 1927,
+      "text": "The Jazz Singer, the first feature-length talking picture, premieres."
+    },
+    {
+      "year": 1973,
+      "text": "Egypt and Syria attack Israel, beginning the Yom Kippur War."
+    },
+    {
+      "year": 1981,
+      "text": "Egyptian President Anwar Sadat is assassinated in Cairo."
+    }
+  ],
+  "births": [
+    {
+      "year": 1887,
+      "text": "Le Corbusier, Swiss-French architect"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1892,
+      "text": "Alfred, Lord Tennyson, English poet"
+    },
+    {
+      "year": 1981,
+      "text": "Anwar Sadat, President of Egypt"
+    }
+  ]
+}

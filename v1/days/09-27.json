@@ -1,0 +1,32 @@
+{
+  "date": "09-27",
+  "names": [
+    "World Tourism Day"
+  ],
+  "events": [
+    {
+      "year": 1822,
+      "text": "Jean-François Champollion announces he has deciphered the Rosetta Stone."
+    },
+    {
+      "year": 1825,
+      "text": "The Stockton and Darlington Railway, the first public steam railway, opens in England."
+    },
+    {
+      "year": 1940,
+      "text": "Germany, Italy and Japan sign the Tripartite Pact."
+    }
+  ],
+  "births": [
+    {
+      "year": 1972,
+      "text": "Gwyneth Paltrow, American actress"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1917,
+      "text": "Edgar Degas, French painter"
+    }
+  ]
+}

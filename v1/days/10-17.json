@@ -1,0 +1,36 @@
+{
+  "date": "10-17",
+  "names": [
+    "International Day for the Eradication of Poverty"
+  ],
+  "events": [
+    {
+      "year": 1777,
+      "text": "General Burgoyne surrenders at Saratoga in the American Revolutionary War."
+    },
+    {
+      "year": 1956,
+      "text": "Calder Hall in England, the first commercial nuclear power station, opens."
+    },
+    {
+      "year": 1989,
+      "text": "The Loma Prieta earthquake strikes the San Francisco Bay Area."
+    }
+  ],
+  "births": [
+    {
+      "year": 1915,
+      "text": "Arthur Miller, American playwright"
+    },
+    {
+      "year": 1972,
+      "text": "Eminem, American rapper"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1849,
+      "text": "Frédéric Chopin, Polish composer"
+    }
+  ]
+}

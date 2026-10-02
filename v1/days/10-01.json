@@ -1,0 +1,41 @@
+{
+  "date": "10-01",
+  "names": [
+    "International Day of Older Persons",
+    "National Day (China)",
+    "International Coffee Day"
+  ],
+  "events": [
+    {
+      "year": 1908,
+      "text": "Ford puts the Model T on sale."
+    },
+    {
+      "year": 1949,
+      "text": "Mao Zedong proclaims the People's Republic of China."
+    },
+    {
+      "year": 1958,
+      "text": "NASA is established as the U.S. space agency."
+    },
+    {
+      "year": 1960,
+      "text": "Nigeria gains independence from the United Kingdom."
+    },
+    {
+      "year": 1971,
+      "text": "Walt Disney World opens in Florida."
+    }
+  ],
+  "births": [
+    {
+      "year": 1924,
+      "text": "Jimmy Carter, 39th U.S. President"
+    },
+    {
+      "year": 1935,
+      "text": "Julie Andrews, English actress"
+    }
+  ],
+  "deaths": []
+}

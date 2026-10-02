@@ -1,0 +1,50 @@
+{
+  "date": "09-21",
+  "names": [
+    "International Day of Peace",
+    "Independence Day (Belize)",
+    "Independence Day (Malta)"
+  ],
+  "events": [
+    {
+      "year": 1792,
+      "text": "The French National Convention abolishes the monarchy."
+    },
+    {
+      "year": 1937,
+      "text": "J. R. R. Tolkien's The Hobbit is published."
+    },
+    {
+      "year": 1964,
+      "text": "Malta gains independence from the United Kingdom."
+    },
+    {
+      "year": 1981,
+      "text": "Belize gains independence from the United Kingdom."
+    }
+  ],
+  "births": [
+    {
+      "year": 1866,
+      "text": "H. G. Wells, English science-fiction author"
+    },
+    {
+      "year": 1934,
+      "text": "Leonard Cohen, Canadian singer-songwriter"
+    },
+    {
+      "year": 1947,
+      "text": "Stephen King, American author"
+    },
+    {
+      "year": 1950,
+      "text": "Bill Murray, American actor"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1832,
+      "text": "Walter Scott, Scottish novelist"
+    }
+  ]
+}

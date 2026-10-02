@@ -1,0 +1,31 @@
+{
+  "date": "10-08",
+  "names": [
+    "Indian Air Force Day"
+  ],
+  "events": [
+    {
+      "year": 1871,
+      "text": "The Great Chicago Fire begins."
+    },
+    {
+      "year": 1932,
+      "text": "The Indian Air Force is established."
+    },
+    {
+      "year": 2005,
+      "text": "A magnitude 7.6 earthquake strikes Kashmir."
+    }
+  ],
+  "births": [
+    {
+      "year": 1949,
+      "text": "Sigourney Weaver, American actress"
+    },
+    {
+      "year": 1970,
+      "text": "Matt Damon, American actor"
+    }
+  ],
+  "deaths": []
+}

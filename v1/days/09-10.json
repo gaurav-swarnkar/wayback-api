@@ -1,0 +1,40 @@
+{
+  "date": "09-10",
+  "names": [
+    "World Suicide Prevention Day"
+  ],
+  "events": [
+    {
+      "year": 1846,
+      "text": "Elias Howe is granted a patent for the sewing machine."
+    },
+    {
+      "year": 1977,
+      "text": "The guillotine is used for the last time in France."
+    },
+    {
+      "year": 2008,
+      "text": "The Large Hadron Collider at CERN circulates its first proton beam."
+    }
+  ],
+  "births": [
+    {
+      "year": 1929,
+      "text": "Arnold Palmer, American golfer"
+    },
+    {
+      "year": 1960,
+      "text": "Colin Firth, English actor"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1797,
+      "text": "Mary Wollstonecraft, English writer and philosopher"
+    },
+    {
+      "year": 1898,
+      "text": "Empress Elisabeth of Austria"
+    }
+  ]
+}

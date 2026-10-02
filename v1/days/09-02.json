@@ -1,0 +1,44 @@
+{
+  "date": "09-02",
+  "names": [
+    "National Day (Vietnam)"
+  ],
+  "events": [
+    {
+      "year": 1945,
+      "text": "Japan formally surrenders aboard USS Missouri, ending the Second World War."
+    },
+    {
+      "year": 1945,
+      "text": "Ho Chi Minh proclaims the independence of Vietnam in Hanoi."
+    },
+    {
+      "year": 1666,
+      "text": "The Great Fire of London begins in a bakery on Pudding Lane."
+    },
+    {
+      "year": 1752,
+      "text": "Britain uses the Julian calendar for the last time; the next day is 14 September."
+    }
+  ],
+  "births": [
+    {
+      "year": 1948,
+      "text": "Christa McAuliffe, American teacher and astronaut"
+    },
+    {
+      "year": 1964,
+      "text": "Keanu Reeves, Canadian actor"
+    },
+    {
+      "year": 1966,
+      "text": "Salma Hayek, Mexican-American actress"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1973,
+      "text": "J. R. R. Tolkien, English author of The Lord of the Rings"
+    }
+  ]
+}

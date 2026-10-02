@@ -1,0 +1,32 @@
+{
+  "date": "09-29",
+  "names": [
+    "World Heart Day",
+    "Michaelmas"
+  ],
+  "events": [
+    {
+      "year": 1829,
+      "text": "London's Metropolitan Police make their first patrols."
+    },
+    {
+      "year": 1954,
+      "text": "CERN, the European Organization for Nuclear Research, is established."
+    },
+    {
+      "year": 1988,
+      "text": "Space Shuttle Discovery launches, NASA's first crewed mission since the Challenger disaster."
+    }
+  ],
+  "births": [
+    {
+      "year": 1547,
+      "text": "Miguel de Cervantes, Spanish author of Don Quixote"
+    },
+    {
+      "year": 1901,
+      "text": "Enrico Fermi, Italian-American physicist"
+    }
+  ],
+  "deaths": []
+}

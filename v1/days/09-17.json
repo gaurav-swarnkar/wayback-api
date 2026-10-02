@@ -1,0 +1,35 @@
+{
+  "date": "09-17",
+  "names": [
+    "Constitution Day (United States)"
+  ],
+  "events": [
+    {
+      "year": 1787,
+      "text": "The United States Constitution is signed in Philadelphia."
+    },
+    {
+      "year": 1862,
+      "text": "Battle of Antietam, the bloodiest single day of the American Civil War."
+    },
+    {
+      "year": 1939,
+      "text": "The Soviet Union invades Poland."
+    },
+    {
+      "year": 1978,
+      "text": "Egypt and Israel sign the Camp David Accords."
+    }
+  ],
+  "births": [
+    {
+      "year": 1931,
+      "text": "Anne Bancroft, American actress"
+    },
+    {
+      "year": 1950,
+      "text": "Narendra Modi, Prime Minister of India"
+    }
+  ],
+  "deaths": []
+}

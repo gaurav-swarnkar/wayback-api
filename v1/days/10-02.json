@@ -1,0 +1,41 @@
+{
+  "date": "10-02",
+  "names": [
+    "Gandhi Jayanti",
+    "International Day of Non-Violence"
+  ],
+  "events": [
+    {
+      "year": 1187,
+      "text": "Saladin captures Jerusalem from the Crusaders."
+    },
+    {
+      "year": 1950,
+      "text": "Charles Schulz's comic strip Peanuts is first published."
+    },
+    {
+      "year": 1958,
+      "text": "Guinea declares independence from France."
+    }
+  ],
+  "births": [
+    {
+      "year": 1869,
+      "text": "Mahatma Gandhi, leader of India's independence movement"
+    },
+    {
+      "year": 1904,
+      "text": "Lal Bahadur Shastri, Prime Minister of India"
+    },
+    {
+      "year": 1951,
+      "text": "Sting, English musician"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1985,
+      "text": "Rock Hudson, American actor"
+    }
+  ]
+}

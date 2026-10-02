@@ -1,0 +1,34 @@
+{
+  "date": "09-20",
+  "names": [],
+  "events": [
+    {
+      "year": 1519,
+      "text": "Ferdinand Magellan sets sail from Spain on the first voyage around the world."
+    },
+    {
+      "year": 1792,
+      "text": "Battle of Valmy: French revolutionary troops halt the Prussian invasion."
+    },
+    {
+      "year": 1973,
+      "text": "Billie Jean King beats Bobby Riggs in the \"Battle of the Sexes\" tennis match."
+    }
+  ],
+  "births": [
+    {
+      "year": 1934,
+      "text": "Sophia Loren, Italian actress"
+    },
+    {
+      "year": 1948,
+      "text": "George R. R. Martin, American author"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1957,
+      "text": "Jean Sibelius, Finnish composer"
+    }
+  ]
+}

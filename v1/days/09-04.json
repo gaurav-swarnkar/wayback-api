@@ -1,0 +1,42 @@
+{
+  "date": "09-04",
+  "names": [],
+  "events": [
+    {
+      "year": 476,
+      "text": "Romulus Augustulus is deposed, marking the end of the Western Roman Empire."
+    },
+    {
+      "year": 1888,
+      "text": "George Eastman registers the trademark Kodak and patents his roll-film camera."
+    },
+    {
+      "year": 1957,
+      "text": "The Little Rock Nine are blocked from entering Central High School in Arkansas."
+    },
+    {
+      "year": 1998,
+      "text": "Google is founded by Larry Page and Sergey Brin."
+    }
+  ],
+  "births": [
+    {
+      "year": 1824,
+      "text": "Anton Bruckner, Austrian composer"
+    },
+    {
+      "year": 1981,
+      "text": "Beyoncé, American singer"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1965,
+      "text": "Albert Schweitzer, Alsatian theologian and Nobel Peace Prize laureate"
+    },
+    {
+      "year": 2006,
+      "text": "Steve Irwin, Australian wildlife expert"
+    }
+  ]
+}

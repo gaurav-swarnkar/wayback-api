@@ -1,0 +1,38 @@
+{
+  "date": "10-07",
+  "names": [],
+  "events": [
+    {
+      "year": 1571,
+      "text": "Battle of Lepanto: the Holy League defeats the Ottoman fleet."
+    },
+    {
+      "year": 1959,
+      "text": "The Soviet probe Luna 3 takes the first photographs of the far side of the Moon."
+    },
+    {
+      "year": 2001,
+      "text": "The United States begins its invasion of Afghanistan."
+    }
+  ],
+  "births": [
+    {
+      "year": 1931,
+      "text": "Desmond Tutu, South African archbishop"
+    },
+    {
+      "year": 1952,
+      "text": "Vladimir Putin, President of Russia"
+    },
+    {
+      "year": 1955,
+      "text": "Yo-Yo Ma, American cellist"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1849,
+      "text": "Edgar Allan Poe, American writer"
+    }
+  ]
+}

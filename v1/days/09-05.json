@@ -1,0 +1,36 @@
+{
+  "date": "09-05",
+  "names": [
+    "International Day of Charity"
+  ],
+  "events": [
+    {
+      "year": 1882,
+      "text": "The first Labor Day parade is held in New York City."
+    },
+    {
+      "year": 1972,
+      "text": "Munich massacre: Israeli Olympic team members are taken hostage."
+    },
+    {
+      "year": 1977,
+      "text": "NASA launches the Voyager 1 space probe."
+    }
+  ],
+  "births": [
+    {
+      "year": 1638,
+      "text": "Louis XIV, King of France"
+    },
+    {
+      "year": 1946,
+      "text": "Freddie Mercury, British singer (Queen)"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1997,
+      "text": "Mother Teresa, Albanian-Indian nun and Nobel Peace Prize laureate"
+    }
+  ]
+}

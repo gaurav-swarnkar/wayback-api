@@ -1,0 +1,42 @@
+{
+  "date": "09-18",
+  "names": [],
+  "events": [
+    {
+      "year": 1793,
+      "text": "George Washington lays the cornerstone of the U.S. Capitol."
+    },
+    {
+      "year": 1851,
+      "text": "The New York Times publishes its first issue."
+    },
+    {
+      "year": 1947,
+      "text": "The United States Air Force is established as a separate military branch."
+    },
+    {
+      "year": 2014,
+      "text": "Scotland votes against independence in a referendum."
+    }
+  ],
+  "births": [
+    {
+      "year": 1709,
+      "text": "Samuel Johnson, English lexicographer"
+    },
+    {
+      "year": 1905,
+      "text": "Greta Garbo, Swedish actress"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1961,
+      "text": "Dag Hammarskjöld, UN Secretary-General"
+    },
+    {
+      "year": 1970,
+      "text": "Jimi Hendrix, American guitarist"
+    }
+  ]
+}

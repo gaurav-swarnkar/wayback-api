@@ -1,0 +1,32 @@
+{
+  "date": "10-23",
+  "names": [
+    "Mole Day",
+    "National Day (Hungary)"
+  ],
+  "events": [
+    {
+      "year": 1942,
+      "text": "The Second Battle of El Alamein begins in Egypt."
+    },
+    {
+      "year": 1956,
+      "text": "The Hungarian Revolution against Soviet rule begins."
+    },
+    {
+      "year": 2001,
+      "text": "Apple releases the iPod."
+    }
+  ],
+  "births": [
+    {
+      "year": 1940,
+      "text": "Pelé, Brazilian footballer"
+    },
+    {
+      "year": 1942,
+      "text": "Michael Crichton, American author of Jurassic Park"
+    }
+  ],
+  "deaths": []
+}

@@ -1,0 +1,34 @@
+{
+  "date": "09-06",
+  "names": [],
+  "events": [
+    {
+      "year": 1522,
+      "text": "The Victoria returns to Spain, completing the first circumnavigation of the Earth."
+    },
+    {
+      "year": 1901,
+      "text": "U.S. President William McKinley is shot in Buffalo, New York."
+    },
+    {
+      "year": 1997,
+      "text": "The funeral of Diana, Princess of Wales, is watched by billions worldwide."
+    }
+  ],
+  "births": [
+    {
+      "year": 1757,
+      "text": "Marquis de Lafayette, French general in the American Revolutionary War"
+    },
+    {
+      "year": 1888,
+      "text": "Joseph P. Kennedy Sr., American businessman and diplomat"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 2007,
+      "text": "Luciano Pavarotti, Italian tenor"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "09-09",
+  "names": [
+    "Independence Day (Tajikistan)"
+  ],
+  "events": [
+    {
+      "year": 1776,
+      "text": "The Continental Congress officially names the new nation the United States."
+    },
+    {
+      "year": 1850,
+      "text": "California is admitted as the 31st U.S. state."
+    },
+    {
+      "year": 1947,
+      "text": "Engineers find a moth in the Harvard Mark II computer: the first computer bug."
+    },
+    {
+      "year": 1948,
+      "text": "The Democratic People's Republic of Korea is proclaimed."
+    }
+  ],
+  "births": [
+    {
+      "year": 1828,
+      "text": "Leo Tolstoy, Russian author of War and Peace"
+    },
+    {
+      "year": 1941,
+      "text": "Otis Redding, American singer"
+    },
+    {
+      "year": 1966,
+      "text": "Adam Sandler, American actor"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1087,
+      "text": "William the Conqueror, King of England"
+    },
+    {
+      "year": 1976,
+      "text": "Mao Zedong, Chinese communist leader"
+    }
+  ]
+}

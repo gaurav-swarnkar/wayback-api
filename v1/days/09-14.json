@@ -1,0 +1,48 @@
+{
+  "date": "09-14",
+  "names": [
+    "Hindi Diwas (India)"
+  ],
+  "events": [
+    {
+      "year": 1812,
+      "text": "Napoleon's Grande Armée enters Moscow."
+    },
+    {
+      "year": 1814,
+      "text": "Francis Scott Key writes the poem that becomes \"The Star-Spangled Banner\"."
+    },
+    {
+      "year": 1901,
+      "text": "Theodore Roosevelt becomes U.S. President after McKinley's death."
+    },
+    {
+      "year": 1959,
+      "text": "Luna 2 becomes the first spacecraft to reach the surface of the Moon."
+    }
+  ],
+  "births": [
+    {
+      "year": 1769,
+      "text": "Alexander von Humboldt, German explorer and scientist"
+    },
+    {
+      "year": 1983,
+      "text": "Amy Winehouse, English singer"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1321,
+      "text": "Dante Alighieri, Italian poet"
+    },
+    {
+      "year": 1901,
+      "text": "William McKinley, 25th U.S. President"
+    },
+    {
+      "year": 1982,
+      "text": "Grace Kelly, American actress and Princess of Monaco"
+    }
+  ]
+}

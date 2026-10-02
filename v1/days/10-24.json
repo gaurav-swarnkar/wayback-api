@@ -1,0 +1,37 @@
+{
+  "date": "10-24",
+  "names": [
+    "United Nations Day",
+    "World Polio Day",
+    "World Development Information Day"
+  ],
+  "events": [
+    {
+      "year": 1901,
+      "text": "Annie Edson Taylor becomes the first person to go over Niagara Falls in a barrel."
+    },
+    {
+      "year": 1929,
+      "text": "Black Thursday: the Wall Street Crash begins."
+    },
+    {
+      "year": 1945,
+      "text": "The United Nations Charter enters into force."
+    },
+    {
+      "year": 1964,
+      "text": "Zambia gains independence from the United Kingdom."
+    }
+  ],
+  "births": [
+    {
+      "year": 1632,
+      "text": "Antonie van Leeuwenhoek, Dutch pioneer of microbiology"
+    },
+    {
+      "year": 1985,
+      "text": "Wayne Rooney, English footballer"
+    }
+  ],
+  "deaths": []
+}

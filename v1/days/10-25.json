@@ -1,0 +1,42 @@
+{
+  "date": "10-25",
+  "names": [],
+  "events": [
+    {
+      "year": 1415,
+      "text": "Battle of Agincourt: Henry V's English army defeats the French."
+    },
+    {
+      "year": 1854,
+      "text": "The Charge of the Light Brigade takes place during the Crimean War."
+    },
+    {
+      "year": 1971,
+      "text": "The UN General Assembly seats the People's Republic of China."
+    },
+    {
+      "year": 2001,
+      "text": "Microsoft releases Windows XP."
+    }
+  ],
+  "births": [
+    {
+      "year": 1838,
+      "text": "Georges Bizet, French composer of Carmen"
+    },
+    {
+      "year": 1881,
+      "text": "Pablo Picasso, Spanish painter"
+    },
+    {
+      "year": 1984,
+      "text": "Katy Perry, American singer"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1400,
+      "text": "Geoffrey Chaucer, English poet"
+    }
+  ]
+}

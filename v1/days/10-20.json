@@ -1,0 +1,31 @@
+{
+  "date": "10-20",
+  "names": [
+    "World Osteoporosis Day"
+  ],
+  "events": [
+    {
+      "year": 1944,
+      "text": "General Douglas MacArthur lands at Leyte in the Philippines."
+    },
+    {
+      "year": 1973,
+      "text": "Queen Elizabeth II opens the Sydney Opera House."
+    },
+    {
+      "year": 2011,
+      "text": "Former Libyan leader Muammar Gaddafi is killed in Sirte."
+    }
+  ],
+  "births": [
+    {
+      "year": 1632,
+      "text": "Christopher Wren, English architect of St Paul's Cathedral"
+    },
+    {
+      "year": 1971,
+      "text": "Snoop Dogg, American rapper"
+    }
+  ],
+  "deaths": []
+}

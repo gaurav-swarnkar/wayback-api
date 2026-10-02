@@ -1,0 +1,27 @@
+{
+  "date": "10-12",
+  "names": [
+    "National Day of Spain (Día de la Hispanidad)"
+  ],
+  "events": [
+    {
+      "year": 1492,
+      "text": "Christopher Columbus's expedition reaches the Americas."
+    },
+    {
+      "year": 1968,
+      "text": "Equatorial Guinea gains independence from Spain."
+    },
+    {
+      "year": 2002,
+      "text": "Bombings in Bali, Indonesia, kill 202 people."
+    }
+  ],
+  "births": [
+    {
+      "year": 1935,
+      "text": "Luciano Pavarotti, Italian tenor"
+    }
+  ],
+  "deaths": []
+}

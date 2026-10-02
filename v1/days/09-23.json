@@ -1,0 +1,41 @@
+{
+  "date": "09-23",
+  "names": [
+    "International Day of Sign Languages",
+    "Saudi National Day"
+  ],
+  "events": [
+    {
+      "year": 1779,
+      "text": "John Paul Jones's Bonhomme Richard defeats HMS Serapis in a naval battle."
+    },
+    {
+      "year": 1846,
+      "text": "Astronomers discover the planet Neptune."
+    },
+    {
+      "year": 1932,
+      "text": "The Kingdom of Saudi Arabia is proclaimed."
+    }
+  ],
+  "births": [
+    {
+      "year": 1926,
+      "text": "John Coltrane, American jazz saxophonist"
+    },
+    {
+      "year": 1930,
+      "text": "Ray Charles, American musician"
+    },
+    {
+      "year": 1949,
+      "text": "Bruce Springsteen, American singer"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1939,
+      "text": "Sigmund Freud, Austrian founder of psychoanalysis"
+    }
+  ]
+}

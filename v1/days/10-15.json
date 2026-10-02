@@ -1,0 +1,34 @@
+{
+  "date": "10-15",
+  "names": [
+    "Global Handwashing Day",
+    "International Day of Rural Women",
+    "World Students' Day (India)"
+  ],
+  "events": [
+    {
+      "year": 1582,
+      "text": "Several Catholic countries adopt the Gregorian calendar; 4 October is followed by 15 October."
+    },
+    {
+      "year": 1997,
+      "text": "The Cassini spacecraft is launched towards Saturn."
+    }
+  ],
+  "births": [
+    {
+      "year": 1844,
+      "text": "Friedrich Nietzsche, German philosopher"
+    },
+    {
+      "year": 1931,
+      "text": "A. P. J. Abdul Kalam, Indian scientist and President"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1917,
+      "text": "Mata Hari, Dutch dancer executed as a spy"
+    }
+  ]
+}

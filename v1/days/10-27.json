@@ -1,0 +1,31 @@
+{
+  "date": "10-27",
+  "names": [
+    "World Day for Audiovisual Heritage"
+  ],
+  "events": [
+    {
+      "year": 1904,
+      "text": "The New York City Subway opens."
+    },
+    {
+      "year": 1971,
+      "text": "The Democratic Republic of the Congo is renamed Zaire."
+    }
+  ],
+  "births": [
+    {
+      "year": 1728,
+      "text": "James Cook, British explorer"
+    },
+    {
+      "year": 1858,
+      "text": "Theodore Roosevelt, 26th U.S. President"
+    },
+    {
+      "year": 1932,
+      "text": "Sylvia Plath, American poet"
+    }
+  ],
+  "deaths": []
+}

@@ -1,0 +1,36 @@
+{
+  "date": "10-16",
+  "names": [
+    "World Food Day"
+  ],
+  "events": [
+    {
+      "year": 1793,
+      "text": "Marie Antoinette is guillotined during the French Revolution."
+    },
+    {
+      "year": 1923,
+      "text": "The Walt Disney Company is founded."
+    },
+    {
+      "year": 1962,
+      "text": "The Cuban Missile Crisis begins when Kennedy is shown photos of Soviet missiles in Cuba."
+    }
+  ],
+  "births": [
+    {
+      "year": 1854,
+      "text": "Oscar Wilde, Irish writer"
+    },
+    {
+      "year": 1948,
+      "text": "Hema Malini, Indian actress"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1793,
+      "text": "Marie Antoinette, Queen of France"
+    }
+  ]
+}

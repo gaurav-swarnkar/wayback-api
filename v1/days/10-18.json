@@ -1,0 +1,36 @@
+{
+  "date": "10-18",
+  "names": [
+    "Alaska Day"
+  ],
+  "events": [
+    {
+      "year": 1867,
+      "text": "The United States formally takes possession of Alaska from Russia."
+    },
+    {
+      "year": 1922,
+      "text": "The British Broadcasting Company (BBC) is founded."
+    },
+    {
+      "year": 1967,
+      "text": "The Soviet probe Venera 4 enters the atmosphere of Venus."
+    }
+  ],
+  "births": [
+    {
+      "year": 1926,
+      "text": "Chuck Berry, American rock and roll pioneer"
+    },
+    {
+      "year": 1960,
+      "text": "Jean-Claude Van Damme, Belgian actor"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1931,
+      "text": "Thomas Edison, American inventor"
+    }
+  ]
+}

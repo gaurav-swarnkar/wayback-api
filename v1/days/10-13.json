@@ -1,0 +1,31 @@
+{
+  "date": "10-13",
+  "names": [
+    "International Day for Disaster Risk Reduction"
+  ],
+  "events": [
+    {
+      "year": 1307,
+      "text": "Hundreds of Knights Templar are arrested across France."
+    },
+    {
+      "year": 1792,
+      "text": "The cornerstone of the White House is laid in Washington, D.C."
+    },
+    {
+      "year": 1972,
+      "text": "Uruguayan Air Force Flight 571 crashes in the Andes."
+    }
+  ],
+  "births": [
+    {
+      "year": 1925,
+      "text": "Margaret Thatcher, Prime Minister of the United Kingdom"
+    },
+    {
+      "year": 1941,
+      "text": "Paul Simon, American singer-songwriter"
+    }
+  ],
+  "deaths": []
+}

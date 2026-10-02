@@ -1,0 +1,33 @@
+{
+  "date": "09-30",
+  "names": [
+    "International Translation Day",
+    "Botswana Day"
+  ],
+  "events": [
+    {
+      "year": 1791,
+      "text": "Mozart's opera The Magic Flute premieres in Vienna."
+    },
+    {
+      "year": 1938,
+      "text": "Britain, France, Germany and Italy sign the Munich Agreement."
+    },
+    {
+      "year": 1966,
+      "text": "Botswana gains independence from the United Kingdom."
+    }
+  ],
+  "births": [
+    {
+      "year": 1924,
+      "text": "Truman Capote, American author"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1955,
+      "text": "James Dean, American actor"
+    }
+  ]
+}

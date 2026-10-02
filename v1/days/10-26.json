@@ -1,0 +1,27 @@
+{
+  "date": "10-26",
+  "names": [
+    "National Day (Austria)"
+  ],
+  "events": [
+    {
+      "year": 1825,
+      "text": "The Erie Canal opens, linking the Great Lakes to the Atlantic."
+    },
+    {
+      "year": 1881,
+      "text": "The Gunfight at the O.K. Corral takes place in Tombstone, Arizona."
+    },
+    {
+      "year": 1947,
+      "text": "The Maharaja of Kashmir signs the Instrument of Accession to India."
+    }
+  ],
+  "births": [
+    {
+      "year": 1947,
+      "text": "Hillary Clinton, American politician"
+    }
+  ],
+  "deaths": []
+}

@@ -1,0 +1,44 @@
+{
+  "date": "09-26",
+  "names": [
+    "European Day of Languages"
+  ],
+  "events": [
+    {
+      "year": 1960,
+      "text": "Kennedy and Nixon take part in the first televised U.S. presidential debate."
+    },
+    {
+      "year": 1969,
+      "text": "The Beatles release Abbey Road."
+    },
+    {
+      "year": 1983,
+      "text": "Soviet officer Stanislav Petrov correctly judges a missile alert to be false, averting nuclear war."
+    }
+  ],
+  "births": [
+    {
+      "year": 1888,
+      "text": "T. S. Eliot, American-British poet"
+    },
+    {
+      "year": 1898,
+      "text": "George Gershwin, American composer"
+    },
+    {
+      "year": 1932,
+      "text": "Manmohan Singh, Prime Minister of India"
+    },
+    {
+      "year": 1981,
+      "text": "Serena Williams, American tennis player"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1945,
+      "text": "Béla Bartók, Hungarian composer"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "date": "09-28",
+  "names": [
+    "World Rabies Day"
+  ],
+  "events": [
+    {
+      "year": 1066,
+      "text": "William the Conqueror lands in England, beginning the Norman conquest."
+    },
+    {
+      "year": 1928,
+      "text": "Alexander Fleming notices the mould that leads to his discovery of penicillin."
+    },
+    {
+      "year": 2008,
+      "text": "SpaceX's Falcon 1 becomes the first privately developed liquid-fuel rocket to reach orbit."
+    }
+  ],
+  "births": [
+    {
+      "year": 1907,
+      "text": "Bhagat Singh, Indian revolutionary"
+    },
+    {
+      "year": 1929,
+      "text": "Lata Mangeshkar, Indian playback singer"
+    },
+    {
+      "year": 1934,
+      "text": "Brigitte Bardot, French actress"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1895,
+      "text": "Louis Pasteur, French microbiologist"
+    }
+  ]
+}

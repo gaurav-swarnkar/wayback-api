@@ -1,0 +1,36 @@
+{
+  "date": "10-14",
+  "names": [
+    "World Standards Day"
+  ],
+  "events": [
+    {
+      "year": 1066,
+      "text": "Battle of Hastings: William of Normandy defeats King Harold II."
+    },
+    {
+      "year": 1947,
+      "text": "Chuck Yeager becomes the first pilot to fly faster than sound."
+    },
+    {
+      "year": 1964,
+      "text": "Martin Luther King Jr. is awarded the Nobel Peace Prize."
+    }
+  ],
+  "births": [
+    {
+      "year": 1890,
+      "text": "Dwight D. Eisenhower, 34th U.S. President"
+    },
+    {
+      "year": 1939,
+      "text": "Ralph Lauren, American fashion designer"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1990,
+      "text": "Leonard Bernstein, American composer and conductor"
+    }
+  ]
+}

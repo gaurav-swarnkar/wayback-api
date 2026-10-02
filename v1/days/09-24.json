@@ -1,0 +1,35 @@
+{
+  "date": "09-24",
+  "names": [
+    "Heritage Day (South Africa)"
+  ],
+  "events": [
+    {
+      "year": 1789,
+      "text": "The Judiciary Act creates the U.S. Supreme Court."
+    },
+    {
+      "year": 1906,
+      "text": "Devils Tower in Wyoming becomes the first U.S. national monument."
+    },
+    {
+      "year": 1948,
+      "text": "The Honda Motor Company is founded in Japan."
+    },
+    {
+      "year": 1991,
+      "text": "Nirvana releases the album Nevermind."
+    }
+  ],
+  "births": [
+    {
+      "year": 1896,
+      "text": "F. Scott Fitzgerald, American author of The Great Gatsby"
+    },
+    {
+      "year": 1936,
+      "text": "Jim Henson, American creator of the Muppets"
+    }
+  ],
+  "deaths": []
+}

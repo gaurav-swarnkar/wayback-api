@@ -1,0 +1,42 @@
+{
+  "date": "10-10",
+  "names": [
+    "World Mental Health Day",
+    "Fiji Day",
+    "Double Ten Day (Taiwan)"
+  ],
+  "events": [
+    {
+      "year": 1911,
+      "text": "The Wuchang Uprising begins the revolution that ends imperial rule in China."
+    },
+    {
+      "year": 1967,
+      "text": "The Outer Space Treaty enters into force."
+    },
+    {
+      "year": 1970,
+      "text": "Fiji gains independence from the United Kingdom."
+    },
+    {
+      "year": 1973,
+      "text": "U.S. Vice President Spiro Agnew resigns."
+    }
+  ],
+  "births": [
+    {
+      "year": 1954,
+      "text": "Rekha, Indian actress"
+    }
+  ],
+  "deaths": [
+    {
+      "year": 1985,
+      "text": "Orson Welles, American filmmaker"
+    },
+    {
+      "year": 1985,
+      "text": "Yul Brynner, Russian-American actor"
+    }
+  ]
+}
