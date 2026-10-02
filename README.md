@@ -46,6 +46,21 @@ A **Story** is:
 | `title` | string | no       | Short subject, used for "Read about …"          |
 | `url`   | string | no       | Link opened when the story is tapped            |
 | `image` | string | no       | HTTPS image URL; shown on cards and the hero    |
+| `category` | string | no    | Events only: `news`, `science` or `conflict`. Picks the card group; if left out, the app guesses from the text |
+
+### How the app shows a day
+
+The details page is one swipeable row of cards, one story per card, grouped in
+this order (at most 5 cards per group):
+
+1. **Headlines**: `events` with category `news`
+2. **Birthdays**: `births`
+3. **Space**: `events` with category `science`
+4. **Turning Points**: `events` with category `conflict`
+5. **Did You Know**: each entry in `names`
+
+To give every group 3–5 cards, send 3–5 stories of each kind. `deaths` is part
+of the format but isn't shown yet.
 
 When a day has no data, respond with **404**. The app shows "No stories for
 this day yet" instead of a connection error.
