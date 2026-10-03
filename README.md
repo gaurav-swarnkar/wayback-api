@@ -30,7 +30,8 @@ One file per month, with every day of that month. Example: `/v2/months/10.json`.
         { "year": 1990, "text": "East and West Germany are reunified.", "category": "conflict", "wiki": "German_reunification" }
       ],
       "births": [ { "year": 1969, "text": "Gwen Stefani, American singer", "wiki": "Gwen_Stefani" } ],
-      "deaths": []
+      "deaths": [],
+      "facts": [ { "text": "German Unity Day replaced 17 June as Germany's national day after reunification in 1990.", "wiki": "German_Unity_Day" } ]
     }
   }
 }
@@ -40,7 +41,8 @@ A day has the same fields as the v1 day file below, plus:
 
 | Field    | Type   | Meaning |
 | -------- | ------ | ------- |
-| `script` | string | The day told as a story (150 to 200 words). The narrator reads it aloud, pausing briefly between sentences and longer between paragraphs (separated by a blank line). The app adds the date line ("We are travelling back to …") before it. |
+| `script` | string | The day told as a story (150 to 200 words). The narrator reads it aloud, pausing briefly between sentences and longer between paragraphs (separated by a blank line). The app adds the date line ("We are travelling back to October 3.") before it. Wayback is about the day of the year, so a script never refers to a "current" year, only to the years events happened. |
+| `facts`  | object[] | Optional "Did you know?" notes: `{ "text", "wiki"?, "image"? }`. Shown after the day's names in the Did You Know group. |
 
 Every story (event, birth or death) can also carry:
 
@@ -97,7 +99,7 @@ this order (at most 5 cards per group):
 2. **Birthdays**: `births`
 3. **Space**: `events` with category `science`
 4. **Turning Points**: `events` with category `conflict`
-5. **Did You Know**: each entry in `names`
+5. **Did You Know**: each entry in `names`, then each entry in `facts`
 
 To give every group 3–5 cards, send 3–5 stories of each kind. `deaths` is part
 of the format but isn't shown yet.
@@ -111,7 +113,7 @@ Lists the days that have data: `{ "version": 1, "days": ["09-01", …] }`.
 
 ## Current coverage
 
-- **v2 month files**: October, November and December (Q4). Every day has a script, and every story has a `wiki` photo source and an explicit `category`. The source content is in `content/` in the app repo; `python3 content/build.py` regenerates these files.
+- **v2 month files**: October, November and December (Q4). October is complete: every day has at least 4 Headlines, 3 Space, 3 Turning Points, 5 Birthdays and 3 Did You Know cards. Every day has a script, and every story has a `wiki` photo source and an explicit `category`. The source content is in `content/` in the app repo; `python3 content/build.py` regenerates these files.
 - **v1 day files**: September and October.
 
 All stories and scripts were written without checking against sources, so please review them before you rely on them.
