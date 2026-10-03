@@ -11,7 +11,47 @@ All paths are relative to the base URL the app is configured with:
 `DEFAULT_API_BASE_URL` in `src/lib/config.ts`, or the `EXPO_PUBLIC_API_URL`
 environment variable at build time.
 
-### `GET /v1/days/{MM}-{DD}.json`
+The app asks for the month file first, and falls back to the per-day v1 file for
+months that don't have one yet.
+
+### `GET /v2/months/{MM}.json` (preferred)
+
+One file per month, with every day of that month. Example: `/v2/months/10.json`.
+
+```json
+{
+  "month": 10,
+  "name": "October",
+  "days": {
+    "10-03": {
+      "names": ["German Unity Day"],
+      "script": "The third of October is a day of coming together.\n\nIn 1990, at the stroke of midnight, ...",
+      "events": [
+        { "year": 1990, "text": "East and West Germany are reunified.", "category": "conflict", "wiki": "German_reunification" }
+      ],
+      "births": [ { "year": 1969, "text": "Gwen Stefani, American singer", "wiki": "Gwen_Stefani" } ],
+      "deaths": []
+    }
+  }
+}
+```
+
+A day has the same fields as the v1 day file below, plus:
+
+| Field    | Type   | Meaning |
+| -------- | ------ | ------- |
+| `script` | string | The day told as a story (150 to 200 words). The narrator reads it aloud, pausing briefly between sentences and longer between paragraphs (separated by a blank line). The app adds the date line ("We are travelling back to …") before it. |
+
+Every story (event, birth or death) can also carry:
+
+| Field   | Type   | Meaning |
+| ------- | ------ | ------- |
+| `image` | string | Direct HTTPS URL of the photo for the story's card and the page's rotating header. Use this when you host your own images. |
+| `wiki`  | string | English Wikipedia article (e.g. `Sputnik_1`). When there is no `image`, the app shows that article's lead photo. |
+
+Stories with neither show a coloured background instead.
+
+### `GET /v1/days/{MM}-{DD}.json` (older, per day)
 
 Everything for one calendar day, across all years. Example: `/v1/days/10-03.json`.
 
@@ -71,8 +111,7 @@ Lists the days that have data: `{ "version": 1, "days": ["09-01", …] }`.
 
 ## Current coverage
 
-Every day in September and October: 633 stories in total (152 headlines, 125
-space/science, 181 turning points, 182 birthdays) plus what each day is known
-as. Every event has an explicit `category`. Many days still have only 1–2
-Space or Headlines stories, and these stories were written without checking
-sources, so please review them before you rely on them.
+- **v2 month files**: October, November and December (Q4). Every day has a script, and every story has a `wiki` photo source and an explicit `category`. The source content is in `content/` in the app repo; `python3 content/build.py` regenerates these files.
+- **v1 day files**: September and October.
+
+All stories and scripts were written without checking against sources, so please review them before you rely on them.
