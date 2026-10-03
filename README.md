@@ -113,7 +113,7 @@ Lists the days that have data: `{ "version": 1, "days": ["09-01", …] }`.
 
 ## Current coverage
 
-- **v2 month files**: October, November and December (Q4). October is complete: every day has at least 4 Headlines, 3 Space, 3 Turning Points, 5 Birthdays and 3 Did You Know cards. Every day has a script, and every story has a `wiki` photo source and an explicit `category`. The source content is in `content/` in the app repo; `python3 content/build.py` regenerates these files.
+- **v2 month files**: October, November and December (Q4). October and November are complete: every day has at least 4 Headlines, 3 Space, 3 Turning Points, 5 Birthdays and 3 Did You Know cards. Every day has a script, and every story has a `wiki` photo source and an explicit `category`. The source content is in `content/` in the app repo; `python3 content/build.py` regenerates these files.
 - **v1 day files**: September and October.
 
 All stories and scripts were written without checking against sources, so please review them before you rely on them.

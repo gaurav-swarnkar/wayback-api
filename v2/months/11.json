@@ -18,6 +18,12 @@
           "wiki": "Sistine_Chapel_ceiling"
         },
         {
+          "year": 1611,
+          "text": "Shakespeare's The Tempest is performed at Whitehall Palace before King James I.",
+          "category": "news",
+          "wiki": "The_Tempest"
+        },
+        {
           "year": 1755,
           "text": "A huge earthquake, tsunami and fires destroy much of Lisbon on All Saints' Day.",
           "category": "news",
@@ -28,6 +34,12 @@
           "text": "John Adams becomes the first U.S. president to live in the White House.",
           "category": "news",
           "wiki": "White_House"
+        },
+        {
+          "year": 1870,
+          "text": "The U.S. Weather Bureau issues its first official weather forecast.",
+          "category": "science",
+          "wiki": "National_Weather_Service"
         },
         {
           "year": 1952,
@@ -62,9 +74,19 @@
       ],
       "births": [
         {
+          "year": 1871,
+          "text": "Stephen Crane, American writer",
+          "wiki": "Stephen_Crane"
+        },
+        {
           "year": 1880,
           "text": "Alfred Wegener, German scientist who proposed continental drift",
           "wiki": "Alfred_Wegener"
+        },
+        {
+          "year": 1935,
+          "text": "Gary Player, South African golfer",
+          "wiki": "Gary_Player"
         },
         {
           "year": 1962,
@@ -129,6 +151,12 @@
           "wiki": "Hughes_H-4_Hercules"
         },
         {
+          "year": 1960,
+          "text": "A London jury finds Penguin Books not guilty of obscenity for publishing Lady Chatterley's Lover.",
+          "category": "news",
+          "wiki": "R_v_Penguin_Books_Ltd"
+        },
+        {
           "year": 1963,
           "text": "South Vietnam's President Ngo Dinh Diem is killed in a military coup.",
           "category": "conflict",
@@ -143,9 +171,19 @@
       ],
       "births": [
         {
+          "year": 1734,
+          "text": "Daniel Boone, American frontiersman",
+          "wiki": "Daniel_Boone"
+        },
+        {
           "year": 1755,
           "text": "Marie Antoinette, Queen of France",
           "wiki": "Marie_Antoinette"
+        },
+        {
+          "year": 1795,
+          "text": "James K. Polk, 11th President of the United States",
+          "wiki": "James_K._Polk"
         },
         {
           "year": 1961,
@@ -164,6 +202,12 @@
           "text": "George Bernard Shaw, Irish playwright",
           "wiki": "George_Bernard_Shaw"
         }
+      ],
+      "facts": [
+        {
+          "text": "Marie Antoinette was born on All Souls' Day 1755, the day after the great Lisbon earthquake.",
+          "wiki": "Marie_Antoinette"
+        }
       ]
     },
     "11-03": {
@@ -174,6 +218,12 @@
       ],
       "script": "On the third of November in 1957, a small dog named Laika was strapped into Sputnik 2 and launched into orbit. She became the first animal to circle the Earth, and she never came home. She is still remembered as one of the first explorers of space.\n\nIn 1973, NASA launched Mariner 10 towards Venus and Mercury, the first spacecraft to use the pull of one planet to fling itself towards another.\n\nIn 1903, Panama separated from Colombia, and soon a great canal would be cut across its narrow land. Today Panama celebrates its independence.\n\nIn 1954, a giant creature rose from the sea in a Japanese film. Godzilla was born, a monster made from the fears of the atomic age.\n\nAnd in Japan, today is Culture Day, a celebration of art, learning and peace. Born on this day in 1933 was Amartya Sen, the economist who taught the world that development means giving people the freedom to live the lives they value.",
       "events": [
+        {
+          "year": 1493,
+          "text": "On his second voyage, Christopher Columbus sights the island he names Dominica.",
+          "category": "science",
+          "wiki": "Dominica"
+        },
         {
           "year": 1838,
           "text": "The Bombay Times, later The Times of India, publishes its first issue.",
@@ -205,6 +255,12 @@
           "wiki": "Laika"
         },
         {
+          "year": 1964,
+          "text": "Residents of Washington, D.C., vote for president for the first time.",
+          "category": "news",
+          "wiki": "Twenty-third_Amendment_to_the_United_States_Constitution"
+        },
+        {
           "year": 1973,
           "text": "NASA launches Mariner 10, the first probe to visit Mercury.",
           "category": "science",
@@ -215,9 +271,20 @@
           "text": "Dominica gains independence from the United Kingdom.",
           "category": "conflict",
           "wiki": "Dominica"
+        },
+        {
+          "year": 1992,
+          "text": "Bill Clinton is elected President of the United States.",
+          "category": "news",
+          "wiki": "Bill_Clinton"
         }
       ],
       "births": [
+        {
+          "year": 1793,
+          "text": "Stephen F. Austin, American founder of Anglo Texas",
+          "wiki": "Stephen_F._Austin"
+        },
         {
           "year": 1921,
           "text": "Charles Bronson, American actor",
@@ -232,6 +299,11 @@
           "year": 1949,
           "text": "Anna Wintour, British-American editor of Vogue",
           "wiki": "Anna_Wintour"
+        },
+        {
+          "year": 1957,
+          "text": "Dolph Lundgren, Swedish actor",
+          "wiki": "Dolph_Lundgren"
         }
       ],
       "deaths": []
@@ -242,6 +314,12 @@
       ],
       "script": "On the fourth of November in 1922, in the Valley of the Kings in Egypt, a water boy is said to have uncovered a stone step in the sand. Howard Carter's team dug further, and found a staircase leading down to a sealed door. Behind it lay the tomb of the boy king Tutankhamun, untouched for more than three thousand years.\n\nThe fourth of November has also seen hard days. In 1979, students in Tehran seized the American embassy, beginning a hostage crisis that lasted 444 days. In 1995, Israel's Prime Minister Yitzhak Rabin, who had worked for peace, was assassinated at a rally in Tel Aviv.\n\nBut in 2008, crowds gathered in Chicago's Grant Park to celebrate as Barack Obama was elected the first African American president of the United States.\n\nToday Russia celebrates National Unity Day. And born on this day in 1916 was Walter Cronkite, the newsman once called the most trusted man in America.",
       "events": [
+        {
+          "year": 1869,
+          "text": "The first issue of the scientific journal Nature is published.",
+          "category": "science",
+          "wiki": "Nature_(journal)"
+        },
         {
           "year": 1879,
           "text": "James Ritty patents the first mechanical cash register.",
@@ -261,6 +339,12 @@
           "wiki": "UNESCO"
         },
         {
+          "year": 1952,
+          "text": "Dwight D. Eisenhower is elected President of the United States.",
+          "category": "news",
+          "wiki": "Dwight_D._Eisenhower"
+        },
+        {
           "year": 1956,
           "text": "Soviet troops move in to crush the Hungarian Revolution.",
           "category": "conflict",
@@ -271,6 +355,12 @@
           "text": "Students seize the U.S. embassy in Tehran, starting the Iran hostage crisis.",
           "category": "conflict",
           "wiki": "Iran_hostage_crisis"
+        },
+        {
+          "year": 1980,
+          "text": "Ronald Reagan is elected President of the United States.",
+          "category": "news",
+          "wiki": "Ronald_Reagan"
         },
         {
           "year": 1995,
@@ -287,9 +377,19 @@
       ],
       "births": [
         {
+          "year": 1879,
+          "text": "Will Rogers, American humorist",
+          "wiki": "Will_Rogers"
+        },
+        {
           "year": 1916,
           "text": "Walter Cronkite, American news anchor",
           "wiki": "Walter_Cronkite"
+        },
+        {
+          "year": 1946,
+          "text": "Robert Mapplethorpe, American photographer",
+          "wiki": "Robert_Mapplethorpe"
         },
         {
           "year": 1969,
@@ -302,7 +402,17 @@
           "wiki": "Sean_Combs"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Russia's National Unity Day recalls the expulsion of Polish forces from Moscow in 1612.",
+          "wiki": "Unity_Day_(Russia)"
+        },
+        {
+          "text": "Howard Carter had searched the Valley of the Kings for years, and was close to losing his funding, when the first step to Tutankhamun's tomb was found.",
+          "wiki": "Howard_Carter"
+        }
+      ]
     },
     "11-05": {
       "names": [
@@ -336,6 +446,18 @@
           "wiki": "George_B._Selden"
         },
         {
+          "year": 1911,
+          "text": "Calbraith Rodgers completes the first flight across the United States, after 49 days and many crashes.",
+          "category": "science",
+          "wiki": "Calbraith_Perry_Rodgers"
+        },
+        {
+          "year": 1912,
+          "text": "Woodrow Wilson is elected President of the United States.",
+          "category": "news",
+          "wiki": "1912_United_States_presidential_election"
+        },
+        {
           "year": 1940,
           "text": "Franklin D. Roosevelt wins a third term as U.S. President.",
           "category": "news",
@@ -348,6 +470,12 @@
           "wiki": "Suez_Crisis"
         },
         {
+          "year": 1968,
+          "text": "Richard Nixon is elected President of the United States.",
+          "category": "news",
+          "wiki": "Richard_Nixon"
+        },
+        {
           "year": 2013,
           "text": "India launches the Mars Orbiter Mission, Mangalyaan.",
           "category": "science",
@@ -355,6 +483,11 @@
         }
       ],
       "births": [
+        {
+          "year": 1854,
+          "text": "Paul Sabatier, French chemist",
+          "wiki": "Paul_Sabatier"
+        },
         {
           "year": 1913,
           "text": "Vivien Leigh, English actress",
@@ -366,12 +499,23 @@
           "wiki": "Art_Garfunkel"
         },
         {
+          "year": 1959,
+          "text": "Bryan Adams, Canadian singer",
+          "wiki": "Bryan_Adams"
+        },
+        {
           "year": 1988,
           "text": "Virat Kohli, Indian cricketer",
           "wiki": "Virat_Kohli"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Bonfire Night remembers the night Guy Fawkes was caught guarding barrels of gunpowder beneath the House of Lords.",
+          "wiki": "Guy_Fawkes_Night"
+        }
+      ]
     },
     "11-06": {
       "names": [
@@ -390,6 +534,12 @@
           "text": "Rutgers and Princeton play the first intercollegiate American football game.",
           "category": "news",
           "wiki": "1869_Rutgers_vs._Princeton_football_game"
+        },
+        {
+          "year": 1880,
+          "text": "Alphonse Laveran discovers the parasite that causes malaria.",
+          "category": "science",
+          "wiki": "Alphonse_Laveran"
         },
         {
           "year": 1913,
@@ -414,6 +564,30 @@
           "text": "Meet the Press, the longest-running U.S. television show, first airs.",
           "category": "news",
           "wiki": "Meet_the_Press"
+        },
+        {
+          "year": 1956,
+          "text": "Dwight D. Eisenhower is re-elected President of the United States.",
+          "category": "news",
+          "wiki": "1956_United_States_presidential_election"
+        },
+        {
+          "year": 1962,
+          "text": "The UN General Assembly condemns apartheid and calls for sanctions against South Africa.",
+          "category": "news",
+          "wiki": "United_Nations_General_Assembly_Resolution_1761"
+        },
+        {
+          "year": 1971,
+          "text": "The United States sets off Cannikin, its largest underground nuclear test, beneath Amchitka Island.",
+          "category": "science",
+          "wiki": "Cannikin"
+        },
+        {
+          "year": 1975,
+          "text": "Hundreds of thousands of Moroccans begin the Green March into Western Sahara.",
+          "category": "conflict",
+          "wiki": "Green_March"
         }
       ],
       "births": [
@@ -421,6 +595,16 @@
           "year": 1814,
           "text": "Adolphe Sax, Belgian inventor of the saxophone",
           "wiki": "Adolphe_Sax"
+        },
+        {
+          "year": 1854,
+          "text": "John Philip Sousa, American composer",
+          "wiki": "John_Philip_Sousa"
+        },
+        {
+          "year": 1861,
+          "text": "James Naismith, Canadian-American inventor of basketball",
+          "wiki": "James_Naismith"
         },
         {
           "year": 1946,
@@ -439,6 +623,16 @@
           "text": "Pyotr Ilyich Tchaikovsky, Russian composer",
           "wiki": "Pyotr_Ilyich_Tchaikovsky"
         }
+      ],
+      "facts": [
+        {
+          "text": "Adolphe Sax, born today, patented the saxophone in 1846.",
+          "wiki": "Saxophone"
+        },
+        {
+          "text": "Passchendaele was fought in mud so deep that men and horses drowned in the shell holes.",
+          "wiki": "Battle_of_Passchendaele"
+        }
       ]
     },
     "11-07": {
@@ -448,10 +642,34 @@
       "script": "Born on the seventh of November in 1867, in Warsaw, was a girl named Maria Skłodowska. As Marie Curie, she would discover radium and polonium, and become the first person to win two Nobel Prizes. Today, India marks National Cancer Awareness Day on her birthday, honouring the science she began.\n\nAlso born on this day, in 1888, was C. V. Raman, who discovered how light changes colour as it scatters, and won India's first Nobel Prize in science.\n\nIn 1917, in Petrograd, the Bolsheviks stormed the Winter Palace. The October Revolution had begun, and Russia would be transformed.\n\nIn 1940, high winds set the new Tacoma Narrows Bridge swaying and twisting like a ribbon until it tore apart. Engineers have studied that film ever since.\n\nAnd in 1990, Mary Robinson was elected the first woman president of Ireland. A day of brilliant minds and bold firsts.",
       "events": [
         {
+          "year": 1631,
+          "text": "Pierre Gassendi becomes the first person to watch a transit of Mercury across the Sun.",
+          "category": "science",
+          "wiki": "Transit_of_Mercury"
+        },
+        {
+          "year": 1811,
+          "text": "U.S. forces fight Tecumseh's confederacy at the Battle of Tippecanoe.",
+          "category": "conflict",
+          "wiki": "Battle_of_Tippecanoe"
+        },
+        {
           "year": 1874,
           "text": "A Thomas Nast cartoon first uses an elephant to represent the Republican Party.",
           "category": "news",
           "wiki": "Republican_Party_(United_States)"
+        },
+        {
+          "year": 1885,
+          "text": "The last spike is driven on the Canadian Pacific Railway, linking Canada coast to coast.",
+          "category": "news",
+          "wiki": "Last_spike_(Canadian_Pacific_Railway)"
+        },
+        {
+          "year": 1916,
+          "text": "Jeannette Rankin becomes the first woman elected to the U.S. Congress.",
+          "category": "conflict",
+          "wiki": "Jeannette_Rankin"
         },
         {
           "year": 1917,
@@ -491,6 +709,11 @@
           "wiki": "Marie_Curie"
         },
         {
+          "year": 1879,
+          "text": "Leon Trotsky, Russian revolutionary",
+          "wiki": "Leon_Trotsky"
+        },
+        {
           "year": 1888,
           "text": "C. V. Raman, Indian physicist and Nobel laureate",
           "wiki": "C._V._Raman"
@@ -506,7 +729,17 @@
           "wiki": "Kamal_Haasan"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Marie Curie, born today, is still the only person to win Nobel Prizes in two different sciences.",
+          "wiki": "Marie_Curie"
+        },
+        {
+          "text": "Russia's October Revolution happened in November by today's calendar, because Russia still used the old Julian calendar in 1917.",
+          "wiki": "October_Revolution"
+        }
+      ]
     },
     "11-08": {
       "names": [],
@@ -537,16 +770,34 @@
           "wiki": "Beer_Hall_Putsch"
         },
         {
+          "year": 1932,
+          "text": "Franklin D. Roosevelt is elected President of the United States for the first time.",
+          "category": "news",
+          "wiki": "1932_United_States_presidential_election"
+        },
+        {
           "year": 1942,
           "text": "Allied forces land in North Africa in Operation Torch.",
           "category": "conflict",
           "wiki": "Operation_Torch"
         },
         {
+          "year": 1957,
+          "text": "Britain tests its first successful hydrogen bomb over the Pacific.",
+          "category": "science",
+          "wiki": "Operation_Grapple"
+        },
+        {
           "year": 1960,
           "text": "John F. Kennedy is elected President of the United States.",
           "category": "news",
           "wiki": "1960_United_States_presidential_election"
+        },
+        {
+          "year": 1968,
+          "text": "NASA launches Pioneer 9 to study the solar wind.",
+          "category": "science",
+          "wiki": "Pioneer_9"
         },
         {
           "year": 2016,
@@ -570,9 +821,33 @@
           "year": 1900,
           "text": "Margaret Mitchell, American author of Gone with the Wind",
           "wiki": "Margaret_Mitchell"
+        },
+        {
+          "year": 1927,
+          "text": "L. K. Advani, Indian politician",
+          "wiki": "L._K._Advani"
+        },
+        {
+          "year": 1949,
+          "text": "Bonnie Raitt, American singer",
+          "wiki": "Bonnie_Raitt"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Wilhelm Röntgen's first X-ray photograph showed the bones of his wife's hand, and her wedding ring.",
+          "wiki": "Wilhelm_Röntgen"
+        },
+        {
+          "text": "Bram Stoker, born today, published Dracula in 1897.",
+          "wiki": "Dracula"
+        },
+        {
+          "text": "Edmond Halley, born today, correctly predicted the return of the comet that now bears his name.",
+          "wiki": "Halley's_Comet"
+        }
+      ]
     },
     "11-09": {
       "names": [
@@ -587,10 +862,22 @@
           "wiki": "Great_Boston_fire_of_1872"
         },
         {
+          "year": 1906,
+          "text": "Theodore Roosevelt visits Panama, the first trip abroad by a sitting U.S. president.",
+          "category": "news",
+          "wiki": "Theodore_Roosevelt"
+        },
+        {
           "year": 1918,
           "text": "Kaiser Wilhelm II abdicates and Germany becomes a republic.",
           "category": "conflict",
           "wiki": "Wilhelm_II"
+        },
+        {
+          "year": 1922,
+          "text": "Albert Einstein is awarded the Nobel Prize in Physics.",
+          "category": "science",
+          "wiki": "Albert_Einstein"
         },
         {
           "year": 1938,
@@ -617,13 +904,30 @@
           "wiki": "Apollo_4"
         },
         {
+          "year": 1967,
+          "text": "The first issue of Rolling Stone magazine is published.",
+          "category": "news",
+          "wiki": "Rolling_Stone"
+        },
+        {
           "year": 1989,
           "text": "The Berlin Wall is opened.",
           "category": "conflict",
           "wiki": "Fall_of_the_Berlin_Wall"
+        },
+        {
+          "year": 2004,
+          "text": "Mozilla releases Firefox 1.0.",
+          "category": "science",
+          "wiki": "Firefox"
         }
       ],
       "births": [
+        {
+          "year": 1818,
+          "text": "Ivan Turgenev, Russian writer",
+          "wiki": "Ivan_Turgenev"
+        },
         {
           "year": 1877,
           "text": "Muhammad Iqbal, poet and philosopher",
@@ -638,9 +942,24 @@
           "year": 1934,
           "text": "Carl Sagan, American astronomer",
           "wiki": "Carl_Sagan"
+        },
+        {
+          "year": 1936,
+          "text": "Mikhail Tal, Latvian chess world champion",
+          "wiki": "Mikhail_Tal"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "The Berlin Wall opened partly by mistake, after an East German spokesman announced that new travel rules took effect \"immediately\".",
+          "wiki": "Günter_Schabowski"
+        },
+        {
+          "text": "Hedy Lamarr, born today, was a film star who also co-invented a radio technique later used in Wi-Fi and Bluetooth.",
+          "wiki": "Hedy_Lamarr"
+        }
+      ]
     },
     "11-10": {
       "names": [
@@ -648,6 +967,12 @@
       ],
       "script": "On the tenth of November in 1871, on the shores of Lake Tanganyika, the journalist Henry Morton Stanley finally found the missing explorer David Livingstone. He raised his hat and, according to his own account, said: Dr. Livingstone, I presume?\n\nOn this day in 1969, a new kind of children's show began on American television, with puppets, songs, and a sunny street where everyone was welcome. Sesame Street taught generations of children to count and to read.\n\nIn 1975, a great ore ship called the Edmund Fitzgerald sank in a storm on Lake Superior, and its crew was lost. A famous song still keeps their memory alive.\n\nAnd in 1983, Microsoft announced a new program for its computers, with windows that could open on the screen.\n\nToday is World Science Day for Peace and Development. Born on this day in 1483 was Martin Luther, whose questions would one day change Europe.",
       "events": [
+        {
+          "year": 1444,
+          "text": "The Ottoman army defeats a Crusader force at the Battle of Varna.",
+          "category": "conflict",
+          "wiki": "Battle_of_Varna"
+        },
         {
           "year": 1775,
           "text": "The Continental Marines, forerunner of the U.S. Marine Corps, are founded.",
@@ -661,6 +986,12 @@
           "wiki": "Henry_Morton_Stanley"
         },
         {
+          "year": 1928,
+          "text": "Hirohito is enthroned as Emperor of Japan.",
+          "category": "news",
+          "wiki": "Hirohito"
+        },
+        {
           "year": 1951,
           "text": "The first direct-dial coast-to-coast telephone call is made in the U.S.",
           "category": "science",
@@ -671,6 +1002,12 @@
           "text": "Sesame Street premieres on American television.",
           "category": "news",
           "wiki": "Sesame_Street"
+        },
+        {
+          "year": 1970,
+          "text": "The Soviet Union launches Luna 17, carrying the rover Lunokhod 1 to the Moon.",
+          "category": "science",
+          "wiki": "Luna_17"
         },
         {
           "year": 1975,
@@ -698,6 +1035,16 @@
           "wiki": "Martin_Luther"
         },
         {
+          "year": 1697,
+          "text": "William Hogarth, English painter",
+          "wiki": "William_Hogarth"
+        },
+        {
+          "year": 1759,
+          "text": "Friedrich Schiller, German poet",
+          "wiki": "Friedrich_Schiller"
+        },
+        {
           "year": 1925,
           "text": "Richard Burton, Welsh actor",
           "wiki": "Richard_Burton"
@@ -708,7 +1055,17 @@
           "wiki": "Neil_Gaiman"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "World Science Day for Peace and Development was proclaimed by UNESCO in 2001.",
+          "wiki": "World_Science_Day_for_Peace_and_Development"
+        },
+        {
+          "text": "The sinking of the Edmund Fitzgerald became famous through Gordon Lightfoot's 1976 song.",
+          "wiki": "The_Wreck_of_the_Edmund_Fitzgerald"
+        }
+      ]
     },
     "11-11": {
       "names": [
@@ -757,6 +1114,12 @@
           "wiki": "Tomb_of_the_Unknown_Soldier_(Arlington)"
         },
         {
+          "year": 1930,
+          "text": "Albert Einstein and Leó Szilárd receive a patent for a refrigerator with no moving parts.",
+          "category": "science",
+          "wiki": "Einstein_refrigerator"
+        },
+        {
           "year": 1965,
           "text": "Rhodesia declares independence from Britain.",
           "category": "conflict",
@@ -773,6 +1136,12 @@
           "text": "Angola gains independence from Portugal.",
           "category": "conflict",
           "wiki": "Angola"
+        },
+        {
+          "year": 1992,
+          "text": "The Church of England votes to allow women to become priests.",
+          "category": "news",
+          "wiki": "Ordination_of_women_in_the_Anglican_Communion"
         }
       ],
       "births": [
@@ -782,9 +1151,19 @@
           "wiki": "Fyodor_Dostoevsky"
         },
         {
+          "year": 1885,
+          "text": "George S. Patton, American general",
+          "wiki": "George_S._Patton"
+        },
+        {
           "year": 1888,
           "text": "Maulana Abul Kalam Azad, Indian independence leader and first Education Minister",
           "wiki": "Abul_Kalam_Azad"
+        },
+        {
+          "year": 1962,
+          "text": "Demi Moore, American actress",
+          "wiki": "Demi_Moore"
         },
         {
           "year": 1974,
@@ -819,6 +1198,12 @@
           "wiki": "Leon_Trotsky"
         },
         {
+          "year": 1936,
+          "text": "The San Francisco–Oakland Bay Bridge opens.",
+          "category": "news",
+          "wiki": "San_Francisco–Oakland_Bay_Bridge"
+        },
+        {
           "year": 1948,
           "text": "The Tokyo war crimes tribunal sentences Japanese wartime leaders.",
           "category": "conflict",
@@ -829,6 +1214,12 @@
           "text": "Ellis Island, gateway for millions of immigrants to the U.S., closes.",
           "category": "news",
           "wiki": "Ellis_Island"
+        },
+        {
+          "year": 1970,
+          "text": "The Bhola cyclone strikes East Pakistan, one of the deadliest storms ever recorded.",
+          "category": "news",
+          "wiki": "1970_Bhola_cyclone"
         },
         {
           "year": 1980,
@@ -862,9 +1253,19 @@
           "wiki": "Auguste_Rodin"
         },
         {
+          "year": 1866,
+          "text": "Sun Yat-sen, founding father of the Republic of China",
+          "wiki": "Sun_Yat-sen"
+        },
+        {
           "year": 1929,
           "text": "Grace Kelly, American actress and Princess of Monaco",
           "wiki": "Grace_Kelly"
+        },
+        {
+          "year": 1945,
+          "text": "Neil Young, Canadian-American musician",
+          "wiki": "Neil_Young"
         },
         {
           "year": 1961,
@@ -872,7 +1273,17 @@
           "wiki": "Nadia_Comăneci"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Scott's party died on the way back from the South Pole, which they had reached only to find that Amundsen had got there first.",
+          "wiki": "Terra_Nova_Expedition"
+        },
+        {
+          "text": "Philae bounced twice on the comet before coming to rest in the shadow of a cliff.",
+          "wiki": "Philae_(spacecraft)"
+        }
+      ]
     },
     "11-13": {
       "names": [
@@ -881,10 +1292,34 @@
       "script": "Today is World Kindness Day, and the thirteenth of November carries stories that remind us why kindness matters.\n\nIn 1982, in Washington, a long wall of black granite was dedicated to the Americans who died in Vietnam. Visitors still touch the names carved into the stone, and leave flowers, letters and photographs.\n\nIn 1956, the United States Supreme Court ruled that segregated buses in Montgomery, Alabama, were unconstitutional. The bus boycott that had begun with Rosa Parks had won.\n\nIn 1985, the volcano Nevado del Ruiz erupted in Colombia, and mudflows buried the town of Armero. The world watched with sorrow, and learned hard lessons about listening to warnings.\n\nAnd in 2009, scientists announced that a probe crashing into the Moon had found water there, hidden in the shadows of a crater.\n\nBorn on this day in 1850 was Robert Louis Stevenson, who wrote Treasure Island, and dreamed of adventures for all of us.",
       "events": [
         {
+          "year": 1833,
+          "text": "A spectacular Leonid meteor storm lights up the skies over North America.",
+          "category": "science",
+          "wiki": "Leonids"
+        },
+        {
+          "year": 1907,
+          "text": "Paul Cornu makes the first free flight in a helicopter, in France.",
+          "category": "science",
+          "wiki": "Paul_Cornu"
+        },
+        {
           "year": 1918,
           "text": "Allied forces begin the occupation of Constantinople.",
           "category": "conflict",
           "wiki": "Occupation_of_Istanbul"
+        },
+        {
+          "year": 1927,
+          "text": "The Holland Tunnel opens under the Hudson River between New York and New Jersey.",
+          "category": "news",
+          "wiki": "Holland_Tunnel"
+        },
+        {
+          "year": 1940,
+          "text": "Walt Disney's Fantasia premieres in New York.",
+          "category": "news",
+          "wiki": "Fantasia_(1940_film)"
         },
         {
           "year": 1956,
@@ -924,6 +1359,11 @@
           "wiki": "Robert_Louis_Stevenson"
         },
         {
+          "year": 1856,
+          "text": "Louis Brandeis, American Supreme Court justice",
+          "wiki": "Louis_Brandeis"
+        },
+        {
           "year": 1955,
           "text": "Whoopi Goldberg, American actress",
           "wiki": "Whoopi_Goldberg"
@@ -932,9 +1372,24 @@
           "year": 1967,
           "text": "Juhi Chawla, Indian actress",
           "wiki": "Juhi_Chawla"
+        },
+        {
+          "year": 1969,
+          "text": "Gerard Butler, Scottish actor",
+          "wiki": "Gerard_Butler"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "World Kindness Day was introduced in 1998 by the World Kindness Movement.",
+          "wiki": "World_Kindness_Day"
+        },
+        {
+          "text": "Robert Louis Stevenson, born today, wrote Treasure Island.",
+          "wiki": "Treasure_Island"
+        }
+      ]
     },
     "11-14": {
       "names": [
@@ -996,6 +1451,12 @@
           "text": "Apollo 12 launches towards the Moon and is struck by lightning soon after lift-off.",
           "category": "science",
           "wiki": "Apollo_12"
+        },
+        {
+          "year": 1973,
+          "text": "Princess Anne marries Mark Phillips in Westminster Abbey.",
+          "category": "news",
+          "wiki": "Anne,_Princess_Royal"
         }
       ],
       "births": [
@@ -1010,12 +1471,28 @@
           "wiki": "Jawaharlal_Nehru"
         },
         {
+          "year": 1907,
+          "text": "Astrid Lindgren, Swedish author (Pippi Longstocking)",
+          "wiki": "Astrid_Lindgren"
+        },
+        {
           "year": 1948,
           "text": "King Charles III of the United Kingdom",
           "wiki": "Charles_III"
+        },
+        {
+          "year": 1954,
+          "text": "Condoleezza Rice, American Secretary of State",
+          "wiki": "Condoleezza_Rice"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "India celebrates Children's Day on Nehru's birthday because of his love for children, who called him Chacha Nehru.",
+          "wiki": "Children's_Day_(India)"
+        }
+      ]
     },
     "11-15": {
       "names": [
@@ -1024,6 +1501,18 @@
       ],
       "script": "On the fifteenth of November in 1875, in the forests of present-day Jharkhand, a boy named Birsa Munda was born. He grew up to lead his people against injustice, and India now honours him today as Janjatiya Gaurav Divas, a day of pride for its tribal communities. The state of Jharkhand was formed on his birthday in 2000.\n\nIn 1889, Brazil's emperor was sent into exile, and the country became a republic.\n\nIn 1920, representatives of forty-one nations gathered in Geneva for the first assembly of the League of Nations, hoping to prevent another world war.\n\nIn 1971, a company called Intel introduced the 4004, a whole computer processor on a single tiny chip. Every smartphone today is its descendant.\n\nAnd in 2022, the United Nations estimated that the world's population had reached eight billion people.\n\nBorn on this day in 1738 was William Herschel, the musician turned astronomer who discovered the planet Uranus.",
       "events": [
+        {
+          "year": 1777,
+          "text": "The Continental Congress adopts the Articles of Confederation.",
+          "category": "news",
+          "wiki": "Articles_of_Confederation"
+        },
+        {
+          "year": 1867,
+          "text": "The first stock ticker goes into service in New York.",
+          "category": "science",
+          "wiki": "Ticker_tape"
+        },
         {
           "year": 1889,
           "text": "Brazil becomes a republic as Emperor Pedro II is overthrown.",
@@ -1035,6 +1524,12 @@
           "text": "The League of Nations holds its first assembly in Geneva.",
           "category": "conflict",
           "wiki": "League_of_Nations"
+        },
+        {
+          "year": 1926,
+          "text": "The NBC radio network goes on the air.",
+          "category": "news",
+          "wiki": "NBC"
         },
         {
           "year": 1969,
@@ -1085,12 +1580,28 @@
           "wiki": "Birsa_Munda"
         },
         {
+          "year": 1887,
+          "text": "Georgia O'Keeffe, American painter",
+          "wiki": "Georgia_O'Keeffe"
+        },
+        {
+          "year": 1932,
+          "text": "Petula Clark, English singer",
+          "wiki": "Petula_Clark"
+        },
+        {
           "year": 1986,
           "text": "Sania Mirza, Indian tennis player",
           "wiki": "Sania_Mirza"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Birsa Munda, born today, led the Munda tribal uprising against British rule and died aged only 24.",
+          "wiki": "Birsa_Munda"
+        }
+      ]
     },
     "11-16": {
       "names": [
@@ -1104,6 +1615,12 @@
           "text": "Fyodor Dostoevsky is sentenced to death in Russia; the sentence is later commuted.",
           "category": "news",
           "wiki": "Fyodor_Dostoevsky"
+        },
+        {
+          "year": 1904,
+          "text": "John Ambrose Fleming patents the vacuum tube diode, a building block of radio and early computers.",
+          "category": "science",
+          "wiki": "Vacuum_tube"
         },
         {
           "year": 1907,
@@ -1136,6 +1653,12 @@
           "wiki": "The_Sound_of_Music"
         },
         {
+          "year": 1973,
+          "text": "Skylab 4, the last crew to live on the Skylab space station, is launched.",
+          "category": "science",
+          "wiki": "Skylab_4"
+        },
+        {
           "year": 1974,
           "text": "The Arecibo message is beamed into space towards a distant star cluster.",
           "category": "science",
@@ -1166,12 +1689,28 @@
           "wiki": "José_Saramago"
         },
         {
+          "year": 1952,
+          "text": "Shigeru Miyamoto, Japanese video game designer (Mario, Zelda)",
+          "wiki": "Shigeru_Miyamoto"
+        },
+        {
           "year": 1964,
           "text": "Diana Krall, Canadian jazz singer",
           "wiki": "Diana_Krall"
+        },
+        {
+          "year": 1977,
+          "text": "Maggie Gyllenhaal, American actress",
+          "wiki": "Maggie_Gyllenhaal"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "The International Day for Tolerance was declared by UNESCO in 1995.",
+          "wiki": "International_Day_for_Tolerance"
+        }
+      ]
     },
     "11-17": {
       "names": [
@@ -1199,6 +1738,12 @@
           "wiki": "Suez_Canal"
         },
         {
+          "year": 1933,
+          "text": "The Marx Brothers' film Duck Soup is released.",
+          "category": "news",
+          "wiki": "Duck_Soup_(1933_film)"
+        },
+        {
           "year": 1939,
           "text": "Nazi forces storm Czech universities and arrest students in Prague.",
           "category": "conflict",
@@ -1211,10 +1756,22 @@
           "wiki": "Lunokhod_1"
         },
         {
+          "year": 1970,
+          "text": "Douglas Engelbart receives a patent for the computer mouse.",
+          "category": "science",
+          "wiki": "Computer_mouse"
+        },
+        {
           "year": 1973,
           "text": "Students rise up against Greece's military junta at the Athens Polytechnic.",
           "category": "conflict",
           "wiki": "Athens_Polytechnic_uprising"
+        },
+        {
+          "year": 1973,
+          "text": "Richard Nixon tells reporters, \"I am not a crook.\"",
+          "category": "news",
+          "wiki": "Watergate_scandal"
         },
         {
           "year": 1989,
@@ -1224,6 +1781,16 @@
         }
       ],
       "births": [
+        {
+          "year": 1887,
+          "text": "Bernard Montgomery, British field marshal",
+          "wiki": "Bernard_Montgomery"
+        },
+        {
+          "year": 1906,
+          "text": "Soichiro Honda, Japanese founder of Honda",
+          "wiki": "Soichiro_Honda"
+        },
         {
           "year": 1925,
           "text": "Rock Hudson, American actor",
@@ -1240,7 +1807,13 @@
           "wiki": "Danny_DeVito"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "International Students' Day remembers the Czech students attacked by the Nazis in Prague on 17 November 1939.",
+          "wiki": "International_Students'_Day"
+        }
+      ]
     },
     "11-18": {
       "names": [
@@ -1250,16 +1823,34 @@
       "script": "On the eighteenth of November in 1928, audiences in New York watched a little cartoon mouse whistle as he steered a riverboat. Steamboat Willie was one of the first cartoons with synchronised sound, and Mickey Mouse became a star.\n\nBefore that day in 1883, nearly every town in America kept its own time by the Sun, and the railways were in a muddle. At noon on the eighteenth of November, the railroads switched to a handful of standard time zones, and clocks across the continent fell into step.\n\nIn 1918, Latvia declared its independence, and today Latvians celebrate with candles and flags.\n\nIn 1626, Pope Urban the Eighth consecrated the new Saint Peter's Basilica in Rome, after more than a century of building.\n\nBorn on this day in 1787 was Louis Daguerre, whose silvered plates gave us some of the first photographs, and in 1923, Alan Shepard, the first American in space, who would one day hit golf balls on the Moon.",
       "events": [
         {
+          "year": 1477,
+          "text": "William Caxton prints the first dated book in England.",
+          "category": "science",
+          "wiki": "William_Caxton"
+        },
+        {
           "year": 1626,
           "text": "The new St. Peter's Basilica in Rome is consecrated.",
           "category": "news",
           "wiki": "St._Peter's_Basilica"
         },
         {
+          "year": 1803,
+          "text": "Haitian revolutionaries defeat the French at the Battle of Vertières, winning Haiti's independence.",
+          "category": "conflict",
+          "wiki": "Battle_of_Vertières"
+        },
+        {
           "year": 1883,
           "text": "Railroads in the U.S. and Canada adopt standard time zones.",
           "category": "science",
           "wiki": "Standard_time"
+        },
+        {
+          "year": 1905,
+          "text": "Prince Carl of Denmark becomes King Haakon VII of newly independent Norway.",
+          "category": "news",
+          "wiki": "Haakon_VII"
         },
         {
           "year": 1918,
@@ -1284,6 +1875,12 @@
           "text": "The Croatian city of Vukovar falls after an 87-day siege.",
           "category": "conflict",
           "wiki": "Battle_of_Vukovar"
+        },
+        {
+          "year": 1991,
+          "text": "British envoy Terry Waite is freed after almost five years as a hostage in Lebanon.",
+          "category": "news",
+          "wiki": "Terry_Waite"
         }
       ],
       "births": [
@@ -1291,6 +1888,16 @@
           "year": 1787,
           "text": "Louis Daguerre, French pioneer of photography",
           "wiki": "Louis_Daguerre"
+        },
+        {
+          "year": 1836,
+          "text": "W. S. Gilbert, English librettist (Gilbert and Sullivan)",
+          "wiki": "W._S._Gilbert"
+        },
+        {
+          "year": 1906,
+          "text": "Alec Issigonis, British designer of the Mini",
+          "wiki": "Alec_Issigonis"
         },
         {
           "year": 1923,
@@ -1303,7 +1910,13 @@
           "wiki": "Margaret_Atwood"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Mickey Mouse's birthday is celebrated on 18 November, the day Steamboat Willie premiered.",
+          "wiki": "Mickey_Mouse"
+        }
+      ]
     },
     "11-19": {
       "names": [
@@ -1312,6 +1925,18 @@
       ],
       "script": "On the nineteenth of November in 1863, at a new cemetery in Gettysburg, Pennsylvania, Abraham Lincoln rose and spoke for barely two minutes. Fourscore and seven years ago, he began. His few words, about a nation conceived in liberty and a government of the people, by the people, for the people, became among the most famous ever spoken.\n\nBorn on this day in 1828 was Rani Lakshmibai of Jhansi, the warrior queen who rode into battle in 1857. And in 1917, Indira Gandhi was born, who would become India's first woman Prime Minister.\n\nIn 1942, the Soviet army launched Operation Uranus, encircling the German forces at Stalingrad. The tide of the Second World War began to turn.\n\nIn 1969, Apollo 12 landed on the Moon, and Pete Conrad, a short man, joked as he stepped down: that may have been a small one for Neil, but it's a long one for me.\n\nAnd in 1977, Egypt's President Sadat flew to Jerusalem, the first Arab leader to visit Israel, carrying a message of peace.",
       "events": [
+        {
+          "year": 1493,
+          "text": "Christopher Columbus lands on the island of Puerto Rico.",
+          "category": "science",
+          "wiki": "Puerto_Rico"
+        },
+        {
+          "year": 1703,
+          "text": "The mysterious prisoner known as the Man in the Iron Mask dies in the Bastille.",
+          "category": "news",
+          "wiki": "Man_in_the_Iron_Mask"
+        },
         {
           "year": 1863,
           "text": "Abraham Lincoln delivers the Gettysburg Address.",
@@ -1355,6 +1980,12 @@
           "wiki": "Geneva_Summit_(1985)"
         },
         {
+          "year": 1994,
+          "text": "The first UK National Lottery draw is held.",
+          "category": "news",
+          "wiki": "National_Lottery_(United_Kingdom)"
+        },
+        {
           "year": 1999,
           "text": "China launches Shenzhou 1, its first spacecraft of the program.",
           "category": "science",
@@ -1362,6 +1993,11 @@
         }
       ],
       "births": [
+        {
+          "year": 1600,
+          "text": "Charles I, King of England",
+          "wiki": "Charles_I_of_England"
+        },
         {
           "year": 1828,
           "text": "Rani Lakshmibai, Queen of Jhansi",
@@ -1373,12 +2009,23 @@
           "wiki": "Indira_Gandhi"
         },
         {
+          "year": 1961,
+          "text": "Meg Ryan, American actress",
+          "wiki": "Meg_Ryan"
+        },
+        {
           "year": 1962,
           "text": "Jodie Foster, American actress",
           "wiki": "Jodie_Foster"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "The Gettysburg Address is only about 270 words long, and took Lincoln around two minutes to deliver.",
+          "wiki": "Gettysburg_Address"
+        }
+      ]
     },
     "11-20": {
       "names": [
@@ -1392,6 +2039,12 @@
           "text": "A sperm whale rams and sinks the whaleship Essex, inspiring Moby-Dick.",
           "category": "news",
           "wiki": "Essex_(whaleship)"
+        },
+        {
+          "year": 1866,
+          "text": "Pierre Lallement receives a U.S. patent for a pedal-driven bicycle.",
+          "category": "science",
+          "wiki": "Pierre_Lallement"
         },
         {
           "year": 1910,
@@ -1430,6 +2083,12 @@
           "wiki": "Convention_on_the_Rights_of_the_Child"
         },
         {
+          "year": 1992,
+          "text": "Fire badly damages Windsor Castle.",
+          "category": "news",
+          "wiki": "1992_Windsor_Castle_fire"
+        },
+        {
           "year": 1998,
           "text": "Zarya, the first module of the International Space Station, is launched.",
           "category": "science",
@@ -1448,12 +2107,28 @@
           "wiki": "Edwin_Hubble"
         },
         {
+          "year": 1908,
+          "text": "Alistair Cooke, British-American broadcaster",
+          "wiki": "Alistair_Cooke"
+        },
+        {
+          "year": 1925,
+          "text": "Robert F. Kennedy, American politician",
+          "wiki": "Robert_F._Kennedy"
+        },
+        {
           "year": 1942,
           "text": "Joe Biden, 46th U.S. President",
           "wiki": "Joe_Biden"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "World Children's Day falls on the date the UN adopted both the Declaration (1959) and the Convention (1989) on the Rights of the Child.",
+          "wiki": "Universal_Children's_Day"
+        }
+      ]
     },
     "11-21": {
       "names": [
@@ -1481,6 +2156,12 @@
           "wiki": "HMHS_Britannic"
         },
         {
+          "year": 1922,
+          "text": "Rebecca Latimer Felton is sworn in as the first woman in the U.S. Senate.",
+          "category": "news",
+          "wiki": "Rebecca_Latimer_Felton"
+        },
+        {
           "year": 1953,
           "text": "Scientists expose the Piltdown Man fossil as a hoax.",
           "category": "science",
@@ -1497,6 +2178,12 @@
           "text": "The Verrazzano-Narrows Bridge opens in New York.",
           "category": "news",
           "wiki": "Verrazzano-Narrows_Bridge"
+        },
+        {
+          "year": 1980,
+          "text": "Millions tune in to the TV show Dallas to find out \"Who shot J.R.?\"",
+          "category": "news",
+          "wiki": "Who_shot_J.R.?"
         },
         {
           "year": 1995,
@@ -1518,9 +2205,19 @@
           "wiki": "Voltaire"
         },
         {
+          "year": 1787,
+          "text": "Samuel Cunard, Canadian shipping pioneer",
+          "wiki": "Samuel_Cunard"
+        },
+        {
           "year": 1898,
           "text": "René Magritte, Belgian painter",
           "wiki": "René_Magritte"
+        },
+        {
+          "year": 1945,
+          "text": "Goldie Hawn, American actress",
+          "wiki": "Goldie_Hawn"
         },
         {
           "year": 1965,
@@ -1528,7 +2225,13 @@
           "wiki": "Björk"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "World Hello Day began in 1973 after the Yom Kippur War, inviting everyone to greet ten people as a gesture for peace.",
+          "wiki": "World_Hello_Day"
+        }
+      ]
     },
     "11-22": {
       "names": [
@@ -1536,6 +2239,18 @@
       ],
       "script": "On the twenty-second of November in 1963, President John F. Kennedy rode through the streets of Dallas in an open car, waving to cheering crowds. Shots rang out, and within the hour the young president was dead. People around the world would always remember where they were when they heard the news.\n\nOn that same day, two great writers also died: C. S. Lewis, who gave us Narnia, and Aldous Huxley, who imagined a Brave New World.\n\nBut the twenty-second of November has gentler memories too. In 1995, a cowboy doll named Woody and a space ranger named Buzz Lightyear came to life in Toy Story, the first feature film made entirely by computer.\n\nIn 1928, Ravel's hypnotic Boléro was heard for the first time in Paris.\n\nIn 1943, Lebanon gained its independence. And born on this day in 1890 was Charles de Gaulle, who would lead the Free French through the darkest days of war.",
       "events": [
+        {
+          "year": 1497,
+          "text": "Vasco da Gama's fleet rounds the Cape of Good Hope on its way to India.",
+          "category": "science",
+          "wiki": "Vasco_da_Gama"
+        },
+        {
+          "year": 1718,
+          "text": "The pirate Blackbeard is killed in battle off North Carolina.",
+          "category": "conflict",
+          "wiki": "Blackbeard"
+        },
         {
           "year": 1928,
           "text": "Maurice Ravel's Boléro premieres in Paris.",
@@ -1583,9 +2298,20 @@
           "text": "Angela Merkel becomes Germany's first female Chancellor.",
           "category": "news",
           "wiki": "Angela_Merkel"
+        },
+        {
+          "year": 2005,
+          "text": "Microsoft's Xbox 360 games console goes on sale.",
+          "category": "science",
+          "wiki": "Xbox_360"
         }
       ],
       "births": [
+        {
+          "year": 1819,
+          "text": "George Eliot, English novelist",
+          "wiki": "George_Eliot"
+        },
         {
           "year": 1869,
           "text": "André Gide, French author and Nobel laureate",
@@ -1595,6 +2321,11 @@
           "year": 1890,
           "text": "Charles de Gaulle, President of France",
           "wiki": "Charles_de_Gaulle"
+        },
+        {
+          "year": 1943,
+          "text": "Billie Jean King, American tennis player",
+          "wiki": "Billie_Jean_King"
         },
         {
           "year": 1984,
@@ -1612,6 +2343,16 @@
           "year": 1963,
           "text": "C. S. Lewis, British author of the Narnia books",
           "wiki": "C._S._Lewis"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Boléro repeats a single melody again and again for about 15 minutes, growing louder all the way.",
+          "wiki": "Boléro"
+        },
+        {
+          "text": "Toy Story took about four years to make, with every frame drawn by computer.",
+          "wiki": "Toy_Story"
         }
       ]
     },
@@ -1652,13 +2393,47 @@
           "wiki": "Battle_of_Tarawa"
         },
         {
+          "year": 1945,
+          "text": "Most wartime rationing of meat and butter ends in the United States.",
+          "category": "news",
+          "wiki": "Rationing_in_the_United_States"
+        },
+        {
           "year": 1963,
           "text": "Doctor Who is first broadcast on BBC television.",
           "category": "news",
           "wiki": "Doctor_Who"
+        },
+        {
+          "year": 1971,
+          "text": "The People's Republic of China takes its seat on the UN Security Council.",
+          "category": "conflict",
+          "wiki": "China_and_the_United_Nations"
+        },
+        {
+          "year": 1992,
+          "text": "IBM shows the Simon, often called the first smartphone.",
+          "category": "science",
+          "wiki": "IBM_Simon"
+        },
+        {
+          "year": 2005,
+          "text": "Ellen Johnson Sirleaf is confirmed as Liberia's president, Africa's first elected female head of state.",
+          "category": "news",
+          "wiki": "Ellen_Johnson_Sirleaf"
         }
       ],
       "births": [
+        {
+          "year": 1804,
+          "text": "Franklin Pierce, 14th President of the United States",
+          "wiki": "Franklin_Pierce"
+        },
+        {
+          "year": 1876,
+          "text": "Manuel de Falla, Spanish composer",
+          "wiki": "Manuel_de_Falla"
+        },
         {
           "year": 1887,
           "text": "Boris Karloff, English actor",
@@ -1675,7 +2450,17 @@
           "wiki": "Miley_Cyrus"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Labour Thanksgiving Day grew from Niiname-sai, an ancient harvest festival in which the emperor offers the new rice to the gods.",
+          "wiki": "Labor_Thanksgiving_Day"
+        },
+        {
+          "text": "Doctor Who's first episode was overshadowed by news of Kennedy's assassination, so the BBC showed it again the following week.",
+          "wiki": "An_Unearthly_Child"
+        }
+      ]
     },
     "11-24": {
       "names": [
@@ -1695,6 +2480,24 @@
           "text": "Charles Darwin publishes On the Origin of Species.",
           "category": "science",
           "wiki": "On_the_Origin_of_Species"
+        },
+        {
+          "year": 1874,
+          "text": "Joseph Glidden patents barbed wire, which changes farming on the American plains.",
+          "category": "news",
+          "wiki": "Barbed_wire"
+        },
+        {
+          "year": 1922,
+          "text": "Irish writer and nationalist Erskine Childers is executed during the Irish Civil War.",
+          "category": "conflict",
+          "wiki": "Erskine_Childers_(author)"
+        },
+        {
+          "year": 1950,
+          "text": "The musical Guys and Dolls opens on Broadway.",
+          "category": "news",
+          "wiki": "Guys_and_Dolls"
         },
         {
           "year": 1963,
@@ -1719,6 +2522,12 @@
           "text": "Czechoslovakia's communist leadership resigns during the Velvet Revolution.",
           "category": "conflict",
           "wiki": "Velvet_Revolution"
+        },
+        {
+          "year": 1991,
+          "text": "Freddie Mercury of Queen dies in London, a day after announcing he had AIDS.",
+          "category": "news",
+          "wiki": "Freddie_Mercury"
         }
       ],
       "births": [
@@ -1728,9 +2537,19 @@
           "wiki": "Baruch_Spinoza"
         },
         {
+          "year": 1784,
+          "text": "Zachary Taylor, 12th President of the United States",
+          "wiki": "Zachary_Taylor"
+        },
+        {
           "year": 1864,
           "text": "Henri de Toulouse-Lautrec, French painter",
           "wiki": "Henri_de_Toulouse-Lautrec"
+        },
+        {
+          "year": 1888,
+          "text": "Dale Carnegie, American writer (How to Win Friends and Influence People)",
+          "wiki": "Dale_Carnegie"
         },
         {
           "year": 1955,
@@ -1743,6 +2562,12 @@
           "year": 1991,
           "text": "Freddie Mercury, British singer (Queen)",
           "wiki": "Freddie_Mercury"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Lucy was named after the Beatles song \"Lucy in the Sky with Diamonds\", which was playing at the camp the night she was found.",
+          "wiki": "Lucy_(Australopithecus)"
         }
       ]
     },
@@ -1766,16 +2591,40 @@
           "wiki": "General_relativity"
         },
         {
+          "year": 1940,
+          "text": "The de Havilland Mosquito, a fast warplane built mostly of wood, makes its first flight.",
+          "category": "science",
+          "wiki": "De_Havilland_Mosquito"
+        },
+        {
           "year": 1952,
           "text": "Agatha Christie's The Mousetrap opens in London, beginning the world's longest-running play.",
           "category": "news",
           "wiki": "The_Mousetrap"
         },
         {
+          "year": 1953,
+          "text": "Hungary beat England 6–3 at Wembley, England's first home defeat by a team from outside the British Isles.",
+          "category": "news",
+          "wiki": "England_v_Hungary_(1953)"
+        },
+        {
           "year": 1960,
           "text": "The Mirabal sisters are killed for opposing the Dominican dictator Trujillo.",
           "category": "conflict",
           "wiki": "Mirabal_sisters"
+        },
+        {
+          "year": 1961,
+          "text": "USS Enterprise, the first nuclear-powered aircraft carrier, enters service.",
+          "category": "science",
+          "wiki": "USS_Enterprise_(CVN-65)"
+        },
+        {
+          "year": 1963,
+          "text": "President Kennedy is buried at Arlington National Cemetery.",
+          "category": "news",
+          "wiki": "State_funeral_of_John_F._Kennedy"
         },
         {
           "year": 1975,
@@ -1792,6 +2641,11 @@
       ],
       "births": [
         {
+          "year": 1562,
+          "text": "Lope de Vega, Spanish playwright",
+          "wiki": "Lope_de_Vega"
+        },
+        {
           "year": 1835,
           "text": "Andrew Carnegie, Scottish-American industrialist and philanthropist",
           "wiki": "Andrew_Carnegie"
@@ -1802,12 +2656,23 @@
           "wiki": "Pope_John_XXIII"
         },
         {
+          "year": 1914,
+          "text": "Joe DiMaggio, American baseball player",
+          "wiki": "Joe_DiMaggio"
+        },
+        {
           "year": 1960,
           "text": "John F. Kennedy Jr., American lawyer and publisher",
           "wiki": "John_F._Kennedy_Jr."
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "The day against violence towards women honours the Mirabal sisters, remembered as \"Las Mariposas\" — the Butterflies.",
+          "wiki": "Mirabal_sisters"
+        }
+      ]
     },
     "11-26": {
       "names": [
@@ -1817,16 +2682,34 @@
       "script": "On the twenty-sixth of November in 1949, India's Constituent Assembly adopted the Constitution, the longest written constitution of any nation, guided by Dr. B. R. Ambedkar. It promised justice, liberty, equality and fraternity to every citizen. Today India celebrates Constitution Day.\n\nIt is also National Milk Day, the birthday in 1921 of Verghese Kurien, who helped turn India into the world's largest producer of milk.\n\nOn this day in 1922, in the Valley of the Kings, Howard Carter made a small hole in a sealed doorway and held up a candle. Lord Carnarvon asked if he could see anything. Yes, Carter replied, wonderful things.\n\nIn 1942, the film Casablanca premiered in New York. Here's looking at you, kid.\n\nAnd in 2018, the InSight lander touched down on Mars to listen to the heartbeat of the red planet.\n\nThe day also carries grief. In 2008, terrorists attacked Mumbai, and the city showed the world its courage.",
       "events": [
         {
+          "year": 1789,
+          "text": "The United States celebrates its first national Thanksgiving, proclaimed by George Washington.",
+          "category": "news",
+          "wiki": "Thanksgiving_(United_States)"
+        },
+        {
           "year": 1863,
           "text": "The first national Thanksgiving Day, proclaimed by Lincoln, is celebrated in the U.S.",
           "category": "news",
           "wiki": "Thanksgiving_(United_States)"
         },
         {
+          "year": 1865,
+          "text": "Lewis Carroll's Alice's Adventures in Wonderland is published.",
+          "category": "news",
+          "wiki": "Alice's_Adventures_in_Wonderland"
+        },
+        {
           "year": 1922,
           "text": "Howard Carter first looks into Tutankhamun's tomb and sees \"wonderful things\".",
           "category": "science",
           "wiki": "Tutankhamun"
+        },
+        {
+          "year": 1941,
+          "text": "The United States hands Japan the Hull note, days before the attack on Pearl Harbor.",
+          "category": "conflict",
+          "wiki": "Hull_note"
         },
         {
           "year": 1942,
@@ -1861,6 +2744,16 @@
       ],
       "births": [
         {
+          "year": 1607,
+          "text": "John Harvard, English benefactor of Harvard University",
+          "wiki": "John_Harvard"
+        },
+        {
+          "year": 1909,
+          "text": "Eugène Ionesco, Romanian-French playwright",
+          "wiki": "Eugène_Ionesco"
+        },
+        {
           "year": 1921,
           "text": "Verghese Kurien, father of India's White Revolution",
           "wiki": "Verghese_Kurien"
@@ -1876,7 +2769,13 @@
           "wiki": "Tina_Turner"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "India's Constitution, adopted on this day, is the longest written national constitution in the world.",
+          "wiki": "Constitution_of_India"
+        }
+      ]
     },
     "11-27": {
       "names": [],
@@ -1889,16 +2788,40 @@
           "wiki": "Council_of_Clermont"
         },
         {
+          "year": 1703,
+          "text": "The Great Storm batters southern England, wrecking ships and homes.",
+          "category": "news",
+          "wiki": "Great_storm_of_1703"
+        },
+        {
           "year": 1895,
           "text": "Alfred Nobel signs his will, creating the Nobel Prizes.",
           "category": "news",
           "wiki": "Nobel_Prize"
         },
         {
+          "year": 1910,
+          "text": "New York's Pennsylvania Station opens to the public.",
+          "category": "science",
+          "wiki": "Pennsylvania_Station_(1910–1963)"
+        },
+        {
           "year": 1924,
           "text": "The first Macy's Thanksgiving Day Parade is held in New York.",
           "category": "news",
           "wiki": "Macy's_Thanksgiving_Day_Parade"
+        },
+        {
+          "year": 1942,
+          "text": "The French navy scuttles its fleet at Toulon to keep it from German hands.",
+          "category": "conflict",
+          "wiki": "Scuttling_of_the_French_fleet_at_Toulon"
+        },
+        {
+          "year": 1967,
+          "text": "The Beatles' Magical Mystery Tour album is released in the United States.",
+          "category": "news",
+          "wiki": "Magical_Mystery_Tour"
         },
         {
           "year": 1971,
@@ -1911,6 +2834,12 @@
           "text": "San Francisco Mayor George Moscone and supervisor Harvey Milk are assassinated.",
           "category": "conflict",
           "wiki": "Harvey_Milk"
+        },
+        {
+          "year": 2005,
+          "text": "Surgeons in France perform the first partial face transplant.",
+          "category": "science",
+          "wiki": "Face_transplant"
         }
       ],
       "births": [
@@ -1918,6 +2847,11 @@
           "year": 1701,
           "text": "Anders Celsius, Swedish astronomer",
           "wiki": "Anders_Celsius"
+        },
+        {
+          "year": 1874,
+          "text": "Chaim Weizmann, first President of Israel",
+          "wiki": "Chaim_Weizmann"
         },
         {
           "year": 1940,
@@ -1928,9 +2862,28 @@
           "year": 1942,
           "text": "Jimi Hendrix, American guitarist",
           "wiki": "Jimi_Hendrix"
+        },
+        {
+          "year": 1957,
+          "text": "Caroline Kennedy, American diplomat",
+          "wiki": "Caroline_Kennedy"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Anders Celsius, born today, first designed his scale with water boiling at 0 and freezing at 100 — the reverse of today's.",
+          "wiki": "Celsius"
+        },
+        {
+          "text": "Alfred Nobel's will left most of his fortune to the prizes, to the surprise of his family.",
+          "wiki": "Nobel_Prize"
+        },
+        {
+          "text": "Jimi Hendrix, born today, played a right-handed guitar turned upside down.",
+          "wiki": "Jimi_Hendrix"
+        }
+      ]
     },
     "11-28": {
       "names": [
@@ -1947,6 +2900,12 @@
           "wiki": "Ferdinand_Magellan"
         },
         {
+          "year": 1660,
+          "text": "The Royal Society, one of the world's oldest scientific academies, is founded in London.",
+          "category": "science",
+          "wiki": "Royal_Society"
+        },
+        {
           "year": 1893,
           "text": "Women vote in a New Zealand general election for the first time.",
           "category": "news",
@@ -1957,6 +2916,12 @@
           "text": "Albania declares its independence from the Ottoman Empire.",
           "category": "conflict",
           "wiki": "Albanian_Declaration_of_Independence"
+        },
+        {
+          "year": 1919,
+          "text": "Nancy Astor is elected, the first woman to take her seat in the British House of Commons.",
+          "category": "news",
+          "wiki": "Nancy_Astor"
         },
         {
           "year": 1925,
@@ -1981,6 +2946,12 @@
           "text": "NASA launches Mariner 4 towards Mars.",
           "category": "science",
           "wiki": "Mariner_4"
+        },
+        {
+          "year": 1990,
+          "text": "John Major succeeds Margaret Thatcher as British Prime Minister.",
+          "category": "news",
+          "wiki": "John_Major"
         }
       ],
       "births": [
@@ -1993,6 +2964,16 @@
           "year": 1820,
           "text": "Friedrich Engels, German philosopher",
           "wiki": "Friedrich_Engels"
+        },
+        {
+          "year": 1881,
+          "text": "Stefan Zweig, Austrian writer",
+          "wiki": "Stefan_Zweig"
+        },
+        {
+          "year": 1950,
+          "text": "Ed Harris, American actor",
+          "wiki": "Ed_Harris"
         },
         {
           "year": 1962,
@@ -2009,6 +2990,18 @@
       "script": "On the twenty-ninth of November in 1929, the explorer Richard Byrd and his crew flew over the South Pole for the first time, dropping a small flag weighted with a stone from a friend's grave.\n\nIn 1961, a chimpanzee named Enos orbited the Earth twice aboard a Mercury capsule, paving the way for America's first astronaut to orbit, just a few months later.\n\nIn 1899, a group of young football lovers in Barcelona founded a club. FC Barcelona would become one of the most famous teams in the world.\n\nIn 1947, the United Nations voted to divide Palestine into two states. Today the world marks a day of solidarity with the Palestinian people.\n\nIn 1972, a simple game appeared in a California bar: two paddles and a bouncing ball. Pong had arrived, and the video game industry was born.\n\nBorn on this day in 1832 was Louisa May Alcott, who wrote Little Women, and in 1898, C. S. Lewis, who opened the wardrobe to Narnia.",
       "events": [
         {
+          "year": 1814,
+          "text": "The Times of London is printed on a steam-powered press for the first time.",
+          "category": "news",
+          "wiki": "The_Times"
+        },
+        {
+          "year": 1830,
+          "text": "The November Uprising against Russian rule begins in Poland.",
+          "category": "conflict",
+          "wiki": "November_Uprising"
+        },
+        {
           "year": 1899,
           "text": "FC Barcelona is founded.",
           "category": "news",
@@ -2019,6 +3012,12 @@
           "text": "Richard Byrd's expedition makes the first flight over the South Pole.",
           "category": "science",
           "wiki": "Richard_E._Byrd"
+        },
+        {
+          "year": 1944,
+          "text": "Surgeons at Johns Hopkins perform the first \"blue baby\" heart operation.",
+          "category": "science",
+          "wiki": "Blalock–Thomas–Taussig_shunt"
         },
         {
           "year": 1945,
@@ -2053,6 +3052,11 @@
       ],
       "births": [
         {
+          "year": 1803,
+          "text": "Christian Doppler, Austrian physicist",
+          "wiki": "Christian_Doppler"
+        },
+        {
           "year": 1832,
           "text": "Louisa May Alcott, American author of Little Women",
           "wiki": "Louisa_May_Alcott"
@@ -2066,9 +3070,24 @@
           "year": 1918,
           "text": "Madeleine L'Engle, American author",
           "wiki": "Madeleine_L'Engle"
+        },
+        {
+          "year": 1976,
+          "text": "Chadwick Boseman, American actor",
+          "wiki": "Chadwick_Boseman"
         }
       ],
-      "deaths": []
+      "deaths": [],
+      "facts": [
+        {
+          "text": "C. S. Lewis, born today, imagined Narnia as a land where it was \"always winter and never Christmas\".",
+          "wiki": "The_Lion,_the_Witch_and_the_Wardrobe"
+        },
+        {
+          "text": "Louisa May Alcott, born today, shared her birthday with her father, Bronson Alcott.",
+          "wiki": "Amos_Bronson_Alcott"
+        }
+      ]
     },
     "11-30": {
       "names": [
@@ -2082,6 +3101,12 @@
           "text": "Scotland and England play the first international football match.",
           "category": "news",
           "wiki": "1872_Scotland_versus_England_football_match"
+        },
+        {
+          "year": 1934,
+          "text": "The Flying Scotsman becomes the first steam locomotive officially recorded at 100 miles an hour.",
+          "category": "science",
+          "wiki": "LNER_Class_A3_4472_Flying_Scotsman"
         },
         {
           "year": 1936,
@@ -2106,6 +3131,12 @@
           "text": "Barbados gains independence from the United Kingdom.",
           "category": "conflict",
           "wiki": "Barbados"
+        },
+        {
+          "year": 1979,
+          "text": "Pink Floyd release The Wall.",
+          "category": "news",
+          "wiki": "The_Wall"
         },
         {
           "year": 1982,
@@ -2146,6 +3177,11 @@
           "year": 1874,
           "text": "Winston Churchill, British Prime Minister",
           "wiki": "Winston_Churchill"
+        },
+        {
+          "year": 1965,
+          "text": "Ben Stiller, American actor",
+          "wiki": "Ben_Stiller"
         }
       ],
       "deaths": [
@@ -2153,6 +3189,12 @@
           "year": 1900,
           "text": "Oscar Wilde, Irish writer",
           "wiki": "Oscar_Wilde"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Saint Andrew is the patron saint of Scotland, and his X-shaped cross is on the Scottish flag.",
+          "wiki": "Flag_of_Scotland"
         }
       ]
     }
