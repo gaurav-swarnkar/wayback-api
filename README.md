@@ -113,7 +113,7 @@ Lists the days that have data: `{ "version": 1, "days": ["09-01", …] }`.
 
 ## Current coverage
 
-- **v2 month files**: January, February (including 29 February), March, April, May, June, October, November and December. Every day has at least 4 Headlines, 3 Space, 3 Turning Points, 5 Birthdays and 3 Did You Know cards (29 January, 4, 19 and 29 February, 12 March, 8, 11, 13, 27 and 29 April, 4, 7, 17, 26 and 31 May, and 5, 7, 9, 10, 19, 20, 23 and 28 June have 2 Space cards). Every day has a script, and every story has a `wiki` photo source and an explicit `category`. The source content is in `content/` in the app repo; `python3 content/build.py` regenerates these files.
+- **v2 month files**: January, February (including 29 February), March, April, May, June, July, October, November and December. Every day has at least 4 Headlines, 3 Space, 3 Turning Points, 5 Birthdays and 3 Did You Know cards (29 January, 4, 19 and 29 February, 12 March, 8, 11, 13, 27 and 29 April, 4, 7, 17, 26 and 31 May, and 5, 7, 9, 10, 19, 20, 23 and 28 June, and 6, 7, 8, 12 and 13 July have 2 Space cards). Every day has a script, and every story has a `wiki` photo source and an explicit `category`. The source content is in `content/` in the app repo; `python3 content/build.py` regenerates these files.
 - **v1 day files**: September and October.
 
 All stories and scripts were written without checking against sources, so please review them before you rely on them.
