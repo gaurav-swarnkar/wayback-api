@@ -1,0 +1,3557 @@
+{
+  "month": 6,
+  "name": "June",
+  "days": {
+    "06-01": {
+      "names": [
+        "Global Day of Parents",
+        "World Milk Day",
+        "International Children's Day"
+      ],
+      "script": "On the first of June in 1495, a Scottish tax record noted that a friar named John Cor had been given malt to make aqua vitae, the water of life. It is the oldest written mention of Scotch whisky.\n\nIn 1831, the explorer James Clark Ross dragged his sledge across the frozen Canadian Arctic and found the spot where a compass needle points straight down: the north magnetic pole.\n\nIn 1869, a young telegraph operator named Thomas Edison received his very first patent, for an electric vote recorder. Politicians did not want it. He decided never again to invent something nobody wanted.\n\nIn 1813, off Boston, the dying Captain James Lawrence cried out to his crew: don't give up the ship! His words became the motto of the United States Navy.\n\nAnd in 1980, a new television channel went on the air in Atlanta, promising news twenty-four hours a day. CNN said it would stay on the air until the end of the world.\n\nToday is also the Global Day of Parents, and in many countries, Children's Day.",
+      "events": [
+        {
+          "year": 1495,
+          "text": "The earliest written record of Scotch whisky is made.",
+          "category": "news",
+          "wiki": "Scotch_whisky"
+        },
+        {
+          "year": 1792,
+          "text": "Kentucky becomes the 15th U.S. state.",
+          "category": "news",
+          "wiki": "Kentucky"
+        },
+        {
+          "year": 1794,
+          "text": "The British navy defeats the French on the \"Glorious First of June\".",
+          "category": "conflict",
+          "wiki": "Glorious_First_of_June"
+        },
+        {
+          "year": 1796,
+          "text": "Tennessee becomes the 16th U.S. state.",
+          "category": "news",
+          "wiki": "Tennessee"
+        },
+        {
+          "year": 1813,
+          "text": "Captain James Lawrence's dying command, \"Don't give up the ship!\", becomes a U.S. Navy motto.",
+          "category": "conflict",
+          "wiki": "James_Lawrence"
+        },
+        {
+          "year": 1831,
+          "text": "James Clark Ross reaches the north magnetic pole.",
+          "category": "science",
+          "wiki": "James_Clark_Ross"
+        },
+        {
+          "year": 1869,
+          "text": "Thomas Edison receives his first patent, for an electric vote recorder.",
+          "category": "science",
+          "wiki": "Thomas_Edison"
+        },
+        {
+          "year": 1935,
+          "text": "Driving tests become compulsory in Britain.",
+          "category": "news",
+          "wiki": "Driving_test"
+        },
+        {
+          "year": 1979,
+          "text": "Rhodesia becomes Zimbabwe Rhodesia under its first Black-led government.",
+          "category": "conflict",
+          "wiki": "Zimbabwe_Rhodesia"
+        },
+        {
+          "year": 1980,
+          "text": "CNN, the first 24-hour news channel, goes on the air.",
+          "category": "news",
+          "wiki": "CNN"
+        },
+        {
+          "year": 1990,
+          "text": "The ROSAT X-ray satellite is launched.",
+          "category": "science",
+          "wiki": "ROSAT"
+        },
+        {
+          "year": 2001,
+          "text": "Members of Nepal's royal family are killed in a palace massacre.",
+          "category": "conflict",
+          "wiki": "Nepalese_royal_massacre"
+        }
+      ],
+      "births": [
+        {
+          "year": 1801,
+          "text": "Brigham Young, American religious leader",
+          "wiki": "Brigham_Young"
+        },
+        {
+          "year": 1926,
+          "text": "Marilyn Monroe, American actress",
+          "wiki": "Marilyn_Monroe"
+        },
+        {
+          "year": 1929,
+          "text": "Nargis, Indian actress",
+          "wiki": "Nargis"
+        },
+        {
+          "year": 1937,
+          "text": "Morgan Freeman, American actor",
+          "wiki": "Morgan_Freeman"
+        },
+        {
+          "year": 1947,
+          "text": "Ronnie Wood, English guitarist (The Rolling Stones)",
+          "wiki": "Ronnie_Wood"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "World Milk Day was set up by the UN's Food and Agriculture Organization in 2001.",
+          "wiki": "World_Milk_Day"
+        },
+        {
+          "text": "After his first patent failed, Edison resolved only to invent things people wanted.",
+          "wiki": "Thomas_Edison"
+        }
+      ]
+    },
+    "06-02": {
+      "names": [
+        "Telangana Formation Day",
+        "Festa della Repubblica (Italy)"
+      ],
+      "script": "On the second of June in 1946, the people of Italy voted to abolish their monarchy and become a republic. Italians celebrate today with parades and a flypast that paints the sky green, white and red.\n\nIn 1896, a twenty-two-year-old Italian named Guglielmo Marconi applied in London for a patent on wireless telegraphy, sending messages through the air without wires.\n\nIn 1910, Charles Rolls, co-founder of Rolls-Royce, flew across the English Channel to France and back again without landing, the first person to do so.\n\nIn 1953, in Westminster Abbey, Elizabeth the Second was crowned queen. For the first time, the whole ceremony was shown on television, and millions of families crowded around small flickering screens, many of them bought just for the day.\n\nIn 1966, NASA's Surveyor 1 touched down gently on the Moon and sent back thousands of pictures, proving that the ground was firm enough for astronauts.\n\nAnd in 2014, Telangana became India's twenty-ninth state.",
+      "events": [
+        {
+          "year": 1793,
+          "text": "The Jacobins purge the Girondins, beginning the Reign of Terror in France.",
+          "category": "conflict",
+          "wiki": "Fall_of_the_Girondists"
+        },
+        {
+          "year": 1886,
+          "text": "Grover Cleveland becomes the only president married in the White House.",
+          "category": "news",
+          "wiki": "Grover_Cleveland"
+        },
+        {
+          "year": 1896,
+          "text": "Guglielmo Marconi applies for a patent on wireless telegraphy.",
+          "category": "science",
+          "wiki": "Guglielmo_Marconi"
+        },
+        {
+          "year": 1910,
+          "text": "Charles Rolls makes the first non-stop double crossing of the English Channel by air.",
+          "category": "science",
+          "wiki": "Charles_Rolls"
+        },
+        {
+          "year": 1924,
+          "text": "The Indian Citizenship Act makes Native Americans U.S. citizens.",
+          "category": "conflict",
+          "wiki": "Indian_Citizenship_Act"
+        },
+        {
+          "year": 1941,
+          "text": "Baseball star Lou Gehrig dies.",
+          "category": "news",
+          "wiki": "Lou_Gehrig"
+        },
+        {
+          "year": 1946,
+          "text": "Italians vote to become a republic.",
+          "category": "conflict",
+          "wiki": "1946_Italian_institutional_referendum"
+        },
+        {
+          "year": 1953,
+          "text": "Elizabeth II is crowned in the first coronation shown in full on television.",
+          "category": "news",
+          "wiki": "Coronation_of_Elizabeth_II"
+        },
+        {
+          "year": 1966,
+          "text": "Surveyor 1 makes NASA's first soft landing on the Moon.",
+          "category": "science",
+          "wiki": "Surveyor_1"
+        },
+        {
+          "year": 1979,
+          "text": "Pope John Paul II makes his first visit to communist Poland.",
+          "category": "conflict",
+          "wiki": "Pope_John_Paul_II"
+        },
+        {
+          "year": 2003,
+          "text": "The European Space Agency launches Mars Express.",
+          "category": "science",
+          "wiki": "Mars_Express"
+        },
+        {
+          "year": 2014,
+          "text": "Telangana becomes a state of India.",
+          "category": "news",
+          "wiki": "Telangana"
+        }
+      ],
+      "births": [
+        {
+          "year": 1840,
+          "text": "Thomas Hardy, English novelist",
+          "wiki": "Thomas_Hardy"
+        },
+        {
+          "year": 1857,
+          "text": "Edward Elgar, English composer",
+          "wiki": "Edward_Elgar"
+        },
+        {
+          "year": 1943,
+          "text": "Ilaiyaraaja, Indian composer",
+          "wiki": "Ilaiyaraaja"
+        },
+        {
+          "year": 1955,
+          "text": "Mani Ratnam, Indian film director",
+          "wiki": "Mani_Ratnam"
+        },
+        {
+          "year": 1965,
+          "text": "Steve Waugh, Australian cricketer",
+          "wiki": "Steve_Waugh"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Many British families bought their first television to watch the 1953 coronation.",
+          "wiki": "Coronation_of_Elizabeth_II"
+        }
+      ]
+    },
+    "06-03": {
+      "names": [
+        "World Bicycle Day",
+        "Mabo Day (Australia)"
+      ],
+      "script": "On the third of June in 1769, on the island of Tahiti, Captain James Cook and his astronomers watched a tiny black dot, the planet Venus, crawl across the face of the Sun. Measuring its path from different places on Earth would help reveal how far away the Sun really is.\n\nIn 1888, a San Francisco newspaper printed a poem about a mighty baseball player named Casey, who struck out at the crucial moment. There is no joy in Mudville, it ended.\n\nIn 1947, Lord Mountbatten announced the plan to divide British India into two independent nations, India and Pakistan.\n\nIn 1965, the astronaut Ed White floated out of Gemini 4 and became the first American to walk in space. He enjoyed it so much he did not want to come back in. It was the saddest moment of my life, he said, when he had to.\n\nAnd in 1992, Australia's High Court ruled in the case of Eddie Mabo, recognising for the first time that Aboriginal and Torres Strait Islander peoples had owned their land before the British came.",
+      "events": [
+        {
+          "year": 1098,
+          "text": "Crusaders capture the city of Antioch.",
+          "category": "conflict",
+          "wiki": "Siege_of_Antioch"
+        },
+        {
+          "year": 1621,
+          "text": "The Dutch West India Company is chartered.",
+          "category": "news",
+          "wiki": "Dutch_West_India_Company"
+        },
+        {
+          "year": 1769,
+          "text": "Captain Cook observes the transit of Venus from Tahiti.",
+          "category": "science",
+          "wiki": "1769_transit_of_Venus_observed_from_Tahiti"
+        },
+        {
+          "year": 1864,
+          "text": "The Union army suffers heavy losses at the Battle of Cold Harbor.",
+          "category": "conflict",
+          "wiki": "Battle_of_Cold_Harbor"
+        },
+        {
+          "year": 1888,
+          "text": "The poem \"Casey at the Bat\" is published.",
+          "category": "news",
+          "wiki": "Casey_at_the_Bat"
+        },
+        {
+          "year": 1937,
+          "text": "The Duke of Windsor, the former Edward VIII, marries Wallis Simpson.",
+          "category": "news",
+          "wiki": "Wallis_Simpson"
+        },
+        {
+          "year": 1947,
+          "text": "Lord Mountbatten announces the plan to partition India.",
+          "category": "conflict",
+          "wiki": "Mountbatten_Plan"
+        },
+        {
+          "year": 1965,
+          "text": "Ed White makes the first American spacewalk.",
+          "category": "science",
+          "wiki": "Gemini_4"
+        },
+        {
+          "year": 1979,
+          "text": "The Ixtoc I oil well blows out in the Gulf of Mexico.",
+          "category": "science",
+          "wiki": "Ixtoc_I_oil_spill"
+        },
+        {
+          "year": 1989,
+          "text": "Ayatollah Khomeini dies.",
+          "category": "news",
+          "wiki": "Ruhollah_Khomeini"
+        },
+        {
+          "year": 1989,
+          "text": "Chinese troops move into Beijing to crush the Tiananmen Square protests.",
+          "category": "conflict",
+          "wiki": "1989_Tiananmen_Square_protests_and_massacre"
+        },
+        {
+          "year": 1992,
+          "text": "Australia's High Court recognises native title in the Mabo case.",
+          "category": "conflict",
+          "wiki": "Mabo_v_Queensland_(No_2)"
+        }
+      ],
+      "births": [
+        {
+          "year": 1726,
+          "text": "James Hutton, Scottish father of modern geology",
+          "wiki": "James_Hutton"
+        },
+        {
+          "year": 1865,
+          "text": "George V, King of the United Kingdom",
+          "wiki": "George_V"
+        },
+        {
+          "year": 1906,
+          "text": "Josephine Baker, American-French entertainer",
+          "wiki": "Josephine_Baker"
+        },
+        {
+          "year": 1924,
+          "text": "M. Karunanidhi, Indian politician",
+          "wiki": "M._Karunanidhi"
+        },
+        {
+          "year": 1986,
+          "text": "Rafael Nadal, Spanish tennis player",
+          "wiki": "Rafael_Nadal"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "World Bicycle Day was declared by the United Nations in 2018.",
+          "wiki": "World_Bicycle_Day"
+        },
+        {
+          "text": "Ed White said ending his spacewalk was \"the saddest moment of my life\".",
+          "wiki": "Ed_White_(astronaut)"
+        }
+      ]
+    },
+    "06-04": {
+      "names": [
+        "International Day of Innocent Children Victims of Aggression"
+      ],
+      "script": "On the fourth of June in 1783, in the market square of Annonay in France, the Montgolfier brothers lit a fire beneath a great bag of paper and cloth. It swelled, rose into the sky, and floated away for more than a kilometre. Within months, a balloon would carry a sheep, a duck and a rooster, and then people.\n\nIn 1896, at two in the morning, in a shed in Detroit, Henry Ford wheeled out his first car, the Quadricycle. The door was too narrow, so he took an axe to the wall to get it out.\n\nIn 1913, at the Epsom Derby, the suffragette Emily Davison stepped onto the course and was struck by the king's horse. She died days later, a martyr for women's right to vote.\n\nIn 1940, as the last soldiers were rescued from Dunkirk, Winston Churchill told Parliament: we shall fight on the beaches, we shall never surrender.\n\nAnd in 1942, in the middle of the Pacific, the Battle of Midway began. In a single morning, American dive-bombers sank three Japanese aircraft carriers, and the tide of the war turned.",
+      "events": [
+        {
+          "year": 1783,
+          "text": "The Montgolfier brothers make the first public demonstration of a hot-air balloon.",
+          "category": "science",
+          "wiki": "Montgolfier_brothers"
+        },
+        {
+          "year": 1876,
+          "text": "The Transcontinental Express reaches San Francisco from New York in just 83 hours.",
+          "category": "news",
+          "wiki": "Transcontinental_Express"
+        },
+        {
+          "year": 1896,
+          "text": "Henry Ford drives his first car, the Quadricycle.",
+          "category": "science",
+          "wiki": "Ford_Quadricycle"
+        },
+        {
+          "year": 1913,
+          "text": "Suffragette Emily Davison is fatally injured at the Epsom Derby.",
+          "category": "news",
+          "wiki": "Emily_Davison"
+        },
+        {
+          "year": 1917,
+          "text": "The first Pulitzer Prizes are awarded.",
+          "category": "news",
+          "wiki": "Pulitzer_Prize"
+        },
+        {
+          "year": 1919,
+          "text": "The U.S. Senate passes the 19th Amendment, giving women the vote.",
+          "category": "conflict",
+          "wiki": "Nineteenth_Amendment_to_the_United_States_Constitution"
+        },
+        {
+          "year": 1939,
+          "text": "The refugee ship St. Louis is turned away from the United States.",
+          "category": "news",
+          "wiki": "MS_St._Louis"
+        },
+        {
+          "year": 1940,
+          "text": "Churchill gives his \"We shall fight on the beaches\" speech.",
+          "category": "conflict",
+          "wiki": "We_shall_fight_on_the_beaches"
+        },
+        {
+          "year": 1942,
+          "text": "The Battle of Midway begins.",
+          "category": "conflict",
+          "wiki": "Battle_of_Midway"
+        },
+        {
+          "year": 1944,
+          "text": "Allied troops liberate Rome.",
+          "category": "conflict",
+          "wiki": "Rome"
+        },
+        {
+          "year": 1989,
+          "text": "Poland holds partly free elections, which Solidarity wins.",
+          "category": "conflict",
+          "wiki": "1989_Polish_parliamentary_election"
+        },
+        {
+          "year": 2010,
+          "text": "SpaceX's Falcon 9 rocket makes its first flight.",
+          "category": "science",
+          "wiki": "Falcon_9"
+        }
+      ],
+      "births": [
+        {
+          "year": 1738,
+          "text": "George III, King of Great Britain",
+          "wiki": "George_III"
+        },
+        {
+          "year": 1928,
+          "text": "Ruth Westheimer, American sex therapist",
+          "wiki": "Ruth_Westheimer"
+        },
+        {
+          "year": 1936,
+          "text": "Nutan, Indian actress",
+          "wiki": "Nutan"
+        },
+        {
+          "year": 1946,
+          "text": "S. P. Balasubrahmanyam, Indian singer",
+          "wiki": "S._P._Balasubrahmanyam"
+        },
+        {
+          "year": 1975,
+          "text": "Angelina Jolie, American actress",
+          "wiki": "Angelina_Jolie"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "The first passengers in a hot-air balloon, later in 1783, were a sheep, a duck and a rooster.",
+          "wiki": "Montgolfier_brothers"
+        },
+        {
+          "text": "Henry Ford had to knock down part of a wall to get his first car out of the shed.",
+          "wiki": "Ford_Quadricycle"
+        }
+      ]
+    },
+    "06-05": {
+      "names": [
+        "World Environment Day",
+        "Constitution Day (Denmark)"
+      ],
+      "script": "On the fifth of June, the world celebrates World Environment Day, first held in 1974, a day to remember that we have only one Earth.\n\nIn 1849, King Frederick the Seventh signed Denmark's first democratic constitution, and Danes still celebrate it today.\n\nIn 1916, the warship carrying Lord Kitchener, Britain's famous war minister, struck a mine off the Orkney Islands, and he was lost at sea.\n\nIn 1947, the American Secretary of State George Marshall gave a short speech at Harvard, offering to help rebuild a Europe ruined by war. The Marshall Plan would pour billions into the continent.\n\nIn 1968, in a Los Angeles hotel, Senator Robert Kennedy was shot just after winning the California primary. He died the next day.\n\nAnd in 1981, a short medical report in America described a strange illness in five young men. It was the first official report of what would become known as AIDS.",
+      "events": [
+        {
+          "year": 1849,
+          "text": "Denmark adopts its first democratic constitution.",
+          "category": "conflict",
+          "wiki": "Constitution_of_Denmark"
+        },
+        {
+          "year": 1916,
+          "text": "Lord Kitchener dies when HMS Hampshire hits a mine.",
+          "category": "news",
+          "wiki": "Herbert_Kitchener,_1st_Earl_Kitchener"
+        },
+        {
+          "year": 1933,
+          "text": "The United States takes its currency off the gold standard.",
+          "category": "news",
+          "wiki": "Gold_standard"
+        },
+        {
+          "year": 1947,
+          "text": "George Marshall proposes the Marshall Plan.",
+          "category": "conflict",
+          "wiki": "Marshall_Plan"
+        },
+        {
+          "year": 1963,
+          "text": "British minister John Profumo resigns in a scandal.",
+          "category": "news",
+          "wiki": "Profumo_affair"
+        },
+        {
+          "year": 1967,
+          "text": "The Six-Day War begins in the Middle East.",
+          "category": "conflict",
+          "wiki": "Six-Day_War"
+        },
+        {
+          "year": 1968,
+          "text": "Robert F. Kennedy is shot in Los Angeles.",
+          "category": "conflict",
+          "wiki": "Assassination_of_Robert_F._Kennedy"
+        },
+        {
+          "year": 1975,
+          "text": "The Suez Canal reopens after eight years.",
+          "category": "news",
+          "wiki": "Suez_Canal"
+        },
+        {
+          "year": 1981,
+          "text": "The first official report on what will become known as AIDS is published.",
+          "category": "science",
+          "wiki": "HIV/AIDS"
+        },
+        {
+          "year": 1984,
+          "text": "Indian troops enter the Golden Temple in Operation Blue Star.",
+          "category": "conflict",
+          "wiki": "Operation_Blue_Star"
+        },
+        {
+          "year": 2012,
+          "text": "Venus crosses the face of the Sun, a sight not due again until 2117.",
+          "category": "science",
+          "wiki": "Transit_of_Venus"
+        }
+      ],
+      "births": [
+        {
+          "year": 1878,
+          "text": "Pancho Villa, Mexican revolutionary",
+          "wiki": "Pancho_Villa"
+        },
+        {
+          "year": 1883,
+          "text": "John Maynard Keynes, English economist",
+          "wiki": "John_Maynard_Keynes"
+        },
+        {
+          "year": 1898,
+          "text": "Federico García Lorca, Spanish poet",
+          "wiki": "Federico_García_Lorca"
+        },
+        {
+          "year": 1956,
+          "text": "Kenny G, American saxophonist",
+          "wiki": "Kenny_G"
+        },
+        {
+          "year": 1971,
+          "text": "Mark Wahlberg, American actor",
+          "wiki": "Mark_Wahlberg"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "World Environment Day began in 1974, after the UN's 1972 conference on the environment in Stockholm.",
+          "wiki": "World_Environment_Day"
+        },
+        {
+          "text": "The next transit of Venus will not happen until December 2117.",
+          "wiki": "Transit_of_Venus"
+        }
+      ]
+    },
+    "06-06": {
+      "names": [
+        "D-Day Anniversary",
+        "National Day (Sweden)",
+        "Russian Language Day"
+      ],
+      "script": "Before dawn on the sixth of June in 1944, the largest invasion fleet the world had ever seen crossed the English Channel. Thousands of ships and more than a hundred and fifty thousand soldiers landed on the beaches of Normandy. It was D-Day, and the liberation of Western Europe had begun.\n\nCenturies earlier, in 1523, Gustav Vasa was elected King of Sweden, breaking free from Denmark. Swedes celebrate their national day on this date.\n\nIn 1674, at the hill fort of Raigad, Shivaji was crowned Chhatrapati, emperor of the Marathas, in a grand ceremony.\n\nIn 1799, in Moscow, Alexander Pushkin was born, the poet who gave the Russian language its modern voice. Russia celebrates its language on his birthday.\n\nIn 1933, in New Jersey, the first drive-in cinema opened. People watched films from their cars under the stars.\n\nAnd in 1984, a Russian computer scientist named Alexey Pajitnov finished a little game of falling blocks. He called it Tetris.",
+      "events": [
+        {
+          "year": 1523,
+          "text": "Gustav Vasa is elected King of Sweden.",
+          "category": "conflict",
+          "wiki": "Gustav_I_of_Sweden"
+        },
+        {
+          "year": 1674,
+          "text": "Shivaji is crowned emperor of the Marathas at Raigad.",
+          "category": "conflict",
+          "wiki": "Shivaji"
+        },
+        {
+          "year": 1844,
+          "text": "The YMCA is founded in London.",
+          "category": "news",
+          "wiki": "YMCA"
+        },
+        {
+          "year": 1912,
+          "text": "Novarupta in Alaska erupts, the largest volcanic eruption of the 20th century.",
+          "category": "science",
+          "wiki": "Novarupta"
+        },
+        {
+          "year": 1933,
+          "text": "The first drive-in cinema opens in New Jersey.",
+          "category": "news",
+          "wiki": "Drive-in_theater"
+        },
+        {
+          "year": 1944,
+          "text": "D-Day: Allied forces land in Normandy.",
+          "category": "conflict",
+          "wiki": "Normandy_landings"
+        },
+        {
+          "year": 1946,
+          "text": "The Basketball Association of America, forerunner of the NBA, is founded.",
+          "category": "news",
+          "wiki": "Basketball_Association_of_America"
+        },
+        {
+          "year": 1968,
+          "text": "Robert F. Kennedy dies.",
+          "category": "news",
+          "wiki": "Robert_F._Kennedy"
+        },
+        {
+          "year": 1971,
+          "text": "Soyuz 11 carries the first crew to a space station, Salyut 1.",
+          "category": "science",
+          "wiki": "Soyuz_11"
+        },
+        {
+          "year": 1982,
+          "text": "Israel invades Lebanon.",
+          "category": "conflict",
+          "wiki": "1982_Lebanon_War"
+        },
+        {
+          "year": 1984,
+          "text": "Alexey Pajitnov creates Tetris.",
+          "category": "science",
+          "wiki": "Tetris"
+        }
+      ],
+      "births": [
+        {
+          "year": 1599,
+          "text": "Diego Velázquez, Spanish painter",
+          "wiki": "Diego_Velázquez"
+        },
+        {
+          "year": 1799,
+          "text": "Alexander Pushkin, Russian poet",
+          "wiki": "Alexander_Pushkin"
+        },
+        {
+          "year": 1875,
+          "text": "Thomas Mann, German novelist",
+          "wiki": "Thomas_Mann"
+        },
+        {
+          "year": 1901,
+          "text": "Sukarno, first President of Indonesia",
+          "wiki": "Sukarno"
+        },
+        {
+          "year": 1956,
+          "text": "Björn Borg, Swedish tennis player",
+          "wiki": "Björn_Borg"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Russian Language Day falls on Alexander Pushkin's birthday.",
+          "wiki": "Russian_Language_Day"
+        },
+        {
+          "text": "Sweden's National Day remembers Gustav Vasa's election as king in 1523.",
+          "wiki": "National_Day_of_Sweden"
+        }
+      ]
+    },
+    "06-07": {
+      "names": [
+        "World Food Safety Day"
+      ],
+      "script": "On the seventh of June in 1494, in the small Spanish town of Tordesillas, Spain and Portugal drew a line down the map of the world, and agreed to divide all newly discovered lands between them.\n\nIn 1692, an earthquake struck Port Royal in Jamaica, the wealthiest and wickedest pirate town in the Caribbean, and most of it slid into the sea.\n\nIn 1776, in Philadelphia, Richard Henry Lee rose and proposed that the colonies ought to be free and independent states. A month later, the Declaration of Independence was signed.\n\nAnd on a cold night in 1893, at the railway station of Pietermaritzburg in South Africa, a young Indian lawyer with a first-class ticket was thrown off a train because of the colour of his skin. He sat shivering in the waiting room all night, and decided to fight injustice. His name was Mohandas Gandhi.\n\nIn 1905, Norway's parliament declared its union with Sweden dissolved.\n\nAnd in 1975, the first Cricket World Cup began in England.",
+      "events": [
+        {
+          "year": 1494,
+          "text": "Spain and Portugal sign the Treaty of Tordesillas.",
+          "category": "conflict",
+          "wiki": "Treaty_of_Tordesillas"
+        },
+        {
+          "year": 1692,
+          "text": "An earthquake destroys Port Royal, Jamaica.",
+          "category": "science",
+          "wiki": "1692_Jamaica_earthquake"
+        },
+        {
+          "year": 1776,
+          "text": "Richard Henry Lee proposes American independence.",
+          "category": "conflict",
+          "wiki": "Lee_Resolution"
+        },
+        {
+          "year": 1832,
+          "text": "The Great Reform Act becomes law in Britain.",
+          "category": "conflict",
+          "wiki": "Reform_Act_1832"
+        },
+        {
+          "year": 1893,
+          "text": "Gandhi is thrown off a train at Pietermaritzburg.",
+          "category": "news",
+          "wiki": "Mahatma_Gandhi"
+        },
+        {
+          "year": 1905,
+          "text": "Norway dissolves its union with Sweden.",
+          "category": "conflict",
+          "wiki": "Dissolution_of_the_union_between_Norway_and_Sweden"
+        },
+        {
+          "year": 1906,
+          "text": "The liner Lusitania is launched.",
+          "category": "science",
+          "wiki": "RMS_Lusitania"
+        },
+        {
+          "year": 1917,
+          "text": "Huge mines explode beneath German lines at Messines Ridge.",
+          "category": "conflict",
+          "wiki": "Battle_of_Messines_(1917)"
+        },
+        {
+          "year": 1929,
+          "text": "Vatican City becomes a sovereign state.",
+          "category": "conflict",
+          "wiki": "Vatican_City"
+        },
+        {
+          "year": 1965,
+          "text": "The U.S. Supreme Court decides Griswold v. Connecticut.",
+          "category": "conflict",
+          "wiki": "Griswold_v._Connecticut"
+        },
+        {
+          "year": 1967,
+          "text": "Writer Dorothy Parker dies.",
+          "category": "news",
+          "wiki": "Dorothy_Parker"
+        },
+        {
+          "year": 1975,
+          "text": "The first Cricket World Cup begins.",
+          "category": "news",
+          "wiki": "1975_Cricket_World_Cup"
+        },
+        {
+          "year": 1977,
+          "text": "Britain celebrates Queen Elizabeth II's Silver Jubilee.",
+          "category": "news",
+          "wiki": "Silver_Jubilee_of_Elizabeth_II"
+        },
+        {
+          "year": 1981,
+          "text": "Israel bombs Iraq's Osirak nuclear reactor.",
+          "category": "conflict",
+          "wiki": "Operation_Opera"
+        }
+      ],
+      "births": [
+        {
+          "year": 1778,
+          "text": "Beau Brummell, English dandy",
+          "wiki": "Beau_Brummell"
+        },
+        {
+          "year": 1848,
+          "text": "Paul Gauguin, French painter",
+          "wiki": "Paul_Gauguin"
+        },
+        {
+          "year": 1940,
+          "text": "Tom Jones, Welsh singer",
+          "wiki": "Tom_Jones"
+        },
+        {
+          "year": 1958,
+          "text": "Prince, American musician",
+          "wiki": "Prince_(musician)"
+        },
+        {
+          "year": 1974,
+          "text": "Mahesh Bhupathi, Indian tennis player",
+          "wiki": "Mahesh_Bhupathi"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Gandhi later called his night at Pietermaritzburg station the most creative experience of his life.",
+          "wiki": "Mahatma_Gandhi"
+        },
+        {
+          "text": "World Food Safety Day was established by the UN in 2018.",
+          "wiki": "World_Food_Safety_Day"
+        }
+      ]
+    },
+    "06-08": {
+      "names": [
+        "World Oceans Day"
+      ],
+      "script": "On the eighth of June in 793, Viking longships appeared off the holy island of Lindisfarne in northern England. The raiders stormed the monastery, and the Viking Age had begun.\n\nIn 1783, the Laki volcano in Iceland began to erupt, and kept erupting for eight months. Its poisonous haze drifted across Europe, and crops failed as far away as Egypt.\n\nIn 1924, two British climbers, George Mallory and Andrew Irvine, were seen high on the shoulder of Mount Everest, going strong for the top. Then the clouds closed in. They were never seen alive again, and no one knows if they reached the summit.\n\nIn 1949, George Orwell published Nineteen Eighty-Four, a novel about a world where Big Brother is always watching.\n\nIn 1906, President Theodore Roosevelt signed a law allowing him to protect America's natural wonders as national monuments.\n\nAnd today is World Oceans Day, celebrating the great blue waters that cover most of our planet and give us half the oxygen we breathe.",
+      "events": [
+        {
+          "year": 632,
+          "text": "The Prophet Muhammad dies in Medina.",
+          "category": "news",
+          "wiki": "Muhammad"
+        },
+        {
+          "year": 793,
+          "text": "Vikings raid the monastery of Lindisfarne.",
+          "category": "conflict",
+          "wiki": "Lindisfarne"
+        },
+        {
+          "year": 1783,
+          "text": "Iceland's Laki volcano begins an eight-month eruption.",
+          "category": "science",
+          "wiki": "Laki"
+        },
+        {
+          "year": 1861,
+          "text": "Tennessee secedes from the Union.",
+          "category": "conflict",
+          "wiki": "Tennessee_in_the_American_Civil_War"
+        },
+        {
+          "year": 1906,
+          "text": "Theodore Roosevelt signs the Antiquities Act.",
+          "category": "news",
+          "wiki": "Antiquities_Act"
+        },
+        {
+          "year": 1912,
+          "text": "Carl Laemmle founds Universal Pictures.",
+          "category": "news",
+          "wiki": "Universal_Pictures"
+        },
+        {
+          "year": 1924,
+          "text": "George Mallory and Andrew Irvine are last seen high on Everest.",
+          "category": "science",
+          "wiki": "1924_British_Mount_Everest_expedition"
+        },
+        {
+          "year": 1949,
+          "text": "George Orwell's Nineteen Eighty-Four is published.",
+          "category": "news",
+          "wiki": "Nineteen_Eighty-Four"
+        },
+        {
+          "year": 1967,
+          "text": "Israeli forces attack the U.S. Navy ship Liberty.",
+          "category": "conflict",
+          "wiki": "USS_Liberty_incident"
+        },
+        {
+          "year": 1968,
+          "text": "James Earl Ray, the assassin of Martin Luther King Jr., is captured in London.",
+          "category": "news",
+          "wiki": "James_Earl_Ray"
+        },
+        {
+          "year": 2004,
+          "text": "Venus crosses the face of the Sun, the first transit of Venus since 1882.",
+          "category": "science",
+          "wiki": "Transit_of_Venus"
+        }
+      ],
+      "births": [
+        {
+          "year": 1810,
+          "text": "Robert Schumann, German composer",
+          "wiki": "Robert_Schumann"
+        },
+        {
+          "year": 1867,
+          "text": "Frank Lloyd Wright, American architect",
+          "wiki": "Frank_Lloyd_Wright"
+        },
+        {
+          "year": 1916,
+          "text": "Francis Crick, English co-discoverer of DNA's structure",
+          "wiki": "Francis_Crick"
+        },
+        {
+          "year": 1955,
+          "text": "Tim Berners-Lee, English inventor of the World Wide Web",
+          "wiki": "Tim_Berners-Lee"
+        },
+        {
+          "year": 1977,
+          "text": "Kanye West, American rapper",
+          "wiki": "Kanye_West"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "World Oceans Day was proposed at the 1992 Earth Summit and recognised by the UN in 2008.",
+          "wiki": "World_Oceans_Day"
+        },
+        {
+          "text": "The ocean produces about half of the oxygen we breathe.",
+          "wiki": "Ocean"
+        }
+      ]
+    },
+    "06-09": {
+      "names": [
+        "Donald Duck Day",
+        "International Archives Day"
+      ],
+      "script": "On the ninth of June in the year 68, the Roman emperor Nero, abandoned by the army and the Senate, took his own life outside Rome. What an artist dies in me, he is said to have cried.\n\nIn 1815, the great powers of Europe signed the Final Act of the Congress of Vienna, redrawing the map after Napoleon's wars.\n\nIn 1870, Charles Dickens died at his home in Kent, leaving his last novel, The Mystery of Edwin Drood, unfinished. The mystery has never been solved.\n\nIn 1900, in Ranchi jail, the young tribal leader Birsa Munda died, aged only twenty-four. He had led his people in a great uprising against British rule, and is revered as Dharti Aaba, Father of the Earth.\n\nIn 1928, the Southern Cross, flown by Charles Kingsford Smith, landed in Brisbane, completing the first flight across the Pacific.\n\nAnd in 1934, a duck in a sailor suit, with a temper and a quacking voice, made his first appearance in a Disney cartoon. Donald Duck had arrived.",
+      "events": [
+        {
+          "year": 68,
+          "text": "The Roman emperor Nero dies.",
+          "category": "conflict",
+          "wiki": "Nero"
+        },
+        {
+          "year": 1815,
+          "text": "The Congress of Vienna signs its Final Act.",
+          "category": "conflict",
+          "wiki": "Congress_of_Vienna"
+        },
+        {
+          "year": 1870,
+          "text": "Charles Dickens dies.",
+          "category": "news",
+          "wiki": "Charles_Dickens"
+        },
+        {
+          "year": 1900,
+          "text": "Tribal leader Birsa Munda dies in Ranchi jail.",
+          "category": "conflict",
+          "wiki": "Birsa_Munda"
+        },
+        {
+          "year": 1928,
+          "text": "Charles Kingsford Smith completes the first flight across the Pacific.",
+          "category": "science",
+          "wiki": "Charles_Kingsford_Smith"
+        },
+        {
+          "year": 1934,
+          "text": "Donald Duck makes his debut in The Wise Little Hen.",
+          "category": "news",
+          "wiki": "Donald_Duck"
+        },
+        {
+          "year": 1954,
+          "text": "Joseph Welch asks Senator McCarthy: \"Have you no sense of decency?\"",
+          "category": "conflict",
+          "wiki": "Army–McCarthy_hearings"
+        },
+        {
+          "year": 1958,
+          "text": "Queen Elizabeth II opens Gatwick Airport.",
+          "category": "news",
+          "wiki": "Gatwick_Airport"
+        },
+        {
+          "year": 1959,
+          "text": "USS George Washington, the first ballistic missile submarine, is launched.",
+          "category": "science",
+          "wiki": "USS_George_Washington_(SSBN-598)"
+        },
+        {
+          "year": 1964,
+          "text": "Lal Bahadur Shastri becomes Prime Minister of India.",
+          "category": "conflict",
+          "wiki": "Lal_Bahadur_Shastri"
+        },
+        {
+          "year": 1973,
+          "text": "Secretariat wins horse racing's Triple Crown.",
+          "category": "news",
+          "wiki": "Secretariat_(horse)"
+        }
+      ],
+      "births": [
+        {
+          "year": 1672,
+          "text": "Peter the Great, Tsar of Russia",
+          "wiki": "Peter_the_Great"
+        },
+        {
+          "year": 1781,
+          "text": "George Stephenson, English railway pioneer",
+          "wiki": "George_Stephenson"
+        },
+        {
+          "year": 1891,
+          "text": "Cole Porter, American songwriter",
+          "wiki": "Cole_Porter"
+        },
+        {
+          "year": 1961,
+          "text": "Michael J. Fox, Canadian-American actor",
+          "wiki": "Michael_J._Fox"
+        },
+        {
+          "year": 1963,
+          "text": "Johnny Depp, American actor",
+          "wiki": "Johnny_Depp"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Donald Duck first appeared in The Wise Little Hen in 1934.",
+          "wiki": "The_Wise_Little_Hen"
+        },
+        {
+          "text": "Dickens's last novel, The Mystery of Edwin Drood, was left unfinished, and its ending remains a mystery.",
+          "wiki": "The_Mystery_of_Edwin_Drood"
+        }
+      ]
+    },
+    "06-10": {
+      "names": [
+        "Portugal Day"
+      ],
+      "script": "On the tenth of June in 1580, the poet Luís de Camões died in Lisbon. He had written The Lusiads, the great epic of Portugal's voyages of discovery, and is said to have saved the manuscript from a shipwreck by swimming ashore with it held above the waves. Portugal celebrates its national day on this date.\n\nIn 1692, in Salem, Massachusetts, Bridget Bishop became the first person hanged in the witch trials.\n\nIn 1829, two rowing crews from Oxford and Cambridge raced on the River Thames, the first University Boat Race.\n\nIn 1907, five motor cars set out from Peking, in a race across deserts, mountains and rivers all the way to Paris.\n\nIn 1935, two men in Ohio, both struggling with drink, founded Alcoholics Anonymous, which has since helped millions.\n\nIn 1942, in revenge for the killing of a Nazi leader, German troops destroyed the Czech village of Lidice.\n\nAnd in 1963, President Kennedy signed the Equal Pay Act, promising women equal pay for equal work.",
+      "events": [
+        {
+          "year": 1580,
+          "text": "Portugal's national poet, Luís de Camões, dies.",
+          "category": "news",
+          "wiki": "Luís_de_Camões"
+        },
+        {
+          "year": 1692,
+          "text": "Bridget Bishop becomes the first person hanged in the Salem witch trials.",
+          "category": "conflict",
+          "wiki": "Bridget_Bishop"
+        },
+        {
+          "year": 1829,
+          "text": "The first Oxford and Cambridge Boat Race is rowed.",
+          "category": "news",
+          "wiki": "The_Boat_Race"
+        },
+        {
+          "year": 1907,
+          "text": "The Peking to Paris motor race begins.",
+          "category": "news",
+          "wiki": "Peking_to_Paris"
+        },
+        {
+          "year": 1916,
+          "text": "Sharif Hussein launches the Arab Revolt against Ottoman rule.",
+          "category": "conflict",
+          "wiki": "Arab_Revolt"
+        },
+        {
+          "year": 1935,
+          "text": "Alcoholics Anonymous is founded.",
+          "category": "news",
+          "wiki": "Alcoholics_Anonymous"
+        },
+        {
+          "year": 1940,
+          "text": "Italy declares war on Britain and France.",
+          "category": "conflict",
+          "wiki": "Italian_entry_into_World_War_II"
+        },
+        {
+          "year": 1942,
+          "text": "Nazi troops destroy the Czech village of Lidice.",
+          "category": "conflict",
+          "wiki": "Lidice_massacre"
+        },
+        {
+          "year": 1963,
+          "text": "President Kennedy signs the Equal Pay Act.",
+          "category": "news",
+          "wiki": "Equal_Pay_Act_of_1963"
+        },
+        {
+          "year": 1967,
+          "text": "The Six-Day War ends.",
+          "category": "conflict",
+          "wiki": "Six-Day_War"
+        },
+        {
+          "year": 1977,
+          "text": "The Apple II computer goes on sale.",
+          "category": "science",
+          "wiki": "Apple_II"
+        },
+        {
+          "year": 2003,
+          "text": "NASA launches the Spirit rover to Mars.",
+          "category": "science",
+          "wiki": "Spirit_(rover)"
+        }
+      ],
+      "births": [
+        {
+          "year": 1819,
+          "text": "Gustave Courbet, French painter",
+          "wiki": "Gustave_Courbet"
+        },
+        {
+          "year": 1915,
+          "text": "Saul Bellow, American novelist",
+          "wiki": "Saul_Bellow"
+        },
+        {
+          "year": 1921,
+          "text": "Prince Philip, Duke of Edinburgh",
+          "wiki": "Prince_Philip"
+        },
+        {
+          "year": 1922,
+          "text": "Judy Garland, American actress",
+          "wiki": "Judy_Garland"
+        },
+        {
+          "year": 1938,
+          "text": "Rahul Bajaj, Indian industrialist",
+          "wiki": "Rahul_Bajaj"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Portugal Day marks the death of the national poet Luís de Camões in 1580.",
+          "wiki": "Portugal_Day"
+        },
+        {
+          "text": "Camões is said to have swum ashore from a shipwreck holding his epic poem above the water.",
+          "wiki": "Luís_de_Camões"
+        }
+      ]
+    },
+    "06-11": {
+      "names": [
+        "King Kamehameha Day (Hawaii)"
+      ],
+      "script": "On the eleventh of June in 1509, King Henry the Eighth married Catherine of Aragon, his brother's widow. Twenty-four years later, his wish to end that marriage would break England away from the Church of Rome.\n\nIn 1770, near midnight, Captain Cook's ship Endeavour struck the Great Barrier Reef off Australia. The crew threw cannon overboard to lighten her, and patched the hole by dragging a sail full of wool and dung beneath the hull.\n\nIn 1776, the Continental Congress chose five men, including Thomas Jefferson, John Adams and Benjamin Franklin, to draft a declaration of independence.\n\nIn 1895, cars raced from Paris to Bordeaux and back, more than a thousand kilometres, one of the first motor races ever.\n\nIn 1962, three prisoners escaped from Alcatraz on rafts made of raincoats, leaving dummy heads in their beds. They were never found.\n\nAnd in 1963, Governor George Wallace stood in the doorway of the University of Alabama to block two Black students. He was forced to step aside, and they enrolled.",
+      "events": [
+        {
+          "year": 1509,
+          "text": "Henry VIII marries Catherine of Aragon.",
+          "category": "news",
+          "wiki": "Catherine_of_Aragon"
+        },
+        {
+          "year": 1770,
+          "text": "Captain Cook's Endeavour strikes the Great Barrier Reef.",
+          "category": "science",
+          "wiki": "HMS_Endeavour"
+        },
+        {
+          "year": 1776,
+          "text": "The Committee of Five is chosen to draft the Declaration of Independence.",
+          "category": "conflict",
+          "wiki": "Committee_of_Five"
+        },
+        {
+          "year": 1895,
+          "text": "The Paris–Bordeaux–Paris race, one of the first motor races, begins.",
+          "category": "news",
+          "wiki": "Paris–Bordeaux–Paris"
+        },
+        {
+          "year": 1903,
+          "text": "Serbia's king and queen are killed in a palace coup.",
+          "category": "conflict",
+          "wiki": "May_Coup_(Serbia)"
+        },
+        {
+          "year": 1962,
+          "text": "Three prisoners escape from Alcatraz, never to be found.",
+          "category": "news",
+          "wiki": "June_1962_Alcatraz_escape_attempt"
+        },
+        {
+          "year": 1963,
+          "text": "Governor George Wallace stands in the schoolhouse door to block integration.",
+          "category": "conflict",
+          "wiki": "Stand_in_the_Schoolhouse_Door"
+        },
+        {
+          "year": 1987,
+          "text": "Margaret Thatcher wins a third general election.",
+          "category": "conflict",
+          "wiki": "1987_United_Kingdom_general_election"
+        },
+        {
+          "year": 2002,
+          "text": "The U.S. Congress honours Antonio Meucci's work on the invention of the telephone.",
+          "category": "science",
+          "wiki": "Antonio_Meucci"
+        },
+        {
+          "year": 2008,
+          "text": "NASA launches the Fermi Gamma-ray Space Telescope.",
+          "category": "science",
+          "wiki": "Fermi_Gamma-ray_Space_Telescope"
+        },
+        {
+          "year": 2010,
+          "text": "The first FIFA World Cup in Africa opens in South Africa.",
+          "category": "news",
+          "wiki": "2010_FIFA_World_Cup"
+        }
+      ],
+      "births": [
+        {
+          "year": 1572,
+          "text": "Ben Jonson, English playwright",
+          "wiki": "Ben_Jonson"
+        },
+        {
+          "year": 1864,
+          "text": "Richard Strauss, German composer",
+          "wiki": "Richard_Strauss"
+        },
+        {
+          "year": 1910,
+          "text": "Jacques Cousteau, French ocean explorer",
+          "wiki": "Jacques_Cousteau"
+        },
+        {
+          "year": 1933,
+          "text": "Gene Wilder, American actor",
+          "wiki": "Gene_Wilder"
+        },
+        {
+          "year": 1947,
+          "text": "Lalu Prasad Yadav, Indian politician",
+          "wiki": "Lalu_Prasad_Yadav"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Kamehameha Day honours the king who united the Hawaiian Islands.",
+          "wiki": "Kamehameha_Day"
+        },
+        {
+          "text": "Jacques Cousteau, born today, co-invented the Aqua-Lung that made scuba diving possible.",
+          "wiki": "Aqua-Lung"
+        }
+      ]
+    },
+    "06-12": {
+      "names": [
+        "Russia Day",
+        "Independence Day (Philippines)",
+        "World Day Against Child Labour",
+        "Democracy Day (Nigeria)"
+      ],
+      "script": "On the twelfth of June in 1898, in his house at Kawit, Emilio Aguinaldo proclaimed the independence of the Philippines from Spain, as the new national flag was unfurled from a window. Filipinos celebrate their independence today.\n\nIn 1942, in Amsterdam, a girl named Anne Frank was given a red and white checked autograph book for her thirteenth birthday. She decided to use it as a diary. Within weeks, her family went into hiding, and her diary would become one of the most read books in the world.\n\nIn 1964, in a courtroom in Pretoria, Nelson Mandela and his comrades were sentenced to life in prison. He would spend the next twenty-seven years behind bars.\n\nIn 1979, a cyclist named Bryan Allen pedalled the Gossamer Albatross, a featherlight aircraft, all the way across the English Channel, by human power alone.\n\nAnd in 1987, standing at the Brandenburg Gate in Berlin, President Ronald Reagan called out to the Soviet leader: Mr. Gorbachev, tear down this wall!",
+      "events": [
+        {
+          "year": 1898,
+          "text": "The Philippines declares independence from Spain.",
+          "category": "conflict",
+          "wiki": "Philippine_Declaration_of_Independence"
+        },
+        {
+          "year": 1939,
+          "text": "The Baseball Hall of Fame opens in Cooperstown, New York.",
+          "category": "news",
+          "wiki": "National_Baseball_Hall_of_Fame_and_Museum"
+        },
+        {
+          "year": 1942,
+          "text": "Anne Frank receives her diary on her thirteenth birthday.",
+          "category": "news",
+          "wiki": "The_Diary_of_a_Young_Girl"
+        },
+        {
+          "year": 1964,
+          "text": "Nelson Mandela is sentenced to life in prison.",
+          "category": "conflict",
+          "wiki": "Rivonia_Trial"
+        },
+        {
+          "year": 1967,
+          "text": "The U.S. Supreme Court strikes down bans on interracial marriage in Loving v. Virginia.",
+          "category": "conflict",
+          "wiki": "Loving_v._Virginia"
+        },
+        {
+          "year": 1967,
+          "text": "The Soviet Union launches Venera 4 towards Venus.",
+          "category": "science",
+          "wiki": "Venera_4"
+        },
+        {
+          "year": 1975,
+          "text": "A court rules Indira Gandhi's election void, leading to the Emergency.",
+          "category": "conflict",
+          "wiki": "State_of_Uttar_Pradesh_v._Raj_Narain"
+        },
+        {
+          "year": 1979,
+          "text": "The pedal-powered Gossamer Albatross crosses the English Channel.",
+          "category": "science",
+          "wiki": "MacCready_Gossamer_Albatross"
+        },
+        {
+          "year": 1981,
+          "text": "Raiders of the Lost Ark is released.",
+          "category": "news",
+          "wiki": "Raiders_of_the_Lost_Ark"
+        },
+        {
+          "year": 1987,
+          "text": "Ronald Reagan says: \"Mr. Gorbachev, tear down this wall!\"",
+          "category": "news",
+          "wiki": "Tear_down_this_wall!"
+        },
+        {
+          "year": 1990,
+          "text": "Russia declares its sovereignty within the Soviet Union.",
+          "category": "conflict",
+          "wiki": "Declaration_of_State_Sovereignty_of_the_Russian_Soviet_Federative_Socialist_Republic"
+        },
+        {
+          "year": 2009,
+          "text": "Full-power analogue television ends in the United States.",
+          "category": "science",
+          "wiki": "DTV_transition_in_the_United_States"
+        }
+      ],
+      "births": [
+        {
+          "year": 1827,
+          "text": "Johanna Spyri, Swiss author (Heidi)",
+          "wiki": "Johanna_Spyri"
+        },
+        {
+          "year": 1897,
+          "text": "Anthony Eden, British Prime Minister",
+          "wiki": "Anthony_Eden"
+        },
+        {
+          "year": 1924,
+          "text": "George H. W. Bush, 41st President of the United States",
+          "wiki": "George_H._W._Bush"
+        },
+        {
+          "year": 1929,
+          "text": "Anne Frank, German-Dutch diarist",
+          "wiki": "Anne_Frank"
+        },
+        {
+          "year": 1957,
+          "text": "Javed Miandad, Pakistani cricketer",
+          "wiki": "Javed_Miandad"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Anne Frank received her diary on her thirteenth birthday.",
+          "wiki": "The_Diary_of_a_Young_Girl"
+        }
+      ]
+    },
+    "06-13": {
+      "names": [
+        "International Albinism Awareness Day"
+      ],
+      "script": "On the thirteenth of June in 1381, thousands of rebellious peasants, led by Wat Tyler, poured into London, angry at a new tax. They burned palaces and opened prisons. The fourteen-year-old King Richard the Second rode out to meet them.\n\nIn 1831, in Edinburgh, James Clerk Maxwell was born. He would discover that light is a ripple of electricity and magnetism, and his equations made radio, television and mobile phones possible.\n\nIn 1886, King Ludwig the Second of Bavaria, the fairy-tale king who built Neuschwanstein Castle, was found drowned in a lake under mysterious circumstances.\n\nIn 1920, the American Post Office ruled that children could no longer be sent through the mail, after some parents had posted their children by parcel post.\n\nIn 1983, Pioneer 10 crossed the orbit of Neptune, then the farthest planet, and became the first human-made object to leave the region of the planets.\n\nAnd in 2010, the Japanese probe Hayabusa came home, its capsule glowing like a shooting star over the Australian outback, carrying grains of an asteroid.",
+      "events": [
+        {
+          "year": 1381,
+          "text": "Peasants' Revolt rebels enter London.",
+          "category": "conflict",
+          "wiki": "Peasants'_Revolt"
+        },
+        {
+          "year": 1886,
+          "text": "King Ludwig II of Bavaria is found drowned.",
+          "category": "news",
+          "wiki": "Ludwig_II_of_Bavaria"
+        },
+        {
+          "year": 1900,
+          "text": "Boxer rebels enter Beijing.",
+          "category": "conflict",
+          "wiki": "Boxer_Rebellion"
+        },
+        {
+          "year": 1920,
+          "text": "The U.S. Post Office bans mailing children by parcel post.",
+          "category": "news",
+          "wiki": "Mailing_children"
+        },
+        {
+          "year": 1944,
+          "text": "Germany fires its first V-1 flying bombs at London.",
+          "category": "science",
+          "wiki": "V-1_flying_bomb"
+        },
+        {
+          "year": 1956,
+          "text": "Real Madrid wins the first European Cup final.",
+          "category": "news",
+          "wiki": "1956_European_Cup_final"
+        },
+        {
+          "year": 1966,
+          "text": "The U.S. Supreme Court decides Miranda v. Arizona.",
+          "category": "conflict",
+          "wiki": "Miranda_v._Arizona"
+        },
+        {
+          "year": 1971,
+          "text": "The New York Times begins publishing the Pentagon Papers.",
+          "category": "news",
+          "wiki": "Pentagon_Papers"
+        },
+        {
+          "year": 1983,
+          "text": "Pioneer 10 passes the orbit of Neptune.",
+          "category": "science",
+          "wiki": "Pioneer_10"
+        },
+        {
+          "year": 2000,
+          "text": "The leaders of North and South Korea meet for the first time.",
+          "category": "conflict",
+          "wiki": "2000_inter-Korean_summit"
+        },
+        {
+          "year": 2010,
+          "text": "Japan's Hayabusa returns to Earth with particles from an asteroid.",
+          "category": "science",
+          "wiki": "Hayabusa"
+        }
+      ],
+      "births": [
+        {
+          "year": 1752,
+          "text": "Fanny Burney, English novelist",
+          "wiki": "Fanny_Burney"
+        },
+        {
+          "year": 1831,
+          "text": "James Clerk Maxwell, Scottish physicist",
+          "wiki": "James_Clerk_Maxwell"
+        },
+        {
+          "year": 1865,
+          "text": "W. B. Yeats, Irish poet",
+          "wiki": "W._B._Yeats"
+        },
+        {
+          "year": 1897,
+          "text": "Paavo Nurmi, Finnish runner",
+          "wiki": "Paavo_Nurmi"
+        },
+        {
+          "year": 1928,
+          "text": "John Nash, American mathematician (A Beautiful Mind)",
+          "wiki": "John_Nash"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "James Clerk Maxwell, born today, showed that light is an electromagnetic wave.",
+          "wiki": "James_Clerk_Maxwell"
+        },
+        {
+          "text": "In the 1910s a few Americans mailed children by parcel post, until the Post Office banned it in 1920.",
+          "wiki": "Mailing_children"
+        }
+      ]
+    },
+    "06-14": {
+      "names": [
+        "World Blood Donor Day",
+        "Flag Day (US)"
+      ],
+      "script": "On the fourteenth of June in 1777, the American Congress decided that the flag of the new nation would have thirteen stripes, red and white, and thirteen white stars on a blue field, representing a new constellation.\n\nIn 1789, after forty-seven days in an open boat, Captain William Bligh and his loyal men reached the island of Timor, having sailed some six thousand seven hundred kilometres after the mutiny on the Bounty.\n\nIn 1800, at Marengo in northern Italy, Napoleon was losing a battle until reinforcements arrived late in the afternoon, and he turned defeat into victory.\n\nIn 1868, in Vienna, Karl Landsteiner was born. He would discover that human blood comes in different groups, making safe transfusions possible. Blood donors are celebrated on his birthday.\n\nIn 1940, German troops marched into an empty, silent Paris.\n\nAnd in 1951, the first UNIVAC computer, a machine the size of a room, was delivered to the United States Census Bureau, one of the first computers made for business.",
+      "events": [
+        {
+          "year": 1775,
+          "text": "The Continental Army, forerunner of the U.S. Army, is created.",
+          "category": "conflict",
+          "wiki": "Continental_Army"
+        },
+        {
+          "year": 1777,
+          "text": "The Stars and Stripes is adopted as the U.S. flag.",
+          "category": "conflict",
+          "wiki": "Flag_of_the_United_States"
+        },
+        {
+          "year": 1789,
+          "text": "Captain Bligh reaches Timor after the mutiny on the Bounty.",
+          "category": "science",
+          "wiki": "William_Bligh"
+        },
+        {
+          "year": 1800,
+          "text": "Napoleon defeats the Austrians at the Battle of Marengo.",
+          "category": "conflict",
+          "wiki": "Battle_of_Marengo"
+        },
+        {
+          "year": 1846,
+          "text": "American settlers in California launch the Bear Flag Revolt.",
+          "category": "conflict",
+          "wiki": "California_Republic"
+        },
+        {
+          "year": 1919,
+          "text": "Alcock and Brown take off on the first non-stop transatlantic flight.",
+          "category": "science",
+          "wiki": "Transatlantic_flight_of_Alcock_and_Brown"
+        },
+        {
+          "year": 1940,
+          "text": "German troops enter Paris.",
+          "category": "news",
+          "wiki": "Fall_of_France"
+        },
+        {
+          "year": 1940,
+          "text": "The first prisoners arrive at Auschwitz.",
+          "category": "conflict",
+          "wiki": "Auschwitz_concentration_camp"
+        },
+        {
+          "year": 1951,
+          "text": "UNIVAC I is delivered to the U.S. Census Bureau.",
+          "category": "science",
+          "wiki": "UNIVAC_I"
+        },
+        {
+          "year": 1954,
+          "text": "\"Under God\" is added to the U.S. Pledge of Allegiance.",
+          "category": "news",
+          "wiki": "Pledge_of_Allegiance"
+        },
+        {
+          "year": 1959,
+          "text": "The Disneyland Monorail opens.",
+          "category": "news",
+          "wiki": "Disneyland_Monorail"
+        },
+        {
+          "year": 1966,
+          "text": "The Vatican abolishes its list of banned books.",
+          "category": "news",
+          "wiki": "Index_Librorum_Prohibitorum"
+        },
+        {
+          "year": 1982,
+          "text": "Argentine forces surrender, ending the Falklands War.",
+          "category": "conflict",
+          "wiki": "Falklands_War"
+        }
+      ],
+      "births": [
+        {
+          "year": 1811,
+          "text": "Harriet Beecher Stowe, American author (Uncle Tom's Cabin)",
+          "wiki": "Harriet_Beecher_Stowe"
+        },
+        {
+          "year": 1868,
+          "text": "Karl Landsteiner, Austrian discoverer of blood groups",
+          "wiki": "Karl_Landsteiner"
+        },
+        {
+          "year": 1928,
+          "text": "Che Guevara, Argentine revolutionary",
+          "wiki": "Che_Guevara"
+        },
+        {
+          "year": 1946,
+          "text": "Donald Trump, 45th and 47th President of the United States",
+          "wiki": "Donald_Trump"
+        },
+        {
+          "year": 1969,
+          "text": "Steffi Graf, German tennis player",
+          "wiki": "Steffi_Graf"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "World Blood Donor Day falls on the birthday of Karl Landsteiner, who discovered blood groups.",
+          "wiki": "World_Blood_Donor_Day"
+        }
+      ]
+    },
+    "06-15": {
+      "names": [
+        "Global Wind Day",
+        "World Elder Abuse Awareness Day"
+      ],
+      "script": "On the fifteenth of June in 1215, in a meadow at Runnymede beside the River Thames, King John set his seal on a charter forced on him by his rebellious barons. Magna Carta promised that no free man could be imprisoned except by the law of the land. Its words still echo in constitutions around the world.\n\nIn 1381, at Smithfield in London, the rebel leader Wat Tyler met the young King Richard, and was struck down. The Peasants' Revolt collapsed.\n\nIn 1667, a French doctor named Jean-Baptiste Denys gave a fifteen-year-old boy a transfusion of lamb's blood. Remarkably, the boy survived.\n\nIn June 1752, tradition says, Benjamin Franklin flew a kite into a thunderstorm and saw sparks leap from a key tied to the string.\n\nIn 1919, after sixteen hours battling fog, ice and sleet, John Alcock and Arthur Brown crash-landed in an Irish bog, the first people to fly non-stop across the Atlantic.\n\nAnd in 1991, Mount Pinatubo in the Philippines erupted, one of the largest eruptions of the century, cooling the whole planet for a year.",
+      "events": [
+        {
+          "year": 1215,
+          "text": "King John seals Magna Carta at Runnymede.",
+          "category": "conflict",
+          "wiki": "Magna_Carta"
+        },
+        {
+          "year": 1381,
+          "text": "Rebel leader Wat Tyler is killed, ending the Peasants' Revolt.",
+          "category": "conflict",
+          "wiki": "Wat_Tyler"
+        },
+        {
+          "year": 1520,
+          "text": "Pope Leo X threatens Martin Luther with excommunication.",
+          "category": "conflict",
+          "wiki": "Exsurge_Domine"
+        },
+        {
+          "year": 1667,
+          "text": "Jean-Baptiste Denys performs one of the first blood transfusions on a person.",
+          "category": "science",
+          "wiki": "Jean-Baptiste_Denys"
+        },
+        {
+          "year": 1752,
+          "text": "Benjamin Franklin flies his kite in a thunderstorm, according to tradition.",
+          "category": "science",
+          "wiki": "Kite_experiment"
+        },
+        {
+          "year": 1836,
+          "text": "Arkansas becomes the 25th U.S. state.",
+          "category": "news",
+          "wiki": "Arkansas"
+        },
+        {
+          "year": 1844,
+          "text": "Charles Goodyear patents vulcanised rubber.",
+          "category": "science",
+          "wiki": "Charles_Goodyear"
+        },
+        {
+          "year": 1846,
+          "text": "The Oregon Treaty sets the border between the U.S. and British North America.",
+          "category": "conflict",
+          "wiki": "Oregon_Treaty"
+        },
+        {
+          "year": 1864,
+          "text": "Arlington National Cemetery is established.",
+          "category": "news",
+          "wiki": "Arlington_National_Cemetery"
+        },
+        {
+          "year": 1919,
+          "text": "Alcock and Brown complete the first non-stop transatlantic flight.",
+          "category": "science",
+          "wiki": "Transatlantic_flight_of_Alcock_and_Brown"
+        },
+        {
+          "year": 1954,
+          "text": "UEFA, the European football association, is founded.",
+          "category": "news",
+          "wiki": "UEFA"
+        },
+        {
+          "year": 1991,
+          "text": "Mount Pinatubo erupts in the Philippines.",
+          "category": "science",
+          "wiki": "1991_eruption_of_Mount_Pinatubo"
+        },
+        {
+          "year": 1996,
+          "text": "Jazz singer Ella Fitzgerald dies.",
+          "category": "news",
+          "wiki": "Ella_Fitzgerald"
+        }
+      ],
+      "births": [
+        {
+          "year": 1330,
+          "text": "Edward the Black Prince, English prince",
+          "wiki": "Edward_the_Black_Prince"
+        },
+        {
+          "year": 1843,
+          "text": "Edvard Grieg, Norwegian composer",
+          "wiki": "Edvard_Grieg"
+        },
+        {
+          "year": 1937,
+          "text": "Waylon Jennings, American country singer",
+          "wiki": "Waylon_Jennings"
+        },
+        {
+          "year": 1964,
+          "text": "Courteney Cox, American actress",
+          "wiki": "Courteney_Cox"
+        },
+        {
+          "year": 1969,
+          "text": "Ice Cube, American rapper and actor",
+          "wiki": "Ice_Cube"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Only four copies of the original 1215 Magna Carta survive.",
+          "wiki": "Magna_Carta"
+        }
+      ]
+    },
+    "06-16": {
+      "names": [
+        "Bloomsday",
+        "Youth Day (South Africa)"
+      ],
+      "script": "The sixteenth of June is Bloomsday. James Joyce set his great novel Ulysses on this single day in 1904, following an ordinary Dubliner named Leopold Bloom from breakfast to midnight. Every year, people in Dublin dress up in Edwardian clothes, eat kidneys for breakfast and read the book aloud in the streets. Joyce chose the date because it was the day of his first walk with Nora Barnacle, the woman he would marry.\n\nIn 1884, at Coney Island in New York, the first roller coaster in America opened, a gentle switchback ride for five cents.\n\nIn 1903, Henry Ford and a group of investors founded the Ford Motor Company.\n\nIn 1963, a former textile worker named Valentina Tereshkova blasted off in Vostok 6, the first woman in space. She circled the Earth forty-eight times.\n\nAnd in 1976, in the township of Soweto, thousands of schoolchildren marched against being forced to learn in Afrikaans. Police opened fire, and a photograph of a dying boy named Hector Pieterson shocked the world. South Africa remembers the young people of Soweto today.",
+      "events": [
+        {
+          "year": 1487,
+          "text": "The Battle of Stoke Field ends the Wars of the Roses.",
+          "category": "conflict",
+          "wiki": "Battle_of_Stoke_Field"
+        },
+        {
+          "year": 1858,
+          "text": "Abraham Lincoln gives his \"House Divided\" speech.",
+          "category": "conflict",
+          "wiki": "Lincoln's_House_Divided_Speech"
+        },
+        {
+          "year": 1884,
+          "text": "America's first roller coaster opens at Coney Island.",
+          "category": "science",
+          "wiki": "Switchback_Railway"
+        },
+        {
+          "year": 1897,
+          "text": "The United States signs a treaty to annex Hawaii.",
+          "category": "conflict",
+          "wiki": "Newlands_Resolution"
+        },
+        {
+          "year": 1903,
+          "text": "The Ford Motor Company is incorporated.",
+          "category": "science",
+          "wiki": "Ford_Motor_Company"
+        },
+        {
+          "year": 1904,
+          "text": "Bloomsday: the day on which James Joyce's Ulysses is set.",
+          "category": "news",
+          "wiki": "Bloomsday"
+        },
+        {
+          "year": 1911,
+          "text": "The company that becomes IBM is incorporated.",
+          "category": "science",
+          "wiki": "Computing-Tabulating-Recording_Company"
+        },
+        {
+          "year": 1940,
+          "text": "Philippe Pétain becomes premier of France.",
+          "category": "conflict",
+          "wiki": "Philippe_Pétain"
+        },
+        {
+          "year": 1958,
+          "text": "Hungary's former leader Imre Nagy is executed.",
+          "category": "conflict",
+          "wiki": "Imre_Nagy"
+        },
+        {
+          "year": 1960,
+          "text": "Alfred Hitchcock's Psycho premieres.",
+          "category": "news",
+          "wiki": "Psycho_(1960_film)"
+        },
+        {
+          "year": 1961,
+          "text": "Ballet star Rudolf Nureyev defects to the West in Paris.",
+          "category": "news",
+          "wiki": "Rudolf_Nureyev"
+        },
+        {
+          "year": 1963,
+          "text": "Valentina Tereshkova becomes the first woman in space.",
+          "category": "science",
+          "wiki": "Vostok_6"
+        },
+        {
+          "year": 1967,
+          "text": "The Monterey Pop Festival begins.",
+          "category": "news",
+          "wiki": "Monterey_International_Pop_Festival"
+        },
+        {
+          "year": 1976,
+          "text": "Students in Soweto protest; police open fire.",
+          "category": "conflict",
+          "wiki": "Soweto_uprising"
+        }
+      ],
+      "births": [
+        {
+          "year": 1890,
+          "text": "Stan Laurel, English comedian (Laurel and Hardy)",
+          "wiki": "Stan_Laurel"
+        },
+        {
+          "year": 1920,
+          "text": "Hemant Kumar, Indian singer and composer",
+          "wiki": "Hemant_Kumar"
+        },
+        {
+          "year": 1938,
+          "text": "Joyce Carol Oates, American author",
+          "wiki": "Joyce_Carol_Oates"
+        },
+        {
+          "year": 1950,
+          "text": "Mithun Chakraborty, Indian actor",
+          "wiki": "Mithun_Chakraborty"
+        },
+        {
+          "year": 1971,
+          "text": "Tupac Shakur, American rapper",
+          "wiki": "Tupac_Shakur"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Joyce set Ulysses on 16 June because it was the day of his first walk with Nora Barnacle.",
+          "wiki": "Bloomsday"
+        },
+        {
+          "text": "South Africa's Youth Day remembers the students of Soweto who protested in 1976.",
+          "wiki": "Youth_Day_(South_Africa)"
+        }
+      ]
+    },
+    "06-17": {
+      "names": [
+        "World Day to Combat Desertification",
+        "National Day (Iceland)"
+      ],
+      "script": "On the seventeenth of June in 1631, in the city of Burhanpur, the empress Mumtaz Mahal died giving birth to her fourteenth child. Her grieving husband, the emperor Shah Jahan, spent twenty years building her a tomb of white marble beside the Yamuna: the Taj Mahal.\n\nIn 1579, Francis Drake landed on the coast of California, claimed it for Queen Elizabeth, and called it New Albion.\n\nIn 1775, at Bunker Hill above Boston, American militia were told: don't fire until you see the whites of their eyes. They lost the hill, but showed they could stand against the British army.\n\nIn 1885, the Statue of Liberty arrived in New York Harbor, packed in more than two hundred crates.\n\nIn 1944, Iceland declared itself a republic, and Icelanders celebrate with parades in the long summer daylight.\n\nAnd in 1972, five men were caught breaking into the Watergate building in Washington. It looked like a small burglary. It would bring down a president.",
+      "events": [
+        {
+          "year": 1579,
+          "text": "Francis Drake lands in California.",
+          "category": "science",
+          "wiki": "Francis_Drake"
+        },
+        {
+          "year": 1631,
+          "text": "Empress Mumtaz Mahal dies; Shah Jahan will build the Taj Mahal for her.",
+          "category": "news",
+          "wiki": "Mumtaz_Mahal"
+        },
+        {
+          "year": 1775,
+          "text": "The Battle of Bunker Hill is fought.",
+          "category": "conflict",
+          "wiki": "Battle_of_Bunker_Hill"
+        },
+        {
+          "year": 1885,
+          "text": "The Statue of Liberty arrives in New York Harbor.",
+          "category": "news",
+          "wiki": "Statue_of_Liberty"
+        },
+        {
+          "year": 1928,
+          "text": "Amelia Earhart sets off to become the first woman to fly across the Atlantic, as a passenger.",
+          "category": "news",
+          "wiki": "Amelia_Earhart"
+        },
+        {
+          "year": 1940,
+          "text": "France asks Germany for an armistice.",
+          "category": "conflict",
+          "wiki": "Armistice_of_22_June_1940"
+        },
+        {
+          "year": 1944,
+          "text": "Iceland becomes a republic.",
+          "category": "conflict",
+          "wiki": "Iceland"
+        },
+        {
+          "year": 1950,
+          "text": "Surgeons in Chicago perform one of the first kidney transplants.",
+          "category": "science",
+          "wiki": "Kidney_transplantation"
+        },
+        {
+          "year": 1953,
+          "text": "East German workers rise up against the government.",
+          "category": "conflict",
+          "wiki": "East_German_uprising_of_1953"
+        },
+        {
+          "year": 1967,
+          "text": "China tests its first hydrogen bomb.",
+          "category": "science",
+          "wiki": "Test_No._6"
+        },
+        {
+          "year": 1972,
+          "text": "Burglars are caught at the Watergate building.",
+          "category": "conflict",
+          "wiki": "Watergate_scandal"
+        },
+        {
+          "year": 1991,
+          "text": "South Africa repeals the law that classified people by race.",
+          "category": "conflict",
+          "wiki": "Population_Registration_Act,_1950"
+        },
+        {
+          "year": 1994,
+          "text": "Millions watch O. J. Simpson's slow-speed car chase on television.",
+          "category": "news",
+          "wiki": "O._J._Simpson_murder_case"
+        }
+      ],
+      "births": [
+        {
+          "year": 1239,
+          "text": "Edward I, King of England",
+          "wiki": "Edward_I"
+        },
+        {
+          "year": 1818,
+          "text": "Charles Gounod, French composer",
+          "wiki": "Charles_Gounod"
+        },
+        {
+          "year": 1882,
+          "text": "Igor Stravinsky, Russian composer",
+          "wiki": "Igor_Stravinsky"
+        },
+        {
+          "year": 1973,
+          "text": "Leander Paes, Indian tennis player",
+          "wiki": "Leander_Paes"
+        },
+        {
+          "year": 1980,
+          "text": "Venus Williams, American tennis player",
+          "wiki": "Venus_Williams"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Shah Jahan built the Taj Mahal as a tomb for Mumtaz Mahal.",
+          "wiki": "Taj_Mahal"
+        }
+      ]
+    },
+    "06-18": {
+      "names": [
+        "Waterloo Day",
+        "Goa Revolution Day"
+      ],
+      "script": "On the evening of the eighteenth of June in 1178, five monks at Canterbury looked up at the new crescent Moon and saw its upper horn split apart, spewing fire and sparks. Some scientists think they may have seen an asteroid strike the Moon.\n\nIn 1815, near a Belgian village called Waterloo, Napoleon fought his last battle against the Duke of Wellington and the Prussians. By nightfall his army was broken. It was, said Wellington, the nearest-run thing you ever saw in your life.\n\nIn 1858, Charles Darwin opened a letter from a young naturalist named Alfred Russel Wallace in the Malay islands. Wallace had come up with the very same theory of evolution. Darwin quickly finished his book.\n\nIn 1940, Charles de Gaulle spoke on the BBC from London, urging the French not to give up. That same day, Churchill told Britain that this would be its finest hour.\n\nIn 1946, Ram Manohar Lohia began a movement against Portuguese rule in Goa, remembered as Goa Revolution Day.\n\nAnd in 1983, Sally Ride became the first American woman in space.",
+      "events": [
+        {
+          "year": 1178,
+          "text": "Five Canterbury monks report seeing a flash on the Moon.",
+          "category": "science",
+          "wiki": "Giordano_Bruno_(crater)"
+        },
+        {
+          "year": 1812,
+          "text": "The United States declares war on Britain.",
+          "category": "conflict",
+          "wiki": "War_of_1812"
+        },
+        {
+          "year": 1815,
+          "text": "Napoleon is defeated at the Battle of Waterloo.",
+          "category": "conflict",
+          "wiki": "Battle_of_Waterloo"
+        },
+        {
+          "year": 1858,
+          "text": "Charles Darwin receives Alfred Russel Wallace's letter on evolution.",
+          "category": "science",
+          "wiki": "Alfred_Russel_Wallace"
+        },
+        {
+          "year": 1873,
+          "text": "Susan B. Anthony is fined for voting in a U.S. election.",
+          "category": "news",
+          "wiki": "Susan_B._Anthony"
+        },
+        {
+          "year": 1908,
+          "text": "The Kasato Maru brings the first Japanese immigrants to Brazil.",
+          "category": "news",
+          "wiki": "Japanese_Brazilians"
+        },
+        {
+          "year": 1928,
+          "text": "Amelia Earhart lands in Wales, the first woman to fly across the Atlantic.",
+          "category": "news",
+          "wiki": "Amelia_Earhart"
+        },
+        {
+          "year": 1940,
+          "text": "Charles de Gaulle broadcasts his Appeal of 18 June from London.",
+          "category": "conflict",
+          "wiki": "Appeal_of_18_June"
+        },
+        {
+          "year": 1940,
+          "text": "Winston Churchill gives his \"finest hour\" speech.",
+          "category": "news",
+          "wiki": "This_was_their_finest_hour"
+        },
+        {
+          "year": 1946,
+          "text": "Ram Manohar Lohia starts the movement against Portuguese rule in Goa.",
+          "category": "conflict",
+          "wiki": "Ram_Manohar_Lohia"
+        },
+        {
+          "year": 1948,
+          "text": "Columbia Records introduces the long-playing record.",
+          "category": "science",
+          "wiki": "LP_record"
+        },
+        {
+          "year": 1953,
+          "text": "Egypt becomes a republic.",
+          "category": "conflict",
+          "wiki": "Republic_of_Egypt_(1953–1958)"
+        },
+        {
+          "year": 1979,
+          "text": "The U.S. and Soviet Union sign the SALT II treaty.",
+          "category": "conflict",
+          "wiki": "Strategic_Arms_Limitation_Talks"
+        },
+        {
+          "year": 1983,
+          "text": "Sally Ride becomes the first American woman in space.",
+          "category": "science",
+          "wiki": "STS-7"
+        },
+        {
+          "year": 2009,
+          "text": "NASA launches the Lunar Reconnaissance Orbiter.",
+          "category": "science",
+          "wiki": "Lunar_Reconnaissance_Orbiter"
+        }
+      ],
+      "births": [
+        {
+          "year": 1901,
+          "text": "Grand Duchess Anastasia of Russia",
+          "wiki": "Grand_Duchess_Anastasia_of_Russia"
+        },
+        {
+          "year": 1913,
+          "text": "Sammy Cahn, American songwriter",
+          "wiki": "Sammy_Cahn"
+        },
+        {
+          "year": 1931,
+          "text": "Fernando Henrique Cardoso, President of Brazil",
+          "wiki": "Fernando_Henrique_Cardoso"
+        },
+        {
+          "year": 1942,
+          "text": "Paul McCartney, English musician (The Beatles)",
+          "wiki": "Paul_McCartney"
+        },
+        {
+          "year": 1942,
+          "text": "Roger Ebert, American film critic",
+          "wiki": "Roger_Ebert"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "In 1178, Canterbury monks reported seeing the Moon's horn split with fire — possibly an impact.",
+          "wiki": "Giordano_Bruno_(crater)"
+        },
+        {
+          "text": "Wellington called Waterloo \"the nearest-run thing you ever saw in your life\".",
+          "wiki": "Battle_of_Waterloo"
+        }
+      ]
+    },
+    "06-19": {
+      "names": [
+        "Juneteenth",
+        "World Sickle Cell Day"
+      ],
+      "script": "On the nineteenth of June in 1865, Union soldiers rode into Galveston, Texas, and General Gordon Granger read out an order: all slaves are free. It had been two and a half years since the Emancipation Proclamation, but the news had only now reached the farthest corner of the old Confederacy. The freed people celebrated with prayer, feasting and song, and Juneteenth has been celebrated ever since.\n\nIn 1623, in France, Blaise Pascal was born. As a teenager, he built a mechanical calculator to help his father add up taxes.\n\nIn 1846, on a field in Hoboken, New Jersey, the first recorded baseball game under the new rules of Alexander Cartwright was played.\n\nIn 1910, in Spokane, Washington, a woman named Sonora Smart Dodd held the first Father's Day, in honour of her father, a widower who had raised six children.\n\nAnd in 1978, a lazy orange cat who hated Mondays and loved lasagne appeared in newspapers for the first time. His name was Garfield.",
+      "events": [
+        {
+          "year": 1846,
+          "text": "The first recorded baseball game under Cartwright's rules is played in Hoboken.",
+          "category": "news",
+          "wiki": "History_of_baseball_in_the_United_States"
+        },
+        {
+          "year": 1862,
+          "text": "The U.S. Congress bans slavery in American territories.",
+          "category": "conflict",
+          "wiki": "Slavery_in_the_United_States"
+        },
+        {
+          "year": 1865,
+          "text": "News of emancipation reaches Galveston, Texas, celebrated as Juneteenth.",
+          "category": "news",
+          "wiki": "Juneteenth"
+        },
+        {
+          "year": 1905,
+          "text": "The first nickelodeon cinema opens, in Pittsburgh.",
+          "category": "science",
+          "wiki": "Nickelodeon_(movie_theater)"
+        },
+        {
+          "year": 1910,
+          "text": "The first Father's Day is celebrated in Spokane, Washington.",
+          "category": "news",
+          "wiki": "Father's_Day"
+        },
+        {
+          "year": 1934,
+          "text": "The U.S. Federal Communications Commission is created.",
+          "category": "science",
+          "wiki": "Federal_Communications_Commission"
+        },
+        {
+          "year": 1946,
+          "text": "The first televised heavyweight title fight, Louis versus Conn, is broadcast.",
+          "category": "news",
+          "wiki": "Joe_Louis"
+        },
+        {
+          "year": 1953,
+          "text": "Julius and Ethel Rosenberg are executed.",
+          "category": "conflict",
+          "wiki": "Julius_and_Ethel_Rosenberg"
+        },
+        {
+          "year": 1961,
+          "text": "Kuwait becomes independent.",
+          "category": "conflict",
+          "wiki": "Kuwait"
+        },
+        {
+          "year": 1964,
+          "text": "The U.S. Senate passes the Civil Rights Act.",
+          "category": "conflict",
+          "wiki": "Civil_Rights_Act_of_1964"
+        },
+        {
+          "year": 1978,
+          "text": "Garfield first appears in newspapers.",
+          "category": "news",
+          "wiki": "Garfield"
+        }
+      ],
+      "births": [
+        {
+          "year": 1566,
+          "text": "James I of England",
+          "wiki": "James_I_of_England"
+        },
+        {
+          "year": 1623,
+          "text": "Blaise Pascal, French mathematician",
+          "wiki": "Blaise_Pascal"
+        },
+        {
+          "year": 1945,
+          "text": "Aung San Suu Kyi, Burmese leader and Nobel Peace laureate",
+          "wiki": "Aung_San_Suu_Kyi"
+        },
+        {
+          "year": 1947,
+          "text": "Salman Rushdie, British-Indian novelist",
+          "wiki": "Salman_Rushdie"
+        },
+        {
+          "year": 1970,
+          "text": "Rahul Gandhi, Indian politician",
+          "wiki": "Rahul_Gandhi"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Juneteenth marks the day in 1865 when freedom was announced in Galveston, Texas, two and a half years after the Emancipation Proclamation.",
+          "wiki": "Juneteenth"
+        },
+        {
+          "text": "World Sickle Cell Day was recognised by the United Nations in 2008.",
+          "wiki": "World_Sickle_Cell_Day"
+        }
+      ]
+    },
+    "06-20": {
+      "names": [
+        "World Refugee Day",
+        "West Virginia Day"
+      ],
+      "script": "On the twentieth of June in 1756, after the fall of Calcutta, some British prisoners were locked overnight in a tiny guardroom of Fort William. Many died in the stifling heat. The Black Hole of Calcutta became a byword for horror.\n\nIn 1789, the deputies of France's Third Estate found themselves locked out of their meeting hall. They gathered in a nearby indoor tennis court and swore not to part until France had a constitution. The Tennis Court Oath was a giant step towards revolution.\n\nIn 1837, King William the Fourth died in the night, and at dawn, an eighteen-year-old girl was woken and told she was queen. Victoria would reign for sixty-three years.\n\nIn 1840, Samuel Morse received his patent for the telegraph.\n\nIn 1944, a German V-2 rocket climbed straight up from the Baltic coast and reached space, the first human-made object ever to cross into it.\n\nAnd in 1975, Steven Spielberg's Jaws opened in American cinemas. For one summer, people were afraid to go back in the water.",
+      "events": [
+        {
+          "year": 1756,
+          "text": "British prisoners die in the \"Black Hole of Calcutta\".",
+          "category": "conflict",
+          "wiki": "Black_Hole_of_Calcutta"
+        },
+        {
+          "year": 1789,
+          "text": "French deputies take the Tennis Court Oath.",
+          "category": "conflict",
+          "wiki": "Tennis_Court_Oath"
+        },
+        {
+          "year": 1791,
+          "text": "Louis XVI and his family try to flee Paris, but are caught at Varennes.",
+          "category": "conflict",
+          "wiki": "Flight_to_Varennes"
+        },
+        {
+          "year": 1837,
+          "text": "Victoria becomes Queen of the United Kingdom.",
+          "category": "news",
+          "wiki": "Queen_Victoria"
+        },
+        {
+          "year": 1840,
+          "text": "Samuel Morse receives a patent for the telegraph.",
+          "category": "science",
+          "wiki": "Samuel_Morse"
+        },
+        {
+          "year": 1863,
+          "text": "West Virginia becomes the 35th U.S. state.",
+          "category": "news",
+          "wiki": "West_Virginia"
+        },
+        {
+          "year": 1893,
+          "text": "Lizzie Borden is acquitted of murdering her father and stepmother.",
+          "category": "news",
+          "wiki": "Lizzie_Borden"
+        },
+        {
+          "year": 1944,
+          "text": "A V-2 rocket becomes the first object to reach space.",
+          "category": "science",
+          "wiki": "MW_18014"
+        },
+        {
+          "year": 1948,
+          "text": "The Deutsche Mark is introduced in West Germany.",
+          "category": "news",
+          "wiki": "Deutsche_Mark"
+        },
+        {
+          "year": 1948,
+          "text": "Ed Sullivan's television show begins.",
+          "category": "news",
+          "wiki": "The_Ed_Sullivan_Show"
+        },
+        {
+          "year": 1963,
+          "text": "The U.S. and Soviet Union agree to set up a hotline.",
+          "category": "conflict",
+          "wiki": "Moscow–Washington_hotline"
+        },
+        {
+          "year": 1975,
+          "text": "Jaws is released.",
+          "category": "news",
+          "wiki": "Jaws_(film)"
+        }
+      ],
+      "births": [
+        {
+          "year": 1819,
+          "text": "Jacques Offenbach, German-French composer",
+          "wiki": "Jacques_Offenbach"
+        },
+        {
+          "year": 1909,
+          "text": "Errol Flynn, Australian-American actor",
+          "wiki": "Errol_Flynn"
+        },
+        {
+          "year": 1942,
+          "text": "Brian Wilson, American musician (The Beach Boys)",
+          "wiki": "Brian_Wilson"
+        },
+        {
+          "year": 1949,
+          "text": "Lionel Richie, American singer",
+          "wiki": "Lionel_Richie"
+        },
+        {
+          "year": 1967,
+          "text": "Nicole Kidman, Australian-American actress",
+          "wiki": "Nicole_Kidman"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "World Refugee Day was established by the United Nations in 2001.",
+          "wiki": "World_Refugee_Day"
+        },
+        {
+          "text": "A V-2 rocket launched on 20 June 1944 was the first human-made object to reach space.",
+          "wiki": "MW_18014"
+        }
+      ]
+    },
+    "06-21": {
+      "names": [
+        "International Day of Yoga",
+        "World Music Day",
+        "Summer Solstice",
+        "National Indigenous Peoples Day (Canada)"
+      ],
+      "script": "The twenty-first of June is usually the longest day of the year in the north, when the Sun climbs highest and lingers longest. At Stonehenge, crowds gather to watch it rise over the Heel Stone.\n\nSince 2015, it has also been the International Day of Yoga, when millions unroll their mats in parks and squares around the world. And in France, it is the Fête de la Musique, when anyone may play music in the streets all night.\n\nIn 1788, New Hampshire became the ninth state to ratify the American Constitution, and with it, the Constitution came into force.\n\nIn 1919, at Scapa Flow in the Orkney Islands, the captured German fleet was sunk by its own sailors, rather than let it be handed over.\n\nIn 1948, in a laboratory in Manchester, a machine nicknamed the Baby ran the first program ever stored in an electronic computer's memory.\n\nAnd in 2004, a small, strange-looking plane called SpaceShipOne climbed above a hundred kilometres, the first privately built craft to reach space.",
+      "events": [
+        {
+          "year": 1788,
+          "text": "New Hampshire's ratification puts the U.S. Constitution into effect.",
+          "category": "conflict",
+          "wiki": "New_Hampshire"
+        },
+        {
+          "year": 1834,
+          "text": "Cyrus McCormick patents his mechanical reaper.",
+          "category": "science",
+          "wiki": "Cyrus_McCormick"
+        },
+        {
+          "year": 1854,
+          "text": "Charles Lucas performs the first act of bravery to earn the Victoria Cross.",
+          "category": "conflict",
+          "wiki": "Charles_Davis_Lucas"
+        },
+        {
+          "year": 1919,
+          "text": "The German fleet is scuttled at Scapa Flow.",
+          "category": "conflict",
+          "wiki": "Scuttling_of_the_German_fleet_at_Scapa_Flow"
+        },
+        {
+          "year": 1942,
+          "text": "Tobruk falls to Rommel's army.",
+          "category": "conflict",
+          "wiki": "Siege_of_Tobruk"
+        },
+        {
+          "year": 1948,
+          "text": "The Manchester Baby runs the first stored computer program.",
+          "category": "science",
+          "wiki": "Manchester_Baby"
+        },
+        {
+          "year": 1963,
+          "text": "Paul VI is elected Pope.",
+          "category": "news",
+          "wiki": "Pope_Paul_VI"
+        },
+        {
+          "year": 1970,
+          "text": "Brazil wins its third World Cup.",
+          "category": "news",
+          "wiki": "1970_FIFA_World_Cup"
+        },
+        {
+          "year": 1982,
+          "text": "John Hinckley is found not guilty, by reason of insanity, of shooting President Reagan.",
+          "category": "news",
+          "wiki": "John_Hinckley_Jr."
+        },
+        {
+          "year": 2004,
+          "text": "SpaceShipOne becomes the first private spacecraft to reach space.",
+          "category": "science",
+          "wiki": "SpaceShipOne"
+        },
+        {
+          "year": 2015,
+          "text": "The first International Day of Yoga is celebrated.",
+          "category": "news",
+          "wiki": "International_Day_of_Yoga"
+        }
+      ],
+      "births": [
+        {
+          "year": 1905,
+          "text": "Jean-Paul Sartre, French philosopher",
+          "wiki": "Jean-Paul_Sartre"
+        },
+        {
+          "year": 1947,
+          "text": "Shirin Ebadi, Iranian Nobel Peace laureate",
+          "wiki": "Shirin_Ebadi"
+        },
+        {
+          "year": 1953,
+          "text": "Benazir Bhutto, Prime Minister of Pakistan",
+          "wiki": "Benazir_Bhutto"
+        },
+        {
+          "year": 1982,
+          "text": "Prince William, Prince of Wales",
+          "wiki": "William,_Prince_of_Wales"
+        },
+        {
+          "year": 1985,
+          "text": "Lana Del Rey, American singer",
+          "wiki": "Lana_Del_Rey"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "International Yoga Day was proposed by India and adopted by the UN in 2014.",
+          "wiki": "International_Day_of_Yoga"
+        },
+        {
+          "text": "Fête de la Musique began in France in 1982.",
+          "wiki": "Fête_de_la_Musique"
+        }
+      ]
+    },
+    "06-22": {
+      "names": [
+        "Windrush Day"
+      ],
+      "script": "On the twenty-second of June in 1633, in a hall in Rome, the seventy-year-old Galileo Galilei knelt before the Inquisition and was made to deny that the Earth moves around the Sun. Legend says that as he rose, he muttered: and yet it moves.\n\nIn 1675, King Charles the Second ordered an observatory to be built on a hill at Greenwich, to help sailors find their way at sea. Today, it is where the world's longitude begins.\n\nIn 1941, more than three million German soldiers poured across the border into the Soviet Union, in the largest invasion in history.\n\nIn 1948, a ship called the Empire Windrush docked at Tilbury, bringing hundreds of people from the Caribbean to help rebuild post-war Britain. Their arrival is remembered on Windrush Day.\n\nIn 1978, an astronomer named James Christy noticed a bump on a blurry picture of Pluto. It was a moon, so large that Pluto and its moon, Charon, circle each other like dancing partners.\n\nAnd in 1986, in a World Cup match in Mexico City, Diego Maradona scored two goals against England, one with what he called the hand of God, the other perhaps the greatest goal ever scored.",
+      "events": [
+        {
+          "year": 1633,
+          "text": "Galileo is forced to recant his belief that the Earth moves around the Sun.",
+          "category": "conflict",
+          "wiki": "Galileo_affair"
+        },
+        {
+          "year": 1675,
+          "text": "Charles II founds the Royal Observatory at Greenwich.",
+          "category": "science",
+          "wiki": "Royal_Observatory,_Greenwich"
+        },
+        {
+          "year": 1897,
+          "text": "Britain celebrates Queen Victoria's Diamond Jubilee.",
+          "category": "news",
+          "wiki": "Diamond_Jubilee_of_Queen_Victoria"
+        },
+        {
+          "year": 1911,
+          "text": "George V is crowned in Westminster Abbey.",
+          "category": "news",
+          "wiki": "Coronation_of_George_V_and_Mary"
+        },
+        {
+          "year": 1937,
+          "text": "Joe Louis becomes world heavyweight boxing champion.",
+          "category": "news",
+          "wiki": "Joe_Louis"
+        },
+        {
+          "year": 1940,
+          "text": "France signs an armistice with Germany at Compiègne.",
+          "category": "conflict",
+          "wiki": "Armistice_of_22_June_1940"
+        },
+        {
+          "year": 1941,
+          "text": "Germany invades the Soviet Union.",
+          "category": "conflict",
+          "wiki": "Operation_Barbarossa"
+        },
+        {
+          "year": 1944,
+          "text": "President Roosevelt signs the GI Bill.",
+          "category": "conflict",
+          "wiki": "G.I._Bill"
+        },
+        {
+          "year": 1948,
+          "text": "The Empire Windrush brings Caribbean migrants to Britain.",
+          "category": "news",
+          "wiki": "HMT_Empire_Windrush"
+        },
+        {
+          "year": 1969,
+          "text": "An oil-covered river catches fire in Cleveland, helping to spark America's environmental laws.",
+          "category": "science",
+          "wiki": "Cuyahoga_River"
+        },
+        {
+          "year": 1978,
+          "text": "James Christy discovers Pluto's moon Charon.",
+          "category": "science",
+          "wiki": "Charon_(moon)"
+        },
+        {
+          "year": 1986,
+          "text": "Maradona scores his \"Hand of God\" goal against England.",
+          "category": "news",
+          "wiki": "Argentina_v_England_(1986_FIFA_World_Cup)"
+        },
+        {
+          "year": 1990,
+          "text": "Checkpoint Charlie is removed in Berlin.",
+          "category": "conflict",
+          "wiki": "Checkpoint_Charlie"
+        }
+      ],
+      "births": [
+        {
+          "year": 1757,
+          "text": "George Vancouver, British explorer",
+          "wiki": "George_Vancouver"
+        },
+        {
+          "year": 1887,
+          "text": "Julian Huxley, English biologist",
+          "wiki": "Julian_Huxley"
+        },
+        {
+          "year": 1906,
+          "text": "Billy Wilder, Austrian-American film director",
+          "wiki": "Billy_Wilder"
+        },
+        {
+          "year": 1949,
+          "text": "Meryl Streep, American actress",
+          "wiki": "Meryl_Streep"
+        },
+        {
+          "year": 1974,
+          "text": "Vijay, Indian actor",
+          "wiki": "Vijay"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Pluto's moon Charon is so large that the two orbit a point in space between them.",
+          "wiki": "Charon_(moon)"
+        },
+        {
+          "text": "Galileo is said to have muttered \"and yet it moves\" after his recantation, though this may be a legend.",
+          "wiki": "And_yet_it_moves"
+        }
+      ]
+    },
+    "06-23": {
+      "names": [
+        "International Olympic Day",
+        "United Nations Public Service Day",
+        "International Widows' Day"
+      ],
+      "script": "On the twenty-third of June in 1757, near the village of Plassey in Bengal, Robert Clive's small army faced the much larger forces of the Nawab Siraj-ud-Daulah. Many of the Nawab's commanders had been secretly bribed and never joined the fight. The battle lasted a single day, and it opened the door to British rule in India.\n\nIn 1611, mutineers on the ship Discovery set the explorer Henry Hudson, his son and a few loyal men adrift in a small boat in the icy bay that bears his name. They were never seen again.\n\nIn 1868, a printer named Christopher Latham Sholes received a patent for a writing machine. He would go on to give it the QWERTY keyboard we still type on today.\n\nIn 1894, at the Sorbonne in Paris, Baron Pierre de Coubertin founded the International Olympic Committee, to bring back the Olympic Games. The world celebrates Olympic Day today.\n\nAnd in 1912, in London, Alan Turing was born. He would help break the Enigma code in the Second World War, and dream up the very idea of a computer.",
+      "events": [
+        {
+          "year": 1611,
+          "text": "Mutineers set Henry Hudson adrift in Hudson Bay.",
+          "category": "news",
+          "wiki": "Henry_Hudson"
+        },
+        {
+          "year": 1757,
+          "text": "Robert Clive wins the Battle of Plassey.",
+          "category": "conflict",
+          "wiki": "Battle_of_Plassey"
+        },
+        {
+          "year": 1868,
+          "text": "Christopher Latham Sholes patents the typewriter.",
+          "category": "science",
+          "wiki": "Christopher_Latham_Sholes"
+        },
+        {
+          "year": 1888,
+          "text": "Frederick Douglass becomes the first African American to receive a vote for president at a major party convention.",
+          "category": "news",
+          "wiki": "Frederick_Douglass"
+        },
+        {
+          "year": 1894,
+          "text": "The International Olympic Committee is founded in Paris.",
+          "category": "news",
+          "wiki": "International_Olympic_Committee"
+        },
+        {
+          "year": 1926,
+          "text": "The first SAT college admission test is taken.",
+          "category": "news",
+          "wiki": "SAT"
+        },
+        {
+          "year": 1931,
+          "text": "Wiley Post and Harold Gatty set out to fly around the world in eight days.",
+          "category": "science",
+          "wiki": "Wiley_Post"
+        },
+        {
+          "year": 1940,
+          "text": "Adolf Hitler tours Paris.",
+          "category": "conflict",
+          "wiki": "Fall_of_France"
+        },
+        {
+          "year": 1947,
+          "text": "The U.S. Congress passes the Taft–Hartley Act.",
+          "category": "conflict",
+          "wiki": "Taft–Hartley_Act"
+        },
+        {
+          "year": 1956,
+          "text": "Gamal Abdel Nasser is elected President of Egypt.",
+          "category": "conflict",
+          "wiki": "Gamal_Abdel_Nasser"
+        },
+        {
+          "year": 1972,
+          "text": "Title IX bans sex discrimination in U.S. education.",
+          "category": "conflict",
+          "wiki": "Title_IX"
+        },
+        {
+          "year": 2016,
+          "text": "The United Kingdom votes to leave the European Union.",
+          "category": "conflict",
+          "wiki": "2016_United_Kingdom_European_Union_membership_referendum"
+        }
+      ],
+      "births": [
+        {
+          "year": 1763,
+          "text": "Joséphine de Beauharnais, Empress of the French",
+          "wiki": "Joséphine_de_Beauharnais"
+        },
+        {
+          "year": 1894,
+          "text": "Edward VIII, King of the United Kingdom",
+          "wiki": "Edward_VIII"
+        },
+        {
+          "year": 1912,
+          "text": "Alan Turing, English computer scientist",
+          "wiki": "Alan_Turing"
+        },
+        {
+          "year": 1940,
+          "text": "Wilma Rudolph, American sprinter",
+          "wiki": "Wilma_Rudolph"
+        },
+        {
+          "year": 1972,
+          "text": "Zinedine Zidane, French footballer",
+          "wiki": "Zinedine_Zidane"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Olympic Day marks the founding of the International Olympic Committee in Paris in 1894.",
+          "wiki": "Olympic_Day"
+        },
+        {
+          "text": "Sholes's QWERTY keyboard layout is still used on most keyboards today.",
+          "wiki": "QWERTY"
+        }
+      ]
+    },
+    "06-24": {
+      "names": [
+        "Midsummer (St John's Day)",
+        "Inti Raymi (Peru)"
+      ],
+      "script": "The twenty-fourth of June is Midsummer, the feast of Saint John. Across Scandinavia and the Baltic, people dance around maypoles and light bonfires through the white night. In Peru, at the ancient Inca city of Cusco, Inti Raymi, the Festival of the Sun, fills the fortress of Sacsayhuamán with music and colour.\n\nIn 1314, at Bannockburn, Robert the Bruce's Scottish army defeated the much larger English army of Edward the Second, securing Scotland's independence.\n\nIn 1497, the Italian navigator John Cabot, sailing for England, sighted the coast of North America, probably Newfoundland.\n\nIn 1859, at Solferino in Italy, a Swiss businessman named Henry Dunant saw thousands of wounded soldiers left to suffer after the battle. His horror led him to found the Red Cross.\n\nIn 1880, in Quebec City, a new song called O Canada was performed for the first time.\n\nAnd in 1947, a pilot named Kenneth Arnold saw nine shining objects skipping across the sky near Mount Rainier. A newspaper called them flying saucers, and a new legend was born.",
+      "events": [
+        {
+          "year": 1314,
+          "text": "Robert the Bruce defeats the English at Bannockburn.",
+          "category": "conflict",
+          "wiki": "Battle_of_Bannockburn"
+        },
+        {
+          "year": 1374,
+          "text": "An outbreak of \"dancing mania\" begins in Aachen.",
+          "category": "news",
+          "wiki": "Dancing_mania"
+        },
+        {
+          "year": 1497,
+          "text": "John Cabot sights the coast of North America.",
+          "category": "science",
+          "wiki": "John_Cabot"
+        },
+        {
+          "year": 1509,
+          "text": "Henry VIII is crowned King of England.",
+          "category": "news",
+          "wiki": "Henry_VIII"
+        },
+        {
+          "year": 1717,
+          "text": "The first Grand Lodge of Freemasons is founded in London.",
+          "category": "news",
+          "wiki": "United_Grand_Lodge_of_England"
+        },
+        {
+          "year": 1859,
+          "text": "The Battle of Solferino inspires Henry Dunant to found the Red Cross.",
+          "category": "conflict",
+          "wiki": "Battle_of_Solferino"
+        },
+        {
+          "year": 1880,
+          "text": "\"O Canada\" is performed for the first time.",
+          "category": "news",
+          "wiki": "O_Canada"
+        },
+        {
+          "year": 1901,
+          "text": "Pablo Picasso's first major exhibition opens in Paris.",
+          "category": "news",
+          "wiki": "Pablo_Picasso"
+        },
+        {
+          "year": 1947,
+          "text": "Kenneth Arnold's sighting gives rise to the term \"flying saucer\".",
+          "category": "science",
+          "wiki": "Kenneth_Arnold_UFO_sighting"
+        },
+        {
+          "year": 1948,
+          "text": "The Soviet Union begins the Berlin Blockade.",
+          "category": "conflict",
+          "wiki": "Berlin_Blockade"
+        },
+        {
+          "year": 1983,
+          "text": "Space Shuttle Challenger lands after Sally Ride's first flight.",
+          "category": "science",
+          "wiki": "STS-7"
+        }
+      ],
+      "births": [
+        {
+          "year": 1771,
+          "text": "E. I. du Pont, French-American founder of DuPont",
+          "wiki": "E._I._du_Pont"
+        },
+        {
+          "year": 1842,
+          "text": "Ambrose Bierce, American writer",
+          "wiki": "Ambrose_Bierce"
+        },
+        {
+          "year": 1895,
+          "text": "Jack Dempsey, American boxer",
+          "wiki": "Jack_Dempsey"
+        },
+        {
+          "year": 1928,
+          "text": "M. S. Viswanathan, Indian film composer",
+          "wiki": "M._S._Viswanathan"
+        },
+        {
+          "year": 1987,
+          "text": "Lionel Messi, Argentine footballer",
+          "wiki": "Lionel_Messi"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Inti Raymi, the Inca Festival of the Sun, is celebrated each year at Cusco in Peru.",
+          "wiki": "Inti_Raymi"
+        },
+        {
+          "text": "The Battle of Solferino inspired Henry Dunant to found the Red Cross.",
+          "wiki": "Battle_of_Solferino"
+        }
+      ]
+    },
+    "06-25": {
+      "names": [
+        "Day of the Seafarer",
+        "Independence Day (Mozambique)",
+        "Statehood Day (Croatia, Slovenia)"
+      ],
+      "script": "On the twenty-fifth of June in 1876, beside the Little Bighorn River in Montana, Lakota and Cheyenne warriors led by Sitting Bull and Crazy Horse surrounded and destroyed George Custer's cavalry. It was Custer's Last Stand.\n\nIn 1910, in Paris, Stravinsky's ballet The Firebird was performed for the first time, and the young composer became famous overnight.\n\nIn 1950, North Korean troops poured across the border into South Korea, and the Korean War began.\n\nIn 1967, four hundred million people in twenty-five countries watched the first live television broadcast around the world, Our World. Britain's part was the Beatles, singing a new song: All You Need Is Love.\n\nIn 1975, Indira Gandhi declared a state of emergency in India. Elections were suspended and newspapers were censored for twenty-one months.\n\nBut in 1983, at Lord's in London, Kapil Dev's Indian team beat the mighty West Indies to win the Cricket World Cup, and a whole nation danced in the streets.",
+      "events": [
+        {
+          "year": 1867,
+          "text": "Lucien Smith patents a form of barbed wire.",
+          "category": "science",
+          "wiki": "Barbed_wire"
+        },
+        {
+          "year": 1876,
+          "text": "Custer is defeated at the Battle of the Little Bighorn.",
+          "category": "conflict",
+          "wiki": "Battle_of_the_Little_Bighorn"
+        },
+        {
+          "year": 1910,
+          "text": "Stravinsky's The Firebird premieres in Paris.",
+          "category": "news",
+          "wiki": "The_Firebird"
+        },
+        {
+          "year": 1947,
+          "text": "The Diary of Anne Frank is first published.",
+          "category": "news",
+          "wiki": "The_Diary_of_a_Young_Girl"
+        },
+        {
+          "year": 1950,
+          "text": "North Korea invades South Korea.",
+          "category": "conflict",
+          "wiki": "Korean_War"
+        },
+        {
+          "year": 1951,
+          "text": "CBS makes the first commercial colour television broadcast.",
+          "category": "science",
+          "wiki": "Color_television"
+        },
+        {
+          "year": 1967,
+          "text": "Our World, the first live global TV broadcast, includes the Beatles' \"All You Need Is Love\".",
+          "category": "news",
+          "wiki": "Our_World_(1967_TV_program)"
+        },
+        {
+          "year": 1975,
+          "text": "Indira Gandhi declares a state of emergency in India.",
+          "category": "conflict",
+          "wiki": "The_Emergency_(India)"
+        },
+        {
+          "year": 1975,
+          "text": "Mozambique becomes independent.",
+          "category": "conflict",
+          "wiki": "Mozambique"
+        },
+        {
+          "year": 1983,
+          "text": "India wins the Cricket World Cup.",
+          "category": "news",
+          "wiki": "1983_Cricket_World_Cup_final"
+        },
+        {
+          "year": 1991,
+          "text": "Croatia and Slovenia declare independence.",
+          "category": "conflict",
+          "wiki": "Croatian_War_of_Independence"
+        },
+        {
+          "year": 1997,
+          "text": "A cargo ship collides with the Mir space station.",
+          "category": "science",
+          "wiki": "Mir"
+        },
+        {
+          "year": 2009,
+          "text": "Michael Jackson dies.",
+          "category": "news",
+          "wiki": "Death_of_Michael_Jackson"
+        }
+      ],
+      "births": [
+        {
+          "year": 1852,
+          "text": "Antoni Gaudí, Spanish architect",
+          "wiki": "Antoni_Gaudí"
+        },
+        {
+          "year": 1903,
+          "text": "George Orwell, English author",
+          "wiki": "George_Orwell"
+        },
+        {
+          "year": 1931,
+          "text": "V. P. Singh, Prime Minister of India",
+          "wiki": "V._P._Singh"
+        },
+        {
+          "year": 1963,
+          "text": "George Michael, English singer",
+          "wiki": "George_Michael"
+        },
+        {
+          "year": 1974,
+          "text": "Karisma Kapoor, Indian actress",
+          "wiki": "Karisma_Kapoor"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Our World, broadcast on 25 June 1967, was watched by around 400 million people.",
+          "wiki": "Our_World_(1967_TV_program)"
+        }
+      ]
+    },
+    "06-26": {
+      "names": [
+        "International Day Against Drug Abuse",
+        "International Day in Support of Victims of Torture",
+        "Independence Day (Madagascar)"
+      ],
+      "script": "On the twenty-sixth of June in 1284, the story goes, a piper in a coat of many colours led one hundred and thirty children out of the German town of Hamelin, and they were never seen again. The Pied Piper became a legend.\n\nIn 1945, in San Francisco, delegates from fifty nations signed the Charter of the United Nations, promising to save succeeding generations from the scourge of war.\n\nIn 1948, American and British planes began flying food and coal into West Berlin, cut off by a Soviet blockade. The Berlin Airlift would carry more than two million tonnes.\n\nIn 1963, standing before a vast crowd in West Berlin, President Kennedy declared: Ich bin ein Berliner.\n\nIn 1974, in a supermarket in Ohio, a cashier scanned a ten-pack of chewing gum. It was the first product ever sold using a barcode.\n\nAnd in 1997, a book about a boy wizard with a scar on his forehead was published in London, in a first printing of just five hundred hardbacks. Harry Potter would go on to sell hundreds of millions.",
+      "events": [
+        {
+          "year": 1284,
+          "text": "The Pied Piper is said to lead the children out of Hamelin.",
+          "category": "news",
+          "wiki": "Pied_Piper_of_Hamelin"
+        },
+        {
+          "year": 1906,
+          "text": "The first Grand Prix motor race is held near Le Mans.",
+          "category": "news",
+          "wiki": "1906_French_Grand_Prix"
+        },
+        {
+          "year": 1945,
+          "text": "The United Nations Charter is signed.",
+          "category": "conflict",
+          "wiki": "Charter_of_the_United_Nations"
+        },
+        {
+          "year": 1948,
+          "text": "The Berlin Airlift begins.",
+          "category": "conflict",
+          "wiki": "Berlin_Blockade"
+        },
+        {
+          "year": 1959,
+          "text": "The St. Lawrence Seaway is officially opened.",
+          "category": "science",
+          "wiki": "Saint_Lawrence_Seaway"
+        },
+        {
+          "year": 1960,
+          "text": "Madagascar becomes independent.",
+          "category": "conflict",
+          "wiki": "Madagascar"
+        },
+        {
+          "year": 1963,
+          "text": "President Kennedy says \"Ich bin ein Berliner\".",
+          "category": "conflict",
+          "wiki": "Ich_bin_ein_Berliner"
+        },
+        {
+          "year": 1974,
+          "text": "A barcode is scanned in a shop for the first time.",
+          "category": "science",
+          "wiki": "Barcode"
+        },
+        {
+          "year": 1977,
+          "text": "Elvis Presley gives his last concert.",
+          "category": "news",
+          "wiki": "Elvis_Presley"
+        },
+        {
+          "year": 1997,
+          "text": "Harry Potter and the Philosopher's Stone is published.",
+          "category": "news",
+          "wiki": "Harry_Potter_and_the_Philosopher's_Stone"
+        },
+        {
+          "year": 2000,
+          "text": "Scientists announce a working draft of the human genome.",
+          "category": "science",
+          "wiki": "Human_Genome_Project"
+        }
+      ],
+      "births": [
+        {
+          "year": 1730,
+          "text": "Charles Messier, French astronomer",
+          "wiki": "Charles_Messier"
+        },
+        {
+          "year": 1824,
+          "text": "Lord Kelvin, British physicist",
+          "wiki": "William_Thomson,_1st_Baron_Kelvin"
+        },
+        {
+          "year": 1838,
+          "text": "Bankim Chandra Chatterjee, Bengali novelist",
+          "wiki": "Bankim_Chandra_Chatterjee"
+        },
+        {
+          "year": 1892,
+          "text": "Pearl S. Buck, American novelist",
+          "wiki": "Pearl_S._Buck"
+        },
+        {
+          "year": 1993,
+          "text": "Ariana Grande, American singer",
+          "wiki": "Ariana_Grande"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "The first product scanned with a barcode was a 10-pack of Wrigley's chewing gum.",
+          "wiki": "Barcode"
+        },
+        {
+          "text": "Bankim Chandra Chatterjee, born today, wrote \"Vande Mataram\", India's national song.",
+          "wiki": "Vande_Mataram"
+        }
+      ]
+    },
+    "06-27": {
+      "names": [
+        "Micro-, Small and Medium-sized Enterprises Day",
+        "Independence Day (Djibouti)",
+        "Helen Keller Day"
+      ],
+      "script": "On the twenty-seventh of June in 1880, in Alabama, Helen Keller was born. An illness before her second birthday left her deaf and blind. Then a teacher named Anne Sullivan spelled words into her hand, and one day, at a water pump, Helen understood that w-a-t-e-r meant the cool thing flowing over her fingers. She went on to graduate from college and write many books.\n\nIn 1898, Joshua Slocum sailed into Newport, Rhode Island, after more than three years alone at sea, the first person to sail single-handed around the world.\n\nIn 1905, sailors on the Russian battleship Potemkin mutinied over rotten meat, and raised the red flag.\n\nIn 1954, at Obninsk near Moscow, the first nuclear power station began sending electricity to homes.\n\nAnd in 1967, outside a bank in Enfield, north London, a comedy actor named Reg Varney withdrew some money from a machine in the wall. It was the world's first cash machine.",
+      "events": [
+        {
+          "year": 1844,
+          "text": "Joseph Smith, founder of the Latter Day Saint movement, is killed by a mob.",
+          "category": "news",
+          "wiki": "Joseph_Smith"
+        },
+        {
+          "year": 1898,
+          "text": "Joshua Slocum completes the first solo voyage around the world.",
+          "category": "science",
+          "wiki": "Joshua_Slocum"
+        },
+        {
+          "year": 1905,
+          "text": "Sailors mutiny on the battleship Potemkin.",
+          "category": "conflict",
+          "wiki": "Russian_battleship_Potemkin"
+        },
+        {
+          "year": 1950,
+          "text": "President Truman sends U.S. forces to help South Korea.",
+          "category": "conflict",
+          "wiki": "Korean_War"
+        },
+        {
+          "year": 1954,
+          "text": "The first nuclear power station begins supplying electricity, at Obninsk.",
+          "category": "science",
+          "wiki": "Obninsk_Nuclear_Power_Plant"
+        },
+        {
+          "year": 1967,
+          "text": "The world's first cash machine opens in Enfield, London.",
+          "category": "science",
+          "wiki": "Automated_teller_machine"
+        },
+        {
+          "year": 1976,
+          "text": "Hijackers divert an Air France plane to Entebbe, Uganda.",
+          "category": "conflict",
+          "wiki": "Operation_Entebbe"
+        },
+        {
+          "year": 1977,
+          "text": "Djibouti becomes independent.",
+          "category": "conflict",
+          "wiki": "Djibouti"
+        },
+        {
+          "year": 1985,
+          "text": "Route 66 is officially removed from the U.S. highway system.",
+          "category": "news",
+          "wiki": "U.S._Route_66"
+        },
+        {
+          "year": 2007,
+          "text": "Gordon Brown becomes British Prime Minister.",
+          "category": "news",
+          "wiki": "Gordon_Brown"
+        },
+        {
+          "year": 2008,
+          "text": "Bill Gates steps down from day-to-day work at Microsoft.",
+          "category": "news",
+          "wiki": "Bill_Gates"
+        }
+      ],
+      "births": [
+        {
+          "year": 1869,
+          "text": "Emma Goldman, American anarchist",
+          "wiki": "Emma_Goldman"
+        },
+        {
+          "year": 1880,
+          "text": "Helen Keller, American author and activist",
+          "wiki": "Helen_Keller"
+        },
+        {
+          "year": 1939,
+          "text": "R. D. Burman, Indian composer",
+          "wiki": "R._D._Burman"
+        },
+        {
+          "year": 1966,
+          "text": "J. J. Abrams, American film director",
+          "wiki": "J._J._Abrams"
+        },
+        {
+          "year": 1975,
+          "text": "Tobey Maguire, American actor",
+          "wiki": "Tobey_Maguire"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "The first cash machine, in Enfield, north London, was opened by the actor Reg Varney.",
+          "wiki": "Automated_teller_machine"
+        },
+        {
+          "text": "Helen Keller learned her first word, \"water\", at a water pump, with her teacher Anne Sullivan.",
+          "wiki": "Helen_Keller"
+        }
+      ]
+    },
+    "06-28": {
+      "names": [
+        "Vidovdan (Serbia)",
+        "Constitution Day (Ukraine)"
+      ],
+      "script": "On the twenty-eighth of June in 1389, on the Field of Blackbirds in Kosovo, the Serbian army fought the Ottoman Turks in a battle that Serbs remember to this day.\n\nFive hundred and twenty-five years later, on the very same day in 1914, in Sarajevo, the car carrying Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, took a wrong turn. A young Bosnian Serb named Gavrilo Princip stepped forward and fired two shots. Within weeks, the whole of Europe was at war.\n\nExactly five years after that, on the twenty-eighth of June in 1919, in the Hall of Mirrors at Versailles, the peace treaty ending that war was signed.\n\nIn 1838, Queen Victoria was crowned in Westminster Abbey.\n\nIn 1846, a Belgian instrument maker named Adolphe Sax received a patent for his new instrument: the saxophone.\n\nAnd in 1969, police raided the Stonewall Inn, a gay bar in New York. The patrons fought back, and the modern movement for gay rights was born.",
+      "events": [
+        {
+          "year": 1389,
+          "text": "Serbia fights the Ottomans at the Battle of Kosovo.",
+          "category": "conflict",
+          "wiki": "Battle_of_Kosovo"
+        },
+        {
+          "year": 1838,
+          "text": "Queen Victoria is crowned.",
+          "category": "news",
+          "wiki": "Coronation_of_Queen_Victoria"
+        },
+        {
+          "year": 1846,
+          "text": "Adolphe Sax patents the saxophone.",
+          "category": "science",
+          "wiki": "Saxophone"
+        },
+        {
+          "year": 1859,
+          "text": "The first dog show is held, in Newcastle upon Tyne.",
+          "category": "news",
+          "wiki": "Conformation_show"
+        },
+        {
+          "year": 1880,
+          "text": "Bushranger Ned Kelly is captured at Glenrowan.",
+          "category": "news",
+          "wiki": "Ned_Kelly"
+        },
+        {
+          "year": 1894,
+          "text": "Labor Day becomes a U.S. federal holiday.",
+          "category": "news",
+          "wiki": "Labor_Day"
+        },
+        {
+          "year": 1911,
+          "text": "The Nakhla meteorite, a piece of Mars, falls in Egypt.",
+          "category": "science",
+          "wiki": "Nakhla_meteorite"
+        },
+        {
+          "year": 1914,
+          "text": "Archduke Franz Ferdinand is assassinated in Sarajevo.",
+          "category": "conflict",
+          "wiki": "Assassination_of_Archduke_Franz_Ferdinand"
+        },
+        {
+          "year": 1919,
+          "text": "The Treaty of Versailles is signed.",
+          "category": "conflict",
+          "wiki": "Treaty_of_Versailles"
+        },
+        {
+          "year": 1969,
+          "text": "The Stonewall riots begin in New York.",
+          "category": "conflict",
+          "wiki": "Stonewall_riots"
+        },
+        {
+          "year": 1996,
+          "text": "Ukraine adopts its constitution.",
+          "category": "conflict",
+          "wiki": "Constitution_of_Ukraine"
+        },
+        {
+          "year": 1997,
+          "text": "Mike Tyson bites Evander Holyfield's ear in a title fight.",
+          "category": "news",
+          "wiki": "Evander_Holyfield_vs._Mike_Tyson_II"
+        }
+      ],
+      "births": [
+        {
+          "year": 1491,
+          "text": "Henry VIII, King of England",
+          "wiki": "Henry_VIII"
+        },
+        {
+          "year": 1577,
+          "text": "Peter Paul Rubens, Flemish painter",
+          "wiki": "Peter_Paul_Rubens"
+        },
+        {
+          "year": 1712,
+          "text": "Jean-Jacques Rousseau, Genevan philosopher",
+          "wiki": "Jean-Jacques_Rousseau"
+        },
+        {
+          "year": 1921,
+          "text": "P. V. Narasimha Rao, Prime Minister of India",
+          "wiki": "P._V._Narasimha_Rao"
+        },
+        {
+          "year": 1971,
+          "text": "Elon Musk, South African-born entrepreneur",
+          "wiki": "Elon_Musk"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "The Treaty of Versailles was signed exactly five years after Franz Ferdinand was shot.",
+          "wiki": "Treaty_of_Versailles"
+        },
+        {
+          "text": "The Nakhla meteorite, which fell in Egypt in 1911, came from Mars.",
+          "wiki": "Nakhla_meteorite"
+        }
+      ]
+    },
+    "06-29": {
+      "names": [
+        "National Statistics Day (India)",
+        "Feast of Saints Peter and Paul",
+        "Independence Day (Seychelles)"
+      ],
+      "script": "On the twenty-ninth of June in 1613, during a performance of Shakespeare's Henry the Eighth at the Globe Theatre in London, a stage cannon was fired. A spark landed in the thatched roof, and within an hour the whole theatre had burned to the ground. The only injury, it is said, was a man whose trousers caught fire, put out with a bottle of ale.\n\nIn 1888, at the Crystal Palace in London, a phonograph recorded a choir of four thousand singing Handel's music, one of the oldest recordings of music that still survives.\n\nIn 1893, in Calcutta, Prasanta Chandra Mahalanobis was born. He founded the Indian Statistical Institute, and India celebrates National Statistics Day on his birthday.\n\nIn 1927, two army pilots landed in Honolulu after flying all the way from California, the first flight to Hawaii.\n\nIn 1995, the Space Shuttle Atlantis docked with the Russian space station Mir, a handshake in orbit between two old rivals.\n\nAnd in 2007, crowds queued outside shops across America for a new phone with no keyboard, only a touchscreen. The iPhone had arrived.",
+      "events": [
+        {
+          "year": 1613,
+          "text": "The Globe Theatre burns down during a performance.",
+          "category": "news",
+          "wiki": "Globe_Theatre"
+        },
+        {
+          "year": 1880,
+          "text": "France annexes Tahiti.",
+          "category": "conflict",
+          "wiki": "Tahiti"
+        },
+        {
+          "year": 1888,
+          "text": "A recording of Handel's music at the Crystal Palace becomes one of the oldest surviving music recordings.",
+          "category": "news",
+          "wiki": "Handel_Festival"
+        },
+        {
+          "year": 1927,
+          "text": "Army pilots make the first flight from California to Hawaii.",
+          "category": "science",
+          "wiki": "Bird_of_Paradise_(aircraft)"
+        },
+        {
+          "year": 1956,
+          "text": "President Eisenhower signs the act creating the Interstate Highway System.",
+          "category": "news",
+          "wiki": "Federal-Aid_Highway_Act_of_1956"
+        },
+        {
+          "year": 1972,
+          "text": "The U.S. Supreme Court suspends the death penalty in Furman v. Georgia.",
+          "category": "conflict",
+          "wiki": "Furman_v._Georgia"
+        },
+        {
+          "year": 1975,
+          "text": "Steve Wozniak first tests the prototype of the Apple I computer.",
+          "category": "science",
+          "wiki": "Apple_I"
+        },
+        {
+          "year": 1976,
+          "text": "Seychelles becomes independent.",
+          "category": "conflict",
+          "wiki": "Seychelles"
+        },
+        {
+          "year": 1995,
+          "text": "Space Shuttle Atlantis docks with the Mir space station.",
+          "category": "science",
+          "wiki": "STS-71"
+        },
+        {
+          "year": 2007,
+          "text": "The first iPhone goes on sale.",
+          "category": "news",
+          "wiki": "IPhone_(1st_generation)"
+        }
+      ],
+      "births": [
+        {
+          "year": 1798,
+          "text": "Giacomo Leopardi, Italian poet",
+          "wiki": "Giacomo_Leopardi"
+        },
+        {
+          "year": 1868,
+          "text": "George Ellery Hale, American astronomer",
+          "wiki": "George_Ellery_Hale"
+        },
+        {
+          "year": 1893,
+          "text": "P. C. Mahalanobis, Indian statistician",
+          "wiki": "P._C._Mahalanobis"
+        },
+        {
+          "year": 1900,
+          "text": "Antoine de Saint-Exupéry, French author (The Little Prince)",
+          "wiki": "Antoine_de_Saint-Exupéry"
+        },
+        {
+          "year": 1911,
+          "text": "Bernard Herrmann, American film composer",
+          "wiki": "Bernard_Herrmann"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "India's National Statistics Day honours P. C. Mahalanobis, born on this day.",
+          "wiki": "Prasanta_Chandra_Mahalanobis"
+        },
+        {
+          "text": "When the Globe burned down, the only injury was a man whose breeches caught fire, put out with a bottle of ale.",
+          "wiki": "Globe_Theatre"
+        }
+      ]
+    },
+    "06-30": {
+      "names": [
+        "Asteroid Day",
+        "Independence Day (DR Congo)",
+        "Hul Diwas (Santhal Rebellion Day)"
+      ],
+      "script": "Early on the morning of the thirtieth of June in 1908, above the remote forests of Siberia near the Tunguska River, a giant fireball exploded in the air. It flattened some eighty million trees over two thousand square kilometres. Nobody was there to see it up close. It was most likely a small asteroid or comet, and today the world marks Asteroid Day in its memory.\n\nIn 1855, in the Santhal Parganas of eastern India, the brothers Sidhu and Kanhu Murmu led thousands of Santhals in a rebellion against British rule and moneylenders. They remember it as Hul Diwas.\n\nIn 1859, a French acrobat named Charles Blondin walked across Niagara Falls on a tightrope, while thousands held their breath. Later, he did it blindfolded, on stilts, and carrying his manager on his back.\n\nIn 1905, Albert Einstein sent off a paper with a modest title: On the Electrodynamics of Moving Bodies. It contained his special theory of relativity.\n\nIn 1960, the Belgian Congo became independent.\n\nAnd in 1997, at midnight, Britain handed Hong Kong back to China, as the Union flag was lowered for the last time.",
+      "events": [
+        {
+          "year": 1855,
+          "text": "The Santhal rebellion begins in eastern India.",
+          "category": "conflict",
+          "wiki": "Santal_rebellion"
+        },
+        {
+          "year": 1859,
+          "text": "Charles Blondin crosses Niagara Falls on a tightrope.",
+          "category": "news",
+          "wiki": "Charles_Blondin"
+        },
+        {
+          "year": 1894,
+          "text": "Tower Bridge opens in London.",
+          "category": "news",
+          "wiki": "Tower_Bridge"
+        },
+        {
+          "year": 1905,
+          "text": "Albert Einstein submits his paper on special relativity.",
+          "category": "science",
+          "wiki": "Annus_mirabilis_papers"
+        },
+        {
+          "year": 1906,
+          "text": "The Pure Food and Drug Act is signed in the United States.",
+          "category": "news",
+          "wiki": "Pure_Food_and_Drug_Act"
+        },
+        {
+          "year": 1908,
+          "text": "The Tunguska event flattens a vast area of Siberian forest.",
+          "category": "science",
+          "wiki": "Tunguska_event"
+        },
+        {
+          "year": 1934,
+          "text": "Hitler purges his rivals in the Night of the Long Knives.",
+          "category": "conflict",
+          "wiki": "Night_of_the_Long_Knives"
+        },
+        {
+          "year": 1936,
+          "text": "Gone with the Wind is published.",
+          "category": "news",
+          "wiki": "Gone_with_the_Wind_(novel)"
+        },
+        {
+          "year": 1948,
+          "text": "Bell Labs announces the invention of the transistor to the public.",
+          "category": "science",
+          "wiki": "Transistor"
+        },
+        {
+          "year": 1953,
+          "text": "The first Chevrolet Corvette is built.",
+          "category": "news",
+          "wiki": "Chevrolet_Corvette"
+        },
+        {
+          "year": 1960,
+          "text": "The Democratic Republic of the Congo becomes independent.",
+          "category": "conflict",
+          "wiki": "Democratic_Republic_of_the_Congo"
+        },
+        {
+          "year": 1971,
+          "text": "The Soyuz 11 crew die during their return from the first space station.",
+          "category": "science",
+          "wiki": "Soyuz_11"
+        },
+        {
+          "year": 1997,
+          "text": "Britain hands Hong Kong back to China.",
+          "category": "conflict",
+          "wiki": "Handover_of_Hong_Kong"
+        }
+      ],
+      "births": [
+        {
+          "year": 1911,
+          "text": "Czesław Miłosz, Polish Nobel-winning poet",
+          "wiki": "Czesław_Miłosz"
+        },
+        {
+          "year": 1917,
+          "text": "Lena Horne, American singer",
+          "wiki": "Lena_Horne"
+        },
+        {
+          "year": 1926,
+          "text": "Paul Berg, American Nobel-winning biochemist",
+          "wiki": "Paul_Berg"
+        },
+        {
+          "year": 1966,
+          "text": "Mike Tyson, American boxer",
+          "wiki": "Mike_Tyson"
+        },
+        {
+          "year": 1985,
+          "text": "Michael Phelps, American swimmer",
+          "wiki": "Michael_Phelps"
+        }
+      ],
+      "deaths": [],
+      "facts": [
+        {
+          "text": "Asteroid Day marks the Tunguska blast of 1908, which flattened about 80 million trees.",
+          "wiki": "Asteroid_Day"
+        },
+        {
+          "text": "Charles Blondin later crossed Niagara blindfolded, on stilts, and carrying his manager on his back.",
+          "wiki": "Charles_Blondin"
+        }
+      ]
+    }
+  }
+}
